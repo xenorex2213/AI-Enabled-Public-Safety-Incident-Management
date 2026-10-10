@@ -4,6 +4,10 @@ import com.civicshield.incident.model.Incident;
 import com.civicshield.incident.repository.IncidentRepository;
 import org.springframework.stereotype.Service;
 
+import com.civicshield.incident.specification.IncidentSpecifications;
+import org.springframework.data.jpa.domain.Specification;
+import java.time.LocalDateTime;
+
 import java.util.List;
 
 @Service
@@ -32,6 +36,19 @@ public class IncidentService {
                 .orElseThrow(() ->
                         new RuntimeException("Incident not found with id: " + id));
     }
+    public List<Incident> getIncidentsByTimeWindow(int hours) {
+    if (hours <= 0) {
+        throw new IllegalArgumentException("Hours must be positive");
+    }
+
+    LocalDateTime now = LocalDateTime.now();
+    LocalDateTime from = now.minusHours(hours);
+
+    return incidentRepository.findAll(
+            IncidentSpecifications.fromDate(from)
+                    .and(IncidentSpecifications.toDate(now))
+    );
+}
 
     public Incident updateIncident(Long id, Incident updatedIncident) {
         Incident existing = getIncidentById(id);
@@ -45,5 +62,26 @@ public class IncidentService {
         existing.setStatus(updatedIncident.getStatus());
 
         return incidentRepository.save(existing);
+    }
+
+    public List<Incident> searchIncidents(
+            String type,
+            String location,
+            String severity,
+            String status,
+            String q,
+            LocalDateTime from,
+            LocalDateTime to) {
+
+        Specification<Incident> spec =
+                Specification.where(IncidentSpecifications.hasType(type))
+                        .and(IncidentSpecifications.hasLocation(location))
+                        .and(IncidentSpecifications.hasSeverity(severity))
+                        .and(IncidentSpecifications.hasStatus(status))
+                        .and(IncidentSpecifications.matchesText(q))
+                        .and(IncidentSpecifications.fromDate(from))
+                        .and(IncidentSpecifications.toDate(to));
+
+        return incidentRepository.findAll(spec);
     }
 }
