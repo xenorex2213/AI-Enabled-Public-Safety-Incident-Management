@@ -1,4 +1,4 @@
-
+import re
 from typing import Any, Dict, List, Union
 
 import joblib
@@ -35,10 +35,13 @@ class IncidentClassifier:
         return out
 
     def _extract_signals(self, text: str) -> Dict[str, bool]:
-        text_lower = text.lower()
+        # Word-boundary matching so "gunfire" is not read as a fire and "firearm" is a weapon only.
+        def has(pattern: str) -> bool:
+            return re.search(pattern, text, re.IGNORECASE) is not None
+
         return {
-            "has_injuries": any(word in text_lower for word in ["injur", "blood", "bleed", "hurt", "casualty", "paramedic", "ambulance", "unconscious", "cpr", "fatal"]),
-            "has_weapons": any(word in text_lower for word in ["gun", "shoot", "shot", "knife", "stab", "weapon", "armed", "rifle", "pistol", "firearm"]),
-            "has_fire": any(word in text_lower for word in ["fire", "smoke", "flame", "burn", "blaze", "arson"]),
-            "road_blocked": any(word in text_lower for word in ["block", "traffic", "crash", "collision", "pileup", "closed", "accident"])
+            "has_injuries": has(r"\b(injur|blood|bleed|hurt|casualt|paramedic|ambulance|unconscious|cpr|fatal)"),
+            "has_weapons": has(r"\b(gun|shoot|shot|knife|knives|stab|weapon|armed|rifle|pistol|firearm)"),
+            "has_fire": has(r"\b(fire|fires|smoke|flame|flames|burn|burning|blaze|arson)\b"),
+            "road_blocked": has(r"\b(block|traffic|crash|collision|pile-?up|closed|accident)"),
         }
