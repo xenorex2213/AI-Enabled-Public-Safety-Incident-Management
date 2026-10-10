@@ -1,0 +1,352 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Public Safety Incident Management System</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header class="app-header">
+        <div class="header-container">
+            <div class="logo-area">
+                <div class="badge-icon"></div>
+                <div>
+                    <h1>Public Safety Incident Management System</h1>
+                    <p class="subtitle">Distributed Microservice Architecture (Spring Boot 8081 &amp; 8082)</p>
+                </div>
+            </div>
+            <div class="system-status">
+                <div class="status-indicator">
+                    <span class="status-dot" id="statusIncidentDot"></span>
+                    <span>Incident Service (8081)</span>
+                </div>
+                <div class="status-indicator">
+                    <span class="status-dot" id="statusAnalysisDot"></span>
+                    <span>Analysis Service (8082)</span>
+                </div>
+                <button class="btn btn-outline" id="btnRefreshAll" title="Refresh all data">Refresh</button>
+                <button class="btn btn-secondary" id="btnViewPersonnel">Emergency Roster</button>
+            </div>
+        </div>
+    </header>
+
+    <main class="main-container">
+        <section class="kpi-grid">
+            <div class="kpi-card">
+                <div class="kpi-icon icon-total"></div>
+                <div class="kpi-info">
+                    <span class="kpi-label">Total Incidents</span>
+                    <h2 class="kpi-value" id="kpiTotal">0</h2>
+                    <span class="kpi-sub" id="kpiDataBreakdown">0 live, 0 simulated</span>
+                </div>
+            </div>
+            <div class="kpi-card">
+                <div class="kpi-icon icon-p1"></div>
+                <div class="kpi-info">
+                    <span class="kpi-label">P1 Critical Emergencies</span>
+                    <h2 class="kpi-value text-danger" id="kpiP1">0</h2>
+                    <span class="kpi-sub">Immediate Tier-1 response</span>
+                </div>
+            </div>
+            <div class="kpi-card">
+                <div class="kpi-icon icon-injury"></div>
+                <div class="kpi-info">
+                    <span class="kpi-label">Casualties / Injuries</span>
+                    <h2 class="kpi-value text-warning" id="kpiInjuries">0</h2>
+                    <span class="kpi-sub">EMS Medical priority flagged</span>
+                </div>
+            </div>
+            <div class="kpi-card">
+                <div class="kpi-icon icon-traffic"></div>
+                <div class="kpi-info">
+                    <span class="kpi-label">Roadways Blocked</span>
+                    <h2 class="kpi-value text-info" id="kpiTraffic">0</h2>
+                    <span class="kpi-sub">Traffic safety dispatch active</span>
+                </div>
+            </div>
+        </section>
+
+        <div class="content-split">
+            <section class="card form-card">
+                <div class="card-header">
+                    <h2>Incident Registration</h2>
+                    <span class="badge badge-info">Port 8081 POST</span>
+                </div>
+                <div class="card-body">
+                    <form id="incidentForm">
+                        <div class="form-row">
+                            <div class="form-group flex-1">
+                                <label for="incidentType">Incident Type *</label>
+                                <select id="incidentType" required>
+                                    <option value="">-- Select Incident Type --</option>
+                                    <option value="Fire">Fire / Explosion</option>
+                                    <option value="Medical Emergency">Medical Emergency</option>
+                                    <option value="Traffic Accident">Traffic Accident</option>
+                                    <option value="Armed Robbery">Armed Robbery / Assault</option>
+                                    <option value="Hazardous Spill">Hazardous Material Spill</option>
+                                    <option value="Theft">Theft / Burglary</option>
+                                    <option value="Vandalism">Vandalism / Property Damage</option>
+                                    <option value="Noise Complaint">Noise Disturbance</option>
+                                    <option value="Suspicious Activity">Suspicious Activity</option>
+                                </select>
+                            </div>
+                            <div class="form-group flex-1">
+                                <label for="location">Location *</label>
+                                <input type="text" id="location" placeholder="e.g. Downtown Metro, Highway 101" required>
+                            </div>
+                        </div>
+
+                        <div class="form-row">
+                            <div class="form-group flex-1">
+                                <label for="dateTime">Date &amp; Time *</label>
+                                <input type="datetime-local" id="dateTime" required>
+                            </div>
+                            <div class="form-group flex-1">
+                                <label for="reportedSeverity">Reported Severity *</label>
+                                <select id="reportedSeverity" required>
+                                    <option value="LOW">LOW</option>
+                                    <option value="MEDIUM" selected>MEDIUM</option>
+                                    <option value="HIGH">HIGH</option>
+                                    <option value="CRITICAL">CRITICAL</option>
+                                </select>
+                            </div>
+                        </div>
+
+                        <div class="form-row toggles-row">
+                            <div class="toggle-group">
+                                <label class="checkbox-label">
+                                    <input type="checkbox" id="injuryReported">
+                                    <span class="checkbox-custom"></span>
+                                    <span><strong>Injury Reported?</strong> (+25 pts priority)</span>
+                                </label>
+                            </div>
+                            <div class="toggle-group">
+                                <label class="checkbox-label">
+                                    <input type="checkbox" id="trafficBlocked">
+                                    <span class="checkbox-custom"></span>
+                                    <span><strong>Traffic Blocked?</strong> (+15 pts priority)</span>
+                                </label>
+                            </div>
+                        </div>
+
+                        <div class="form-group">
+                            <label for="description">Incident Description</label>
+                            <textarea id="description" rows="3" placeholder="Provide details regarding the scene, victims, hazards, or immediate risks..."></textarea>
+                        </div>
+
+                        <div class="form-row">
+                            <div class="form-group flex-1">
+                                <label for="status">Initial Status</label>
+                                <select id="status">
+                                    <option value="NEW" selected>NEW</option>
+                                    <option value="IN_PROGRESS">IN_PROGRESS</option>
+                                    <option value="RESOLVED">RESOLVED</option>
+                                </select>
+                            </div>
+                            <div class="form-group flex-1 button-align">
+                                <button type="submit" class="btn btn-primary btn-block" id="btnSubmitIncident">
+                                    Register &amp; Evaluate Incident
+                                </button>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </section>
+
+            <section class="card analysis-card" id="analysisCard">
+                <div class="card-header">
+                    <h2>Evaluation &amp; Prioritization</h2>
+                    <span class="badge badge-accent">Calculated via Microservice 8082</span>
+                </div>
+                <div class="card-body">
+                    <div id="analysisEmptyState" class="empty-state">
+                        <div class="empty-icon"></div>
+                        <p>Submit an incident on the left to see the live evaluation generated by the Analysis Service.</p>
+                        <small class="text-muted">The system evaluates reported severity, injury status, obstruction, and type using transparent Java rules.</small>
+                    </div>
+
+                    <div id="analysisResultContent" style="display: none;">
+                        <div class="priority-banner" id="priorityBanner">
+                            <div>
+                                <span class="priority-title" id="resPriority">P1 - CRITICAL</span>
+                                <span class="classification-text" id="resClassification">Life Hazard / Structural Threat</span>
+                            </div>
+                            <div class="priority-score-badge">
+                                <span class="score-num" id="resScore">95</span>
+                                <span class="score-label">Priority Score / 100</span>
+                            </div>
+                        </div>
+
+                        <div class="analysis-section">
+                            <h4>Recommended Response Action:</h4>
+                            <p class="action-box" id="resAction"></p>
+                        </div>
+
+                        <div class="analysis-section">
+                            <h4> Why was this priority assigned? (Influencing Factors):</h4>
+                            <ul class="factors-list" id="resFactorsList"></ul>
+                        </div>
+
+                        <div class="analysis-section">
+                            <h4>Recommended Emergency Personnel:</h4>
+                            <div class="personnel-tags" id="resPersonnelTags"></div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </div>
+
+        <section class="card table-card">
+            <div class="card-header flex-between">
+                <div>
+                    <h2>Incident Records &amp; Queue</h2>
+                    <p class="section-desc">View and search all persisted incidents in the H2 Database</p>
+                </div>
+                <div class="table-actions">
+                    <span class="count-badge" id="tableCountBadge">Showing 0 incidents</span>
+                </div>
+            </div>
+
+            <div class="filter-bar">
+                <div class="filter-item flex-2">
+                    <label for="searchLocation">Search Location</label>
+                    <input type="text" id="searchLocation" placeholder="Filter by location (e.g. Downtown, Highway)...">
+                </div>
+                <div class="filter-item flex-1">
+                    <label for="filterType">Incident Type</label>
+                    <select id="filterType">
+                        <option value="">All Types</option>
+                        <option value="Fire">Fire</option>
+                        <option value="Medical Emergency">Medical Emergency</option>
+                        <option value="Traffic Accident">Traffic Accident</option>
+                        <option value="Armed Robbery">Armed Robbery</option>
+                        <option value="Hazardous Spill">Hazardous Spill</option>
+                        <option value="Theft">Theft</option>
+                        <option value="Vandalism">Vandalism</option>
+                        <option value="Noise Complaint">Noise Complaint</option>
+                        <option value="Suspicious Activity">Suspicious Activity</option>
+                    </select>
+                </div>
+                <div class="filter-item flex-1">
+                    <label for="filterPriority">Priority</label>
+                    <select id="filterPriority">
+                        <option value="">All Priorities</option>
+                        <option value="P1">P1 - CRITICAL</option>
+                        <option value="P2">P2 - HIGH</option>
+                        <option value="P3">P3 - MEDIUM</option>
+                        <option value="P4">P4 - LOW</option>
+                    </select>
+                </div>
+                <div class="filter-item filter-btn">
+                    <button class="btn btn-secondary" id="btnResetFilters">Clear Filters</button>
+                </div>
+            </div>
+
+            <div class="table-responsive">
+                <table class="incident-table" id="incidentTable">
+                    <thead>
+                        <tr>
+                            <th>ID</th>
+                            <th>Date &amp; Time</th>
+                            <th>Type</th>
+                            <th>Location</th>
+                            <th>Reported Severity</th>
+                            <th>Recommended Priority</th>
+                            <th>Score</th>
+                            <th>Status</th>
+                            <th>Source</th>
+                            <th>Actions</th>
+                        </tr>
+                    </thead>
+                    <tbody id="incidentTableBody">
+                        <tr>
+                            <td colspan="10" class="text-center py-4">Loading incident records...</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </section>
+
+        <section class="card stats-card">
+            <div class="card-header flex-between">
+                <div>
+                    <h2>Historical Pattern Analysis</h2>
+                    <p class="section-desc" id="statsSourceBadge">
+                        Data Source: Simulated Historical Dataset (Hackathon Demonstration)
+                    </p>
+                </div>
+            </div>
+            <div class="card-body">
+                <div class="stats-grid">
+                    <div class="stat-box">
+                        <h3>Incidents by Category</h3>
+                        <div class="bar-chart-container" id="chartCategory"></div>
+                    </div>
+
+                    <div class="stat-box">
+                        <h3>Incidents by Priority</h3>
+                        <div class="bar-chart-container" id="chartPriority"></div>
+                    </div>
+
+                    <div class="stat-box">
+                        <h3>Top Hotspots (Frequently Reported)</h3>
+                        <div class="hotspots-list" id="hotspotsList"></div>
+                    </div>
+
+                    <div class="stat-box">
+                        <h3>Time-of-Day Distribution</h3>
+                        <div class="bar-chart-container" id="chartTime"></div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <div class="modal" id="detailModal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h3 id="modalTitle">Incident Details</h3>
+                <button class="modal-close" id="btnModalClose">&times;</button>
+            </div>
+            <div class="modal-body" id="modalBody">
+            </div>
+        </div>
+    </div>
+
+    <div class="modal" id="personnelModal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h3>Emergency Response Personnel Directory</h3>
+                <button class="modal-close" id="btnPersonnelModalClose">&times;</button>
+            </div>
+            <div class="modal-body">
+                <p class="text-muted mb-3">Simulated availability roster queried from Analysis Service (Port 8082):</p>
+                <div class="table-responsive">
+                    <table class="incident-table">
+                        <thead>
+                            <tr>
+                                <th>Unit ID</th>
+                                <th>Name</th>
+                                <th>Role</th>
+                                <th>Department</th>
+                                <th>Status</th>
+                                <th>Contact</th>
+                            </tr>
+                        </thead>
+                        <tbody id="personnelTableBody">
+                            <tr><td colspan="6" class="text-center">Loading personnel...</td></tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <footer class="app-footer">
+        <p>Public Safety Incident Management System &bull; Hackathon Proof of Concept</p>
+    </footer>
+
+    <script src="app.js"></script>
+</body>
+</html>
