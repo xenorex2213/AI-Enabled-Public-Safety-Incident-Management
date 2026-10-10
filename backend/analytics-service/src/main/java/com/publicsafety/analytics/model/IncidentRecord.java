@@ -4,11 +4,10 @@ package com.publicsafety.analytics.model;
 import java.time.LocalDateTime;
 
 public record IncidentRecord(
-        String incidentId,
-        LocalDateTime timestamp,
+        Long id,
+        String type,
         String location,
-        String category,
-        String priority,
-        String description
-) {}
-
+        LocalDateTime reportedAt,
+        String severity
+) {
+}

@@ -21,15 +21,6 @@ public class AnalyticsController {
         this.analyticsService = analyticsService;
     }
 
-    @GetMapping("/summary")
-    public Map<String, Object> summary() {
-        return Map.of(
-            "totalIncidents", analyticsService.getIncidentCount(),
-            "categories", analyticsService.getCategoryCounts(),
-            "priorities", analyticsService.getPriorityCounts()
-        );
-    }
-
     @GetMapping("/categories")
     public Map<String, Long> categories() {
         return analyticsService.getCategoryCounts();
@@ -43,11 +34,6 @@ public class AnalyticsController {
     @GetMapping("/trends")
     public Map<LocalDate, Long> trends() {
         return analyticsService.getDailyCounts();
-    }
-
-    @GetMapping("/hours")
-    public Map<Integer, Long> hours() {
-        return analyticsService.getHourlyCounts();
     }
 
     @GetMapping("/incidents")
