@@ -1,6 +1,8 @@
 
 package com.publicsafety.analytics.service;
 
+import com.publicsafety.analytics.client.NlpClient;
+import com.publicsafety.analytics.client.NlpPrediction;
 import com.publicsafety.analytics.model.AnalysisRequest;
 import com.publicsafety.analytics.model.AnalysisResponse;
 import org.springframework.stereotype.Service;
@@ -15,14 +17,29 @@ import java.util.Map;
 public class DecisionSupportService {
 
     private final AnalyticsService analyticsService;
+    private final NlpClient nlpClient;
 
-    public DecisionSupportService(AnalyticsService analyticsService) {
+    public DecisionSupportService(
+            AnalyticsService analyticsService,
+            NlpClient nlpClient) {
         this.analyticsService = analyticsService;
+        this.nlpClient = nlpClient;
     }
 
     public AnalysisResponse evaluate(AnalysisRequest request) {
-        String description = request.description().toLowerCase(Locale.ROOT);
+        String description =
+                request.description().toLowerCase(Locale.ROOT);
         String incidentType = request.incidentType().trim();
+
+        // NLP is supplementary. Existing rule-based assessment remains
+        // available even when the Python service cannot be reached.
+        NlpPrediction nlpPrediction = null;
+
+        try {
+            nlpPrediction = nlpClient.classify(request.description());
+        } catch (RuntimeException ex) {
+            // Continue with the existing rule-based assessment.
+        }
 
         Map<String, Boolean> signals = detectSignals(description);
         List<String> factors = new ArrayList<>();
@@ -30,7 +47,7 @@ public class DecisionSupportService {
         int score = severityBaseline(request.reportedSeverity());
 
         factors.add(
-            "Reported severity: " + request.reportedSeverity().trim()
+                "Reported severity: " + request.reportedSeverity().trim()
         );
 
         if (signals.get("injuryReported")) {
@@ -60,25 +77,26 @@ public class DecisionSupportService {
         String rationale = buildRationale(priority, score, factors);
 
         Map<String, Object> historicalEvidence =
-            buildHistoricalEvidence(incidentType, priority);
+                buildHistoricalEvidence(incidentType, priority);
 
         List<AnalysisResponse.ResourceRecommendation> resources =
-            recommendResources(signals, priority);
+                recommendResources(signals, priority);
 
         List<String> personnel =
-            recommendPersonnel(signals, priority);
+                recommendPersonnel(signals, priority);
 
         return new AnalysisResponse(
-            incidentType,
-            priority,
-            score,
-            List.copyOf(factors),
-            rationale,
-            action,
-            Map.copyOf(signals),
-            Map.copyOf(historicalEvidence),
-            List.copyOf(resources),
-            List.copyOf(personnel)
+                incidentType,
+                priority,
+                score,
+                List.copyOf(factors),
+                rationale,
+                action,
+                Map.copyOf(signals),
+                Map.copyOf(historicalEvidence),
+                List.copyOf(resources),
+                List.copyOf(personnel),
+                nlpPrediction
         );
     }
 
@@ -89,7 +107,7 @@ public class DecisionSupportService {
             case "MEDIUM", "MODERATE" -> 45;
             case "LOW" -> 20;
             default -> throw new IllegalArgumentException(
-                "Unsupported reported severity. Use LOW, MEDIUM, HIGH, or CRITICAL."
+                    "Unsupported reported severity. Use LOW, MEDIUM, HIGH, or CRITICAL."
             );
         };
     }
@@ -98,44 +116,41 @@ public class DecisionSupportService {
         Map<String, Boolean> signals = new LinkedHashMap<>();
 
         signals.put(
-            "injuryReported",
-            containsAny(description,
-                "injury", "injured", "bleeding", "unconscious",
-                "wounded", "hurt", "casualty")
+                "injuryReported",
+                containsAny(description,
+                        "injury", "injured", "bleeding", "unconscious",
+                        "wounded", "hurt", "casualty")
         );
 
         signals.put(
-            "threatReported",
-            containsAny(description,
-                "weapon", "armed", "gun", "knife", "attack",
-                "threat", "assault", "violence", "hostage")
+                "threatReported",
+                containsAny(description,
+                        "weapon", "armed", "gun", "knife", "attack",
+                        "threat", "assault", "violence", "hostage")
         );
 
         signals.put(
-            "fireReported",
-            containsAny(description,
-                "fire", "smoke", "burning", "flames", "explosion")
+                "fireReported",
+                containsAny(description,
+                        "fire", "smoke", "burning", "flames", "explosion")
         );
 
-        
-signals.put(
-    "trafficBlocked",
-    containsAny(description,
-        "traffic blocked",
-        "traffic is blocked",
-        "traffic is completely blocked",
-        "road blocked",
-        "road is blocked",
-        "road is completely blocked",
-        "roadblock",
-        "traffic jam",
-        "road obstruction",
-        "blocked road",
-        "blocked traffic",
-        "traffic cannot move"
-    )
-);
-
+        signals.put(
+                "trafficBlocked",
+                containsAny(description,
+                        "traffic blocked",
+                        "traffic is blocked",
+                        "traffic is completely blocked",
+                        "road blocked",
+                        "road is blocked",
+                        "road is completely blocked",
+                        "roadblock",
+                        "traffic jam",
+                        "road obstruction",
+                        "blocked road",
+                        "blocked traffic",
+                        "traffic cannot move")
+        );
 
         return signals;
     }
@@ -163,124 +178,124 @@ signals.put(
     }
 
     private String determineAction(
-        String priority,
-        Map<String, Boolean> signals
-    ) {
+            String priority,
+            Map<String, Boolean> signals) {
+
         if (signals.get("fireReported")) {
             return "Recommend prompt assessment by the appropriate emergency "
-                + "response service. Keep people away from the reported hazard "
-                + "and follow official emergency instructions.";
+                    + "response service. Keep people away from the reported hazard "
+                    + "and follow official emergency instructions.";
         }
 
         if (signals.get("threatReported")) {
             return "Recommend prompt assessment by appropriate emergency "
-                + "services. Avoid approaching the reported threat and follow "
-                + "official safety instructions.";
+                    + "services. Avoid approaching the reported threat and follow "
+                    + "official safety instructions.";
         }
 
         if (signals.get("injuryReported")) {
             return "Recommend medical assessment by qualified responders. "
-                + "Contact local emergency services if the situation is urgent.";
+                    + "Contact local emergency services if the situation is urgent.";
         }
 
         if (priority.equals("P1 - CRITICAL")) {
             return "Recommend immediate review by an authorised incident "
-                + "coordinator and appropriate emergency services.";
+                    + "coordinator and appropriate emergency services.";
         }
 
         if (priority.equals("P2 - HIGH")) {
             return "Recommend prompt review by the incident coordination team "
-                + "and assessment of the need for emergency response.";
+                    + "and assessment of the need for emergency response.";
         }
 
         if (priority.equals("P3 - MEDIUM")) {
             return "Recommend timely review and assignment to the appropriate "
-                + "response team.";
+                    + "response team.";
         }
 
         return "Recommend routine review and routing to the appropriate "
-            + "responsible team.";
+                + "responsible team.";
     }
 
     private String buildRationale(
-        String priority,
-        int score,
-        List<String> factors
-    ) {
+            String priority,
+            int score,
+            List<String> factors) {
+
         return "Rule-based assessment produced " + priority
-            + " with a score of " + score + "/100. "
-            + "Contributing factors: " + String.join("; ", factors)
-            + ". This is an advisory assessment, not an automated dispatch.";
+                + " with a score of " + score + "/100. "
+                + "Contributing factors: " + String.join("; ", factors)
+                + ". This is an advisory assessment, not an automated dispatch.";
     }
 
     private Map<String, Object> buildHistoricalEvidence(
-        String incidentType,
-        String priority
-    ) {
+            String incidentType,
+            String priority) {
+
         Map<String, Object> evidence = new LinkedHashMap<>();
 
         evidence.put("source", "Synthetic historical CSV dataset");
         evidence.put("totalHistoricalIncidents",
-            analyticsService.getIncidentCount());
+                analyticsService.getIncidentCount());
         evidence.put("historicalCategoryCounts",
-            analyticsService.getCategoryCounts());
+                analyticsService.getCategoryCounts());
         evidence.put("historicalPriorityCounts",
-            analyticsService.getPriorityCounts());
+                analyticsService.getPriorityCounts());
         evidence.put("requestedIncidentType", incidentType);
         evidence.put("assessedPriority", priority);
         evidence.put("note",
-            "Historical counts are contextual only. They do not establish "
-                + "live conditions, resource availability, or incident causation.");
+                "Historical counts are contextual only. They do not establish "
+                        + "live conditions, resource availability, or incident causation.");
 
         return evidence;
     }
 
     private List<AnalysisResponse.ResourceRecommendation> recommendResources(
-        Map<String, Boolean> signals,
-        String priority
-    ) {
+            Map<String, Boolean> signals,
+            String priority) {
+
         List<AnalysisResponse.ResourceRecommendation> resources =
-            new ArrayList<>();
+                new ArrayList<>();
 
         if (signals.get("injuryReported")) {
             resources.add(new AnalysisResponse.ResourceRecommendation(
-                "Medical response",
-                "A possible injury was mentioned in the incident description."
+                    "Medical response",
+                    "A possible injury was mentioned in the incident description."
             ));
         }
 
         if (signals.get("fireReported")) {
             resources.add(new AnalysisResponse.ResourceRecommendation(
-                "Fire and rescue",
-                "The description contains a possible fire or smoke indicator."
+                    "Fire and rescue",
+                    "The description contains a possible fire or smoke indicator."
             ));
         }
 
         if (signals.get("threatReported")) {
             resources.add(new AnalysisResponse.ResourceRecommendation(
-                "Appropriate emergency response",
-                "A possible threat was detected in the description."
+                    "Appropriate emergency response",
+                    "A possible threat was detected in the description."
             ));
         }
 
         if (signals.get("trafficBlocked")) {
             resources.add(new AnalysisResponse.ResourceRecommendation(
-                "Traffic management",
-                "A road or traffic obstruction was reported."
+                    "Traffic management",
+                    "A road or traffic obstruction was reported."
             ));
         }
 
         if (resources.isEmpty()) {
             resources.add(new AnalysisResponse.ResourceRecommendation(
-                "Incident assessment team",
-                "Initial review is recommended to determine the appropriate response."
+                    "Incident assessment team",
+                    "Initial review is recommended to determine the appropriate response."
             ));
         }
 
         if (priority.equals("P1 - CRITICAL")) {
             resources.add(new AnalysisResponse.ResourceRecommendation(
-                "Incident coordination",
-                "The calculated priority warrants urgent authorised review."
+                    "Incident coordination",
+                    "The calculated priority warrants urgent authorised review."
             ));
         }
 
@@ -288,9 +303,9 @@ signals.put(
     }
 
     private List<String> recommendPersonnel(
-        Map<String, Boolean> signals,
-        String priority
-    ) {
+            Map<String, Boolean> signals,
+            String priority) {
+
         List<String> personnel = new ArrayList<>();
 
         if (signals.get("injuryReported")) {
