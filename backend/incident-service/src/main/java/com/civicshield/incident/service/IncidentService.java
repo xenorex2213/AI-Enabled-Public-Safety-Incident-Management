@@ -7,6 +7,7 @@ import org.springframework.stereotype.Service;
 import com.civicshield.incident.specification.IncidentSpecifications;
 import org.springframework.data.jpa.domain.Specification;
 import java.time.LocalDateTime;
+import com.civicshield.incident.service.IncidentNotFoundException;
 
 import java.util.List;
 
@@ -30,12 +31,12 @@ public class IncidentService {
     public List<Incident> getAllIncidents() {
         return incidentRepository.findAll();
     }
-
+    
     public Incident getIncidentById(Long id) {
         return incidentRepository.findById(id)
-                .orElseThrow(() ->
-                        new RuntimeException("Incident not found with id: " + id));
+                .orElseThrow(() -> new IncidentNotFoundException(id));
     }
+
     public List<Incident> getIncidentsByTimeWindow(int hours) {
     if (hours <= 0) {
         throw new IllegalArgumentException("Hours must be positive");
@@ -61,6 +62,12 @@ public class IncidentService {
         existing.setSeverity(updatedIncident.getSeverity());
         existing.setStatus(updatedIncident.getStatus());
 
+        return incidentRepository.save(existing);
+    }
+
+    public Incident updateIncidentStatus(Long id, String status) {
+        Incident existing = getIncidentById(id);
+        existing.setStatus(status);
         return incidentRepository.save(existing);
     }
 

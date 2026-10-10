@@ -1,3 +1,4 @@
+
 package com.civicshield.incident.controller;
 
 import com.civicshield.incident.model.Incident;
@@ -11,6 +12,7 @@ import org.springframework.web.bind.annotation.*;
 
 import java.time.LocalDateTime;
 import java.util.List;
+import java.util.Map;
 
 @RestController
 @RequestMapping("/api/incidents")
@@ -64,5 +66,14 @@ public class IncidentController {
             @PathVariable Long id,
             @Valid @RequestBody Incident incident) {
         return incidentService.updateIncident(id, incident);
+    }
+
+    @PatchMapping("/{id}/status")
+    public Incident updateIncidentStatus(
+            @PathVariable Long id,
+            @RequestBody Map<String, String> request) {
+
+        return incidentService.updateIncidentStatus(
+                id, request.get("status"));
     }
 }
