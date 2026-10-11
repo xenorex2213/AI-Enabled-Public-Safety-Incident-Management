@@ -9,6 +9,7 @@ import org.springframework.web.bind.MethodArgumentNotValidException;
 import org.springframework.web.bind.annotation.ExceptionHandler;
 import org.springframework.web.bind.annotation.RestControllerAdvice;
 
+
 import org.springframework.http.converter.HttpMessageNotReadableException;
 
 import java.util.Map;
@@ -26,7 +27,6 @@ public class ApiExceptionHandler {
                 .body(Map.of("error", ex.getMessage()));
     }
 
-    // @NotBlank, @Size, and other validation failures
     @ExceptionHandler(MethodArgumentNotValidException.class)
     public ResponseEntity<Map<String, String>> handleValidation(
             MethodArgumentNotValidException ex) {
@@ -42,7 +42,6 @@ public class ApiExceptionHandler {
                 .body(Map.of("error", message));
     }
 
-    // Invalid JSON or an incorrectly formatted request body
     @ExceptionHandler(HttpMessageNotReadableException.class)
     public ResponseEntity<Map<String, String>> handleInvalidJson(
             HttpMessageNotReadableException ex) {
@@ -54,7 +53,6 @@ public class ApiExceptionHandler {
                 ));
     }
 
-    // Invalid query parameters, such as hours <= 0
     @ExceptionHandler(IllegalArgumentException.class)
     public ResponseEntity<Map<String, String>> handleBadRequest(
             IllegalArgumentException ex) {

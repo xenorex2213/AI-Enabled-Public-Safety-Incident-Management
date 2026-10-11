@@ -2,6 +2,8 @@
 package com.civicshield.incident.controller;
 
 import com.civicshield.incident.model.Incident;
+import com.civicshield.incident.dto.IncidentAnalysisResponse;
+import com.civicshield.incident.service.IncidentAnalysisService;
 import com.civicshield.incident.service.IncidentService;
 
 import jakarta.validation.Valid;
@@ -20,9 +22,13 @@ import java.util.Map;
 public class IncidentController {
 
     private final IncidentService incidentService;
+    private final IncidentAnalysisService incidentAnalysisService;
 
-    public IncidentController(IncidentService incidentService) {
+    public IncidentController(
+            IncidentService incidentService,
+            IncidentAnalysisService incidentAnalysisService) {
         this.incidentService = incidentService;
+        this.incidentAnalysisService = incidentAnalysisService;
     }
 
     @PostMapping
@@ -59,6 +65,11 @@ public class IncidentController {
     @GetMapping("/{id}")
     public Incident getIncidentById(@PathVariable Long id) {
         return incidentService.getIncidentById(id);
+    }
+
+    @GetMapping("/{id}/analysis")
+    public IncidentAnalysisResponse getIncidentAnalysis(@PathVariable Long id) {
+        return incidentAnalysisService.analyze(id);
     }
 
     @PutMapping("/{id}")
