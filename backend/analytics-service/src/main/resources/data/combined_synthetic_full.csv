@@ -1,0 +1,1001 @@
+incident_id,timestamp,location,category,priority,description
+INC-20266950,2026-09-09 15:48:00,Downtown Transit Center,Traffic Incident,Low,"Passer-by says Unattended car abandoned on the side of the highway with no occupants. Plate number partially noted. Someone may be hurt, unsure how badly."
+INC-20264081,2026-09-09 16:00:00,East End Industrial,Property Crime,Medium,"FYI: Catalytic converter stolen from a parked car at the depot. Someone may be hurt, unsure how badly"
+INC-20264410,2026-09-09 16:58:00,City Park West,Medical Emergency,Critical,Overdose reported in public restroom. Need EMTs immediately. Caller is not a medical professional
+INC-20261532,2026-09-09 17:43:00,Main St & 4th Ave,Medical Emergency,Medium,"Passer-by says Older lady lightheaded and weak at the market, alert and talking. Caller is not a medical professional."
+INC-20264229,2026-09-09 18:56:00,Main St & 4th Ave,Suspicious Activity,High,"Witness states: Chemical odour from a garage, man seen rushing away carrying containers. Shop owners are outside."
+INC-20269675,2026-09-09 19:13:00,Downtown Transit Center,Public Disturbance,Medium,Passer-by says Neighbors complain of a loud party with fireworks going off in a residential street. Situation has been going on for a while. Alcohol may be involved.
+INC-20266652,2026-09-09 20:17:00,University Campus,Violent Crime,Medium,"Dispatch alert: Man punched a shopkeeper during a dispute, minor injury, suspect still around. Several callers are reporting this. Near the hospital entrance."
+INC-20260751,2026-09-09 20:47:00,City Park West,Medical Emergency,Critical,"Witness states: Senior citizen found unresponsive on the sidewalk with no breathing, chest compressions underway. Ambulance access is from the main entrance"
+INC-20267367,2026-09-09 21:10:00,City Park West,Violent Crime,High,"Urgent - Mugging at knifepoint, suspect fled on foot, victim shaken."
+INC-20267421,2026-09-09 21:14:00,City Park West,Suspicious Activity,High,Dispatch alert: Strong chemical smell and a man hurriedly leaving a rented garage.
+INC-20266667,2026-09-09 21:31:00,Central Station,Violent Crime,Critical,"Gunfire at the market square, crowds fleeing"
+INC-20269491,2026-09-09 22:56:00,Westside Residential,Public Disturbance,Low,"busker playing amplified music near the market, shopkeepers complaining. several onlookers are present."
+INC-20265641,2026-09-09 23:04:00,East End Industrial,Traffic Incident,High,high speed hit-and-run crash. vehicle is fleeing northbound. urgent medical needed. shop owners are outside
+INC-20264712,2026-09-10 00:12:00,East End Industrial,Violent Crime,High,"caller reports: stab wound to the arm atfer a quarrel, victim talking, suspect fled. a crowd is watching."
+INC-20264024,2026-09-10 00:28:00,Main St & 4th Ave,Medical Emergency,Low,"Officer on scene notes: Small cut on a finger, bleeding controlled, wants first aid advice. A crowd is watching."
+INC-20264232,2026-09-10 01:03:00,East End Industrial,Property Crime,Low,"911 call: Graden tools missing from the backyard shed, no forced entry"
+INC-20267059,2026-09-10 01:09:00,Downtown Transit Center,Violent Crime,Critical,"Caller reports: Active shooter reported in the downtown mall. Multiple casualties, need immediate backup. People are leaving the area. It is dark and hard to see"
+INC-20262599,2026-09-10 01:55:00,Westside Residential,Public Disturbance,Low,"Witness states: Aggressive stray dogs raoming near the school, parents concerned."
+INC-20261350,2026-09-10 02:57:00,East End Industrial,Medical Emergency,Critical,"911 call: pregnant woman about to deliver at the bus stop, cannot make it to hospital. a man was seen running away"
+INC-20261575,2026-09-10 03:28:00,Downtown Transit Center,Traffic Incident,Low,"Caller reports: Car broke down in the slow lane, driver waiting for help. Road is wet."
+INC-20266403,2026-09-10 06:24:00,Downtown Transit Center,Violent Crime,Critical,"Knife-wielding suspect menacing pedestrians right now, urgent dispatch required. People are leaving the area."
+INC-20267179,2026-09-10 06:24:00,Northside Mall,Medical Emergency,Critical,"Caller reports: Child found floating in the pool, not breathing, parents attempting rescue breaths."
+INC-20265758,2026-09-10 06:38:00,University Campus,Suspicious Activity,Medium,"pls send help. Abandoned backpack on the platform, no owner in sight. No crime has been confirmed yet."
+INC-20264890,2026-09-10 08:07:00,Westside Residential,Traffic Incident,High,"Car swerving dangerously across lanes, driver appears intoxicated. Other drivers are slowing down"
+INC-20267502,2026-09-10 08:49:00,East End Industrial,Traffic Incident,High,"Urgent - Serious multi-car crash closing all lanes, fluids spilling and fire hazard present. Other drivers are slowing down."
+INC-20262225,2026-09-10 10:00:00,East End Industrial,Suspicious Activity,Low,Person looking into parked cars with a flashlight. No crime has been confirmed yet. Caller can't give an exact address.
+INC-20264957,2026-09-10 11:05:00,Northside Mall,Traffic Incident,Low,"Empty vheicle left on the highway shoulder, nobody inside or nearby. Plate number partially noted."
+INC-20265911,2026-09-10 11:08:00,Downtown Transit Center,Public Disturbance,High,"Urgent - Barwl involving a dozen people at the nightclub entrance, some bleeding. Someone may be hurt, unsure how badly"
+INC-20264337,2026-09-10 11:54:00,Main St & 4th Ave,Medical Emergency,High,"urgent - man with diabetes acitng disoriented and shaky, may need urgent glucose."
+INC-20264804,2026-09-10 12:31:00,Central Station,Medical Emergency,Low,Witness states: Caller has had a mild headache and nauesa since morning and wants advice. It is dark and hard to see.
+INC-20266674,2026-09-10 12:40:00,University Campus,Violent Crime,Critical,"Officer on scene notes: Woman being attacked by a man in the parknig lot, screaming for help. People are leaving the area"
+INC-20268515,2026-09-10 14:38:00,Downtown Transit Center,Violent Crime,High,"fyi: reported kidnapping attempt, man treid to drag a girl into a van."
+INC-20269199,2026-09-10 15:26:00,Northside Mall,Suspicious Activity,Low,dispatch alert: van with tinted windows idle near the school gates since morning. a man was seen running away.
+INC-20268766,2026-09-10 16:40:00,Northside Mall,Suspicious Activity,Low,Caller reports: Abandoned package spotted near the front doors of a government office.
+INC-20261513,2026-09-10 17:34:00,City Park West,Public Disturbance,Medium,"Urgent - Domestic argument heard through the wall, shouting and objects being thrown. Vehicles are parked nearby."
+INC-20267754,2026-09-10 17:53:00,Westside Residential,Medical Emergency,Critical,FYI: Severe allergic reaction. Patient is turinng blue and struggling to breathe.
+INC-20267884,2026-09-10 20:28:00,Northside Mall,Traffic Incident,Medium,FYI: Large pothole causing mulitple flat tyres on the bridge. A crowd is watching.
+INC-20266641,2026-09-10 20:39:00,City Park West,Suspicious Activity,Low,Witness states: Unknown car has been driving round and ronud the cul-de-sac for half an hour.
+INC-20264649,2026-09-10 21:21:00,East End Industrial,Property Crime,High,Catalytic converter stolen from a parked car at the depot. Estimated loss still being assessed. Vehicles are parked nearby.
+INC-20260689,2026-09-10 21:25:00,Northside Mall,Medical Emergency,High,"Man vomiting blood in the train station, pale and weak. Caller is staying on the line."
+INC-20267978,2026-09-10 21:40:00,Central Station,Violent Crime,Critical,"pls send help. hostage situation reported at the bank, armed man inside. people are leaving the area. a man was seen running away."
+INC-20264021,2026-09-10 22:01:00,Northside Mall,Suspicious Activity,Low,911 call: Stranger taking photos of the bank entrance. Caller is frightened.
+INC-20268553,2026-09-11 00:20:00,University Campus,Violent Crime,Medium,Passer-by says Caller is afraid of an ex who keeps threatening to hurt them.
+INC-20267972,2026-09-11 00:26:00,Westside Residential,Violent Crime,High,"Attempted abduction of a young girl, van left the scene. Responding units should approach with caution"
+INC-20265104,2026-09-11 01:06:00,Westside Residential,Public Disturbance,Low,Caller reports: Noise complaint: loud party and fireworks in a residential neighborhood. Several onlookers are present. Caller can't give an exact address.
+INC-20265111,2026-09-11 03:54:00,Northside Mall,Property Crime,Medium,storefront defaced with paint during the night. suspect desrciption is limited. it is dark and hard to see.
+INC-20263305,2026-09-11 04:31:00,East End Industrial,Property Crime,Medium,"FYI: Ongoing vandalism, youths tagging the exterior of the public library with spray paint. Nearby cameras may have recorded it"
+INC-20262891,2026-09-11 05:42:00,Main St & 4th Ave,Public Disturbance,Medium,drunk man shoutnig abuse at passers-by near the bus station.
+INC-20260373,2026-09-11 06:33:00,Main St & 4th Ave,Property Crime,Medium,"Ofifcer on scene notes: Car broken into overnight, side window smashed and stereo missing. Suspect description is limited. Caller heard a loud noise earlier."
+INC-20266069,2026-09-11 07:15:00,Northside Mall,Property Crime,Low,"Passer-by says Lost purse, caller thinks it was dropped, wants it logged. Caller is wliling to file a report."
+INC-20263048,2026-09-11 07:32:00,City Park West,Property Crime,High,"burglary in progress, caller hears intruders inside the neighbouring house. suspect description is limited. near the hospital entrance"
+INC-20267856,2026-09-11 08:12:00,Central Station,Property Crime,Medium,"FYI: Parts cut off a parked vehicle overnight, exhaust section missing. Caller is willing to file a report. Shop owners are outside."
+INC-20266877,2026-09-11 08:45:00,Highway 42 Mile 12,Property Crime,Low,Passer-by says Mailbox damaged by an unknown person during the night. Estimated loss still being assessed.
+INC-20266007,2026-09-11 09:29:00,Main St & 4th Ave,Traffic Incident,Medium,pls send help. Large pothole causing multiple flat tyres on the bridge. Road is wet. Near the hospital entrance.
+INC-20264067,2026-09-11 09:37:00,Main St & 4th Ave,Suspicious Activity,High,Witness states: Nervous individual with a heavy bag avoiding security at the stadium gate. Behaviour started about twenty minutes ago.
+INC-20261203,2026-09-11 09:54:00,City Park West,Traffic Incident,Low,Anonymous tip: Double parked delivery truck blocking one lane. Near the hospital entrance.
+INC-20268348,2026-09-11 10:32:00,Northside Mall,Property Crime,Low,"Anonymous tip: Some tools gone from the back shed, owner usnure when they disappeared. Suspect description is limited. Someone may be hurt, unsure how badly."
+INC-20263587,2026-09-11 10:33:00,East End Industrial,Public Disturbance,Medium,Witness states: Suspicious person loitering near the ATM and aggressively asking for money. Nearby residents are being affected
+INC-20261528,2026-09-11 10:39:00,Downtown Transit Center,Public Disturbance,Medium,"pls send help. Domestic argument heard through the wall, shouting and objects being thrown"
+INC-20261029,2026-09-11 11:42:00,City Park West,Medical Emergency,Medium,"911 call: Older lady lightehaded and weak at the market, alert and talking"
+INC-20268935,2026-09-11 12:34:00,Central Station,Suspicious Activity,Low,Passer-by says Person looking into parked cars with a flashlight. Behaviour started about twenty minutes ago.
+INC-20266404,2026-09-11 12:37:00,Highway 42 Mile 12,Property Crime,Medium,"Update: Patrs cut off a parked vehicle overnight, exhaust section missing."
+INC-20265076,2026-09-11 12:40:00,Central Station,Public Disturbance,Medium,Football fans fighting and singing loudly on the street after the match.
+INC-20265799,2026-09-11 13:15:00,University Campus,Public Disturbance,Low,Group of youths making noise at the playground late at night. Shop owners are outside.
+INC-20261815,2026-09-11 15:04:00,Northside Mall,Suspicious Activity,Low,pls send help. Drone flying over the residential area at night.
+INC-20262021,2026-09-11 16:44:00,Northside Mall,Traffic Incident,High,"Major pile-up involving several vehicles, every lane blocked, fuel leaikng with fire risk. Other drivers are slowing down. Alcohol may be involved."
+INC-20268744,2026-09-11 16:49:00,Downtown Transit Center,Public Disturbance,Medium,update: football fans fighting and singing loudly on the street after the match. situation has been going on for a while.
+INC-20263256,2026-09-11 17:26:00,Main St & 4th Ave,Violent Crime,High,gruop of men beating a teenager outside the school. alcohol may be involved.
+INC-20261087,2026-09-11 18:06:00,Westside Residential,Medical Emergency,Critical,"Officer on scene notes: Woman in labour, contractions two minutes apart, baby is crowning. Ambulance accses is from the main entrance."
+INC-20262188,2026-09-11 18:29:00,Main St & 4th Ave,Violent Crime,Critical,"Knife-wielding suspect menacing pedestrians right now, urgent dispatch required. Responding units should approach with caution. Near the hospital entrance."
+INC-20264260,2026-09-11 19:00:00,City Park West,Public Disturbance,Medium,"Officer on scene notes: Domestic argument heard through the wall, shouting and objects being thrown. Crowd size is changing."
+INC-20268134,2026-09-11 20:26:00,East End Industrial,Medical Emergency,High,"FYI: Worker fell from scaffolding, awake but complaining of severe back pain and numb legs"
+INC-20265113,2026-09-11 20:53:00,Highway 42 Mile 12,Suspicious Activity,Low,Dispatch alert: Same car with someone inside parked on the street for two days. Behaivour started about twenty minutes ago. Close to the police station.
+INC-20265592,2026-09-11 23:11:00,Northside Mall,Property Crime,High,"Urgent - Burglary in progress, caller hears intruders inside the neighbouring house. Caller is willing to file a report. A crowd is watching."
+INC-20262602,2026-09-12 00:27:00,Northside Mall,Suspicious Activity,High,"Chemical odour from a garage, man seen rushing away carrying containers. No crmie has been confirmed yet."
+INC-20269038,2026-09-12 01:35:00,Central Station,Property Crime,High,"pls send help. neighbour's house being broken into right now, people seen moving inside. estimated loss still being assessed. caller is frightened"
+INC-20261616,2026-09-12 02:21:00,Northside Mall,Suspicious Activity,High,Update: Strong chemical smell and a man hurriedly leaving a rented garage. Caller did not approach the subject. A crowd is watching.
+INC-20263783,2026-09-12 02:40:00,Central Station,Traffic Incident,Low,"pls send help. Truck duoble parked in front of the shop, narrowing the road. Alcohol may be involved."
+INC-20268884,2026-09-12 05:28:00,Main St & 4th Ave,Suspicious Activity,Medium,911 call: caller says a stranger keeps asking neighbours when the family leaves home. caller wishes to stay anonymous.
+INC-20268436,2026-09-12 05:53:00,Westside Residential,Medical Emergency,Critical,"Toddler pluled from the swimming pool, not responding."
+INC-20260489,2026-09-12 05:57:00,University Campus,Medical Emergency,Low,Caller has had a mild headache and nausea since morning and wants advice. Close to the police station.
+INC-20266372,2026-09-12 07:25:00,Downtown Transit Center,Violent Crime,High,"Robbery at knifepoint on the street, victim lost phone and wallet, no injuries. Someone may be hurt, unsure how badly."
+INC-20269681,2026-09-12 08:43:00,City Park West,Violent Crime,High,"pls send help. diabetic patient confused and sweating, baerly able to speak. caller is staying on the line."
+INC-20265053,2026-09-12 09:08:00,Main St & 4th Ave,Medical Emergency,High,"pls send help. Diabetic patient confused and sweating, barely able to speak. Bystanders are assisting. Caller can't give an exact address"
+INC-20260593,2026-09-12 09:08:00,East End Industrial,Suspicious Activity,Low,Passer-by says Unfamiliar vehicle circling the cul-de-sac for the past 30 minutes. Caller wishes to stay anonymous.
+INC-20268828,2026-09-12 09:10:00,Main St & 4th Ave,Traffic Incident,High,"fyi: severe multi-vehicle collision blocking all lanes. fluids leaking, high risk of fire. other drivers are slowing down."
+INC-20268174,2026-09-12 09:47:00,Northside Mall,Property Crime,High,"FYI: Fire set deliberately at a garage, flames reaching the adjacent property. Estimated loss still being assessed. A crowd is watching"
+INC-20265417,2026-09-12 10:04:00,Westside Residential,Traffic Incident,High,"911 call: car swerving dangerously across lanes, driver appaers intoxicated. a man was seen running away."
+INC-20260502,2026-09-12 11:04:00,Central Station,Suspicious Activity,Low,"911 call: Person sleeping in a parked car for two days. Caller wsihes to stay anonymous. Someone may be hurt, unsure how badly."
+INC-20265654,2026-09-12 11:06:00,Downtown Transit Center,Traffic Incident,High,"Caller reports: Lorry hit the central divider, driver conscious but hurt. Road is wet."
+INC-20260963,2026-09-12 11:29:00,Westside Residential,Suspicious Activity,Medium,Group of men watching the jewellery store from across the street. Near the hospital entrance.
+INC-20261990,2026-09-12 13:01:00,East End Industrial,Traffic Incident,Low,"Minor fender bender in the parking lot, no injuries, traffic not blocked. Plate number partially noted. Shop owners are outside."
+INC-20260835,2026-09-12 14:36:00,Northside Mall,Suspicious Activity,High,"chemical odour from a garage, man seen rushing away carrying containers. behaviour started about twenty minutes ago. caller heard a loud noise earlier."
+INC-20262929,2026-09-12 14:58:00,Central Station,Suspicious Activity,Medium,Urgent - Vacant warehouse unlocked with a torch beam visible inside. Near the hospital entrance.
+INC-20269937,2026-09-12 15:02:00,Downtown Transit Center,Violent Crime,High,"Man stabbed in the arm during an argument, bleeding but conscious. Someone may be hurt, unsure how badly."
+INC-20260783,2026-09-12 15:51:00,Northside Mall,Property Crime,Low,"Some tools gone from the back shed, owner unsure when they disappeared."
+INC-20267705,2026-09-12 16:49:00,University Campus,Public Disturbance,Medium,update: large crowd blocking the road during an unauthorised protest. several onlookers are present. shop owners are outside.
+INC-20265593,2026-09-12 16:56:00,University Campus,Medical Emergency,Medium,"Officer on scene notes: Older lady lihgtheaded and weak at the market, alert and talking. Bystanders are assisting. Alcohol may be involved."
+INC-20264131,2026-09-12 17:07:00,Main St & 4th Ave,Suspicious Activity,Medium,Caller says a stranger keeps asking neighbours when the family leaves home. A man was seen running away
+INC-20269802,2026-09-12 17:22:00,Main St & 4th Ave,Violent Crime,Critical,"pls send help. Shots fired near the market, people runnnig and screaming. Several callers are reporting this"
+INC-20261365,2026-09-12 18:01:00,Highway 42 Mile 12,Suspicious Activity,Low,small drone hovering above houses late in the evening. calelr wishes to stay anonymous. vehicles are parked nearby.
+INC-20264629,2026-09-12 18:49:00,City Park West,Public Disturbance,High,"Brawl involving a dozen pepole at the nightclub entrance, some bleeding. Caller is frightened."
+INC-20268630,2026-09-12 19:24:00,City Park West,Medical Emergency,High,"man vomiting blood in the train station, pale and weak. ambulance access is from the main entrance. it is dark and hard to see."
+INC-20269879,2026-09-12 19:41:00,University Campus,Medical Emergency,High,FYI: Older man collapsed on the pavement and is not breathing. Bystander is preforming CPR. Close to the police station
+INC-20260333,2026-09-12 19:49:00,East End Industrial,Suspicious Activity,Medium,Graffiti on the shop shutters and walls overnight. Caller is frightened
+INC-20268086,2026-09-12 19:55:00,Highway 42 Mile 12,Suspicious Activity,Low,Resident reports an unfamiliar vehicle repeatedly looping the dead-end street for 30 minutes. Caller did not approach the subject. Alcohol may be involved.
+INC-20268763,2026-09-12 21:46:00,Main St & 4th Ave,Medical Emergency,High,"Urgent - Man with diabetes acting disoriented and shaky, may need urgent glucose. Bystanders are assisting."
+INC-20263202,2026-09-12 21:56:00,Highway 42 Mile 12,Traffic Incident,Low,"Dispatch alert: Car broke down in the slow lane, driver waiting for help."
+INC-20264595,2026-09-12 22:59:00,City Park West,Traffic Incident,Low,"Passer-by says Truck double parked in front of the shop, narrowing the road. Other drivers are slowing down. Near the hospital entrance."
+INC-20267575,2026-09-12 23:14:00,Main St & 4th Ave,Property Crime,Medium,"Parts cut off a parekd vehicle overnight, exhaust section missing. It is dark and hard to see."
+INC-20268059,2026-09-13 01:20:00,University Campus,Suspicious Activity,Low,abandoned package spotted near the front doors of a government office. no crime has been confirmed yet.
+INC-20266378,2026-09-13 02:10:00,Northside Mall,Property Crime,Medium,Caller reports: Owner reports a bike taken from the rack at the grocery store. Security camrea footage exists. Suspect description is limited.
+INC-20268164,2026-09-13 02:26:00,University Campus,Property Crime,Low,"Dispatch alert: Some tools gone from the back shed, owner unsure when they disappeared."
+INC-20269460,2026-09-13 03:31:00,Main St & 4th Ave,Traffic Incident,Low,"Witness states: Low-speed fender bender in a car park, no injuries reported, no road blockage. A crowd is watching."
+INC-20262101,2026-09-13 05:08:00,City Park West,Suspicious Activity,Low,Witness states: Abandoned package spotted near the fornt doors of a government office. Near the hospital entrance.
+INC-20262385,2026-09-13 05:50:00,Westside Residential,Violent Crime,High,"fyi: reported kidnapping attempt, man tried to drag a girl into a van. caller is sheltering in a safe spot. vehicles are parked nearby."
+INC-20262187,2026-09-13 06:02:00,Northside Mall,Property Crime,Medium,"Scooter taken from the street overnight, owner has the registration details. A crowd is watching."
+INC-20264796,2026-09-13 06:05:00,East End Industrial,Suspicious Activity,Low,Update: Unknown van parked outside the school for several hours.
+INC-20263459,2026-09-13 06:20:00,University Campus,Traffic Incident,Low,FYI: Unattended car abandoned on the side of the hgihway with no occupants
+INC-20260719,2026-09-13 06:59:00,Main St & 4th Ave,Medical Emergency,High,"robbery at knifepoint on the street, victim lost phone and wallet, no injuries. caller is sheltering in a safe spot. a corwd is watching."
+INC-20265776,2026-09-13 07:19:00,University Campus,Violent Crime,High,"Update: Reported kidnapping attempt, man tried to drag a girl into a van. People are leaving the area."
+INC-20262359,2026-09-13 07:37:00,Northside Mall,Property Crime,Low,"Update: Socoter taken from the street overnight, owner has the registration details. Suspect description is limited"
+INC-20268210,2026-09-13 08:16:00,Central Station,Medical Emergency,Critical,"Witness states: Pateint having a serious allergic reaction, lips turning blue and gasping for air. Caller is staying on the line. Caller is frightened."
+INC-20269280,2026-09-13 10:37:00,Northside Mall,Public Disturbance,Medium,Caller reports: Noise complaint: loud party and fireworks in a residential neighborhood. Situation has been gonig on for a while.
+INC-20261466,2026-09-13 12:00:00,Northside Mall,Property Crime,Medium,Caller reports: Motorcycle stolen from outside the apartment building. Caller is willing to file a report. It is dark and hard to see.
+INC-20266402,2026-09-13 12:11:00,City Park West,Violent Crime,High,"Update: Reported kidnapping attempt, man tried to drag a girl into a van. Caller is frightened."
+INC-20262544,2026-09-13 12:32:00,Westside Residential,Violent Crime,Critical,"passer-by says multiple sohts fired, victim severely wounded and bleeding, life-threatening emergency."
+INC-20264454,2026-09-13 13:00:00,East End Industrial,Traffic Incident,Medium,"Dispatch alert: Tree fallen across the road after the storm, cars stopped. A crowd is watching."
+INC-20267414,2026-09-13 13:04:00,University Campus,Suspicious Activity,Medium,"Abandoned backpack on the platform, no owner in sight. Caller wishes to stay anonymous"
+INC-20261344,2026-09-13 13:42:00,East End Industrial,Medical Emergency,Medium,"pls send help. Older lady lightheaded and weak at the market, alert and talking. Caller is not a medical professional."
+INC-20262933,2026-09-13 14:01:00,Downtown Transit Center,Medical Emergency,Critical,"Pregnant woman about to deliver at the bus stop, cannot make it to hospital. Someone may be hurt, unsure how badly."
+INC-20266184,2026-09-13 14:57:00,Downtown Transit Center,Traffic Incident,Low,"Caller reports: Minor fender bender in the parking lot, no injuries, traffic not blocked. Other drivers are slowing down. Caller is frightened."
+INC-20267100,2026-09-13 14:59:00,Westside Residential,Property Crime,Medium,"pls send help. cash machine tampered with, device attacehd to the card reader"
+INC-20266220,2026-09-13 15:10:00,Main St & 4th Ave,Medical Emergency,Critical,"Passer-by says Convulsions followed by unresponsiveness, no history of epilepsy. It is dark and hard to see"
+INC-20269202,2026-09-13 15:39:00,Highway 42 Mile 12,Traffic Incident,Medium,Ugrent - Pothole damaged tyres of several cars on the main road. Traffic is backing up.
+INC-20263953,2026-09-13 17:25:00,Highway 42 Mile 12,Public Disturbance,Low,Update: Group of youths making noise at the playground late at night. A man was seen running away.
+INC-20261508,2026-09-13 17:50:00,East End Industrial,Traffic Incident,High,"witness states: wrong-way driver speeding down the interstate, serious risk of a head-on collision. road is wet."
+INC-20267133,2026-09-13 19:29:00,City Park West,Medical Emergency,Critical,"passer-by says caller's fahter clutching his chest, pale and sweating, possible heart attack. caller is frightened"
+INC-20260396,2026-09-13 19:53:00,Main St & 4th Ave,Traffic Incident,Critical,passer-by says person hit by a car on the crossing and lying motionless on the road. alcohol may be involved.
+INC-20261765,2026-09-13 20:14:00,City Park West,Suspicious Activity,Low,"Individual shining a flashlight into parked vehicles and checking door handles. Someone may be hurt, unsure how badly."
+INC-20268994,2026-09-13 20:23:00,Westside Residential,Traffic Incident,High,911 call: Drunk driver weaving across lanes on the highway. Other drivers are slowing down
+INC-20264694,2026-09-13 21:06:00,Northside Mall,Property Crime,Medium,"Officer on scene notes: Scooter taken from the street overnight, owner has the registration details. Nearby cameras may have recorded it. Someone may be hurt, unsure how badly"
+INC-20266594,2026-09-13 21:11:00,Westside Residential,Traffic Incident,High,"Major pile-up involving several vehicles, every lane blocked, fuel leaking with fire risk. Other drivers are slowing down. Caller can't give an exact address."
+INC-20269903,2026-09-13 22:35:00,Westside Residential,Suspicious Activity,High,Officer on scene notes: Strong chemical smell and a man hurriedly leaving a rented garage. Caller did not approach the subject. A crowd is watching.
+INC-20268700,2026-09-13 23:50:00,Northside Mall,Violent Crime,Critical,"annoymous tip: stab wound to the arm after a quarrel, victim talking, suspect fled."
+INC-20268696,2026-09-14 00:16:00,Highway 42 Mile 12,Property Crime,Medium,"FYI: Prats cut off a parked vehicle overnight, exhaust section missing. Nearby cameras may have recorded it."
+INC-20262420,2026-09-14 01:10:00,Highway 42 Mile 12,Public Disturbance,Medium,FYI: Group of youths making noise at the playground late at night. Crowd size is changing.
+INC-20268666,2026-09-14 01:12:00,Highway 42 Mile 12,Medical Emergency,Medium,"FYI: Older lady lightheaded and weak at the market, alert and talking. Bystnaders are assisting."
+INC-20263879,2026-09-14 01:49:00,City Park West,Suspicious Activity,Low,Update: Small drone hovering above houses late in the evening. Caller wishes to stay anonymous
+INC-20262020,2026-09-14 02:10:00,Westside Residential,Traffic Incident,Critical,"Anonymous tip: Coach rolled over on the road, many injured and trapped. Caller heard a loud noise earlier."
+INC-20263574,2026-09-14 02:54:00,Highway 42 Mile 12,Property Crime,Medium,Witness states: Group of teens currently spray painting graffiti on the library wall
+INC-20263073,2026-09-14 03:16:00,Westside Residential,Public Disturbance,Critical,"pls send help. gunfire at the market square, crowds fleeing. caller is sheltering in a safe spot."
+INC-20262508,2026-09-14 03:52:00,Downtown Transit Center,Suspicious Activity,Low,Caller reports: Same car with someone inside parked on the street for two days. Behaviour started about twenty minutes ago. Alcohol may be involved.
+INC-20261641,2026-09-14 04:30:00,Westside Residential,Traffic Incident,Medium,"Anonymous tip: Car broke down in the slow lane, driver waiting for help. Caller can't give an exact address."
+INC-20267183,2026-09-14 04:32:00,East End Industrial,Traffic Incident,Critical,"Anonymous tip: Bus overturned with passengers trapped, people screaming for help."
+INC-20260982,2026-09-14 04:51:00,Westside Residential,Public Disturbance,Medium,"Anonymous tip: Domestic argument heard through the wall, shouting and objects being thrown. Crowd size is changing. A crowd is watching."
+INC-20266269,2026-09-14 05:17:00,Downtown Transit Center,Suspicious Activity,Low,Man photographing the bank's front door and cameras repeatedly.
+INC-20263388,2026-09-14 06:13:00,Highway 42 Mile 12,Property Crime,Low,"anonymous tip: letterbox found broken outside the house, no other damage. claler heard a loud noise earlier."
+INC-20264599,2026-09-14 06:19:00,Highway 42 Mile 12,Medical Emergency,Critical,"dispatch alert: man having chest pain and sweating, says the pain is spreading to his left arm. caller is not a medical professional. close to the police station."
+INC-20269283,2026-09-14 06:22:00,University Campus,Traffic Incident,High,"Truck lost control and crashed into the divider, driver injured. Someone may be hurt, unsure how badly"
+INC-20266453,2026-09-14 06:29:00,Northside Mall,Violent Crime,Critical,"Officer on scene notes: Gunfire at the market square, crowds fleeing. Caller is sheltering in a safe spot. Shop owners are outside."
+INC-20262428,2026-09-14 06:47:00,East End Industrial,Medical Emergency,Low,"Officer on scene notes: Small cut on a finger, bleeding controlled, wants first aid advice. Caller is not a medical professional."
+INC-20267731,2026-09-14 07:01:00,Downtown Transit Center,Property Crime,Medium,pls send help. resident says someone brkoe in through a smashed window and ran off about ten minutes ago. caller is willing to file a report
+INC-20261963,2026-09-14 07:35:00,Downtown Transit Center,Property Crime,Low,"anonyomus tip: wallet reported lost at the market, no sign of theft. suspect description is limited."
+INC-20265154,2026-09-14 07:38:00,University Campus,Traffic Incident,Medium,"Passer-by says Tree fallen across the road after the storm, cars stopped. Caller is frightened."
+INC-20262555,2026-09-14 08:59:00,East End Industrial,Suspicious Activity,Medium,911 call: Resident reports an unfamilair vehicle repeatedly looping the dead-end street for 30 minutes.
+INC-20268569,2026-09-14 10:36:00,Northside Mall,Property Crime,Medium,urgent - motorcycle stolen from outside the apartment building. caller is willing to file a report.
+INC-20265333,2026-09-14 11:19:00,Central Station,Public Disturbance,Medium,Football fans fighting and singing loudly on the srteet after the match.
+INC-20261099,2026-09-14 11:23:00,Central Station,Suspicious Activity,High,Nervous individual with a heavy bag avoiding security at the stadium gate.
+INC-20268221,2026-09-14 12:19:00,Northside Mall,Public Disturbance,Low,Anonymous tip: Teenagers loitering and playing loud music in the park after closing time. Nearby residents are being affected. A crowd is watching.
+INC-20265463,2026-09-14 12:51:00,Main St & 4th Ave,Violent Crime,High,"Man stabbed in the arm during an argument, bleeding but conscious."
+INC-20269607,2026-09-14 13:29:00,City Park West,Public Disturbance,Low,"Urgent - Dispute between hawkers about stall locations, voices raised. Several onlookers are present. Someone may be hurt, usnure how badly"
+INC-20263920,2026-09-14 13:38:00,University Campus,Medical Emergency,High,"Child found floating in the pool, not breathing, parents attempting rescue breaths. Caller is staying on the line."
+INC-20265685,2026-09-14 13:53:00,Downtown Transit Center,Medical Emergency,High,"Man with daibetes acting disoriented and shaky, may need urgent glucose. Bystanders are assisting. Vehicles are parked nearby."
+INC-20268521,2026-09-14 14:08:00,University Campus,Traffic Incident,Low,"pls send help. Minor fender bender in the parking lot, no injuries, traffic not blocked. Road is wet"
+INC-20268474,2026-09-14 15:04:00,Central Station,Traffic Incident,Medium,Witness states: Unattended car abandoned on the side of the highway with no occupants. Shop owners are outside
+INC-20268290,2026-09-14 15:22:00,Central Station,Suspicious Activity,Medium,Officer on scene notes: Unknown person repeatedly asking about the neighbour's whereabouts. Behaviour started about twenty minutes ago.
+INC-20265787,2026-09-14 15:39:00,Westside Residential,Traffic Incident,High,"911 call: Major pile-up involving several vehicles, every lane blocked, fuel leaking with fire risk. Vehicles are parked nearby"
+INC-20263390,2026-09-14 16:34:00,East End Industrial,Medical Emergency,Medium,"pls send help. Elderly woman feeling dizzy and faint after standing up, now sitting down. Ambulnace access is from the main entrance. Shop owners are outside."
+INC-20262659,2026-09-14 18:20:00,Northside Mall,Suspicious Activity,High,pls send help. Strong chemical smell and a man hurriedly leaving a rented garage. A man was seen running away.
+INC-20261620,2026-09-14 18:39:00,Main St & 4th Ave,Property Crime,Medium,urgent - group of teens currently spray painting graffiti on the library wall. nearby cameras may have recorded it. close to the poilce station.
+INC-20266987,2026-09-14 20:54:00,Downtown Transit Center,Property Crime,Medium,"Passer-by says Store theft reported, man walked out with merchandise without paying. Estimated loss still being assessed"
+INC-20264706,2026-09-14 21:28:00,Highway 42 Mile 12,Medical Emergency,Medium,"Caller reports: Man blacked out for a few seconds in the queue, now conscious and answering questions. Amublance access is from the main entrance."
+INC-20261082,2026-09-14 21:46:00,University Campus,Medical Emergency,Critical,pls send help. Perosn had a seizure and is not waking up. Ambulance access is from the main entrance.
+INC-20269974,2026-09-14 23:11:00,Highway 42 Mile 12,Violent Crime,Critical,"witness states: woman being attacked by a man in the parking lot, screaming for help. near the hospital entrance"
+INC-20264019,2026-09-15 02:03:00,University Campus,Property Crime,Low,Anonymous tip: Mailbox damaged by an unknown person during the night. Estimated loss still benig assessed. Near the hospital entrance.
+INC-20263756,2026-09-15 02:53:00,City Park West,Property Crime,Low,Caller reports: Bicycle stolen from rack outside the grocery store. Video footage available. Nearby cameras may have recorded it.
+INC-20260933,2026-09-15 02:57:00,Highway 42 Mile 12,Traffic Incident,Medium,"motorcyclist slipped on oil, minor injuries, bike blocking part of the lane. road is wet. caller is frightened."
+INC-20263925,2026-09-15 03:54:00,City Park West,Public Disturbance,Medium,"911 call: individual loitering by the cash machine, pressuring passersby for money. several olnookers are present."
+INC-20262137,2026-09-15 08:11:00,Central Station,Medical Emergency,Medium,"dispatch alert: teenager twisted ankle during football practice, swelling and unable to walk. caller is staying on the line."
+INC-20264908,2026-09-15 09:58:00,Northside Mall,Suspicious Activity,Low,911 call: Someone walking along the street peering into parked cars with a torch. A man was seen running away.
+INC-20261971,2026-09-15 10:32:00,East End Industrial,Medical Emergency,Low,"Officer on scene notes: Feeling slightly unwell with a low fever, not an emergency, needs guidance. Calelr is staying on the line. Close to the police station"
+INC-20264348,2026-09-15 10:51:00,University Campus,Traffic Incident,Medium,Passer-by says Pothole damaged tyres of several cars on the main road. Plate number partially noted
+INC-20267686,2026-09-15 12:48:00,Central Station,Traffic Incident,Critical,"Person hit by a car on the crossing and lying motionless on the road. Traffic is backing up. Someone may be hurt, unsure how badly."
+INC-20262993,2026-09-15 13:00:00,Westside Residential,Public Disturbance,Medium,Large crowd blocikng the road during an unauthorised protest. Crowd size is changing. Caller heard a loud noise earlier.
+INC-20269306,2026-09-15 13:16:00,East End Industrial,Suspicious Activity,Low,Individual shining a flashlight into parked vehicles and checking door handles. Near the hospital entrance.
+INC-20262366,2026-09-15 13:58:00,East End Industrial,Violent Crime,Critical,"Caller heard several gunshots and a person is bleeding heavily, life in danger. It is dark and hard to see."
+INC-20266813,2026-09-15 15:06:00,City Park West,Traffic Incident,High,"Car travelling against traffic on the interstate at high speed, head-on crash likely."
+INC-20263354,2026-09-15 16:32:00,University Campus,Medical Emergency,Critical,"Urgent - Elderly male collapsed on the sidewalk, not breathing. CPR in progress. Bystanders are assisting."
+INC-20266645,2026-09-15 16:55:00,East End Industrial,Traffic Incident,High,"FYI: Lorry hit the central divider, driver conscious but hurt. Near the hospital entrance."
+INC-20266974,2026-09-15 17:19:00,University Campus,Violent Crime,Critical,"FYI: Hostage situation reported at the bank, armed man inside."
+INC-20260693,2026-09-15 18:49:00,City Park West,Traffic Incident,Medium,Large pothole causing multiple flat tyers on the bridge.
+INC-20262422,2026-09-15 20:04:00,University Campus,Suspicious Activity,High,FYI: Nervous individual with a heavy bag avoiding security at the stadium gate. Alcohol may be involved
+INC-20262609,2026-09-15 20:46:00,Downtown Transit Center,Medical Emergency,High,"Man with diabetes acting disoriented and shaky, may need urgent glucose. Caller heard a loud noise earlier."
+INC-20269656,2026-09-15 21:14:00,Highway 42 Mile 12,Suspicious Activity,Low,caller reports: resident reports an unfamiliar vehicle repeatedly looping the dead-end street for 30 minutes. shop owners are outside.
+INC-20267920,2026-09-15 21:24:00,Central Station,Public Disturbance,Low,pls send help. Pack of stray dogs barking and chasing people close to the school gate. Crowd size is changing.
+INC-20265085,2026-09-15 22:30:00,Main St & 4th Ave,Property Crime,Low,"pls send help. Wallet reported lost at the market, no sign of theft. Alcohol may be involved."
+INC-20268947,2026-09-15 22:54:00,Main St & 4th Ave,Property Crime,Medium,"Passer-by says Shop owner reports shoplifting, suspect left with electronics. Estimated loss still being assessed"
+INC-20261514,2026-09-15 23:43:00,University Campus,Suspicious Activity,Low,Package left unattended near the entrance of the govrenment building. No crime has been confirmed yet.
+INC-20263978,2026-09-16 01:47:00,Highway 42 Mile 12,Public Disturbance,Medium,Officer on scene notes: Large crowd blocking the road during an unauthorised protest. Nearby residents are being affected
+INC-20260630,2026-09-16 02:50:00,City Park West,Property Crime,Medium,"Witness states: Store theft reported, man walked out with merchandise without paying. Caller heard a loud noise earlier."
+INC-20265327,2026-09-16 05:43:00,Northside Mall,Property Crime,Medium,"Passer-by says Vehicle break-in in the apartment parking, glass on the ground and items taken. Estimated loss still being assessed"
+INC-20262503,2026-09-16 05:45:00,Main St & 4th Ave,Property Crime,Medium,"Anonymous tip: Vehicle break-in in the apartment parking, glass on the ground and items taken. Caller is willing to file a report."
+INC-20264564,2026-09-16 06:45:00,Westside Residential,Medical Emergency,Medium,Caller reports: Person fainted briefly at a bus stop and is now awake and talking. Caller can't give an exact address
+INC-20263451,2026-09-16 07:27:00,Central Station,Violent Crime,Critical,"Urgent - Gunman holding employees at the bank, people trapped."
+INC-20263746,2026-09-16 08:34:00,Northside Mall,Suspicious Activity,Low,Update: Stranger taking photos of the bank entrance. Caller did not approach the subject.
+INC-20266542,2026-09-16 10:10:00,Main St & 4th Ave,Property Crime,Medium,"FYI: Parts cut off a parked vehicle overnight, exhaust section missing. Caller is willing to file a report. Caller is frightened."
+INC-20267706,2026-09-16 11:04:00,Northside Mall,Property Crime,Medium,"Dispatch alert: Store theft reported, man walked out with merchandise without paying. Suspect description is limited."
+INC-20260071,2026-09-16 11:38:00,Highway 42 Mile 12,Traffic Incident,Low,"Offiecr on scene notes: Truck double parked in front of the shop, narrowing the road. Someone may be hurt, unsure how badly"
+INC-20263676,2026-09-16 12:42:00,Westside Residential,Property Crime,Medium,"Officer on scene notes: Car broekn into overnight, side window smashed and stereo missing. Nearby cameras may have recorded it. Near the hospital entrance"
+INC-20263015,2026-09-16 12:43:00,Northside Mall,Property Crime,Medium,"FYI: Cash machine tampered with, device attached to the card reader. Estimated loss still being assessed. A man was seen running away."
+INC-20260842,2026-09-16 12:59:00,Westside Residential,Suspicious Activity,Low,Update: Small drone hovering above houses late in the evening. Caller did not approach the subject
+INC-20260805,2026-09-16 13:17:00,Northside Mall,Violent Crime,Critical,"urgent - woman being attacked by a man in the parking lot, srceaming for help."
+INC-20266077,2026-09-16 13:21:00,Northside Mall,Public Disturbance,High,"Anonymous tip: Individual loitering by the cash machine, pressuring passersby for money. Someone may be hurt, unusre how badly."
+INC-20260010,2026-09-16 13:26:00,Northside Mall,Suspicious Activity,Low,passer-by says unknown van parked outside the school for several hours.
+INC-20264013,2026-09-16 13:29:00,University Campus,Traffic Incident,High,"fyi: hit-and-run at high speed, driver fleeing north, injured party needs medical help urgently. traffic is backing up."
+INC-20263790,2026-09-16 13:42:00,Central Station,Public Disturbance,High,"911 call: Angry crowd pelting stones at a store, shutters being damaged. Crowd size is changing. Vehicles are parked nearby."
+INC-20261095,2026-09-16 15:59:00,University Campus,Medical Emergency,Low,"911 call: Feeling slightly unwell with a low fever, not an emergency, needs guidance. Bystanders are assisting"
+INC-20263760,2026-09-16 19:04:00,Westside Residential,Violent Crime,High,"update: domestic violence call, husband hittnig his wife, children inside. caller is sheltering in a safe spot."
+INC-20266809,2026-09-16 19:24:00,Highway 42 Mile 12,Violent Crime,High,"Passer-by says Mugging at knifepoint, suspect fled on foot, victim shaken. Responding units should approach with caution."
+INC-20260687,2026-09-16 20:06:00,Highway 42 Mile 12,Property Crime,Low,"Urgent - Some tools gone from the back shed, owner unsure when they disappeared. Caller is willing to file a report."
+INC-20262668,2026-09-16 20:41:00,Highway 42 Mile 12,Property Crime,Medium,"Offiecr on scene notes: Parts cut off a parked vehicle overnight, exhaust section missing. Caller is willing to file a report"
+INC-20264920,2026-09-16 21:45:00,Downtown Transit Center,Property Crime,Medium,"Passer-by says Parts cut off a parked vehicle overnight, exhaust section missing. Estimated loss still being assessed. Vehicles are parked nearby."
+INC-20260614,2026-09-16 22:22:00,City Park West,Public Disturbance,High,Urgent - Neighbors complain of a loud party with fireworks going off in a residential street. Several onolokers are present. It is dark and hard to see.
+INC-20268751,2026-09-16 23:04:00,Central Station,Medical Emergency,Low,Update: Unattended car abandoned on the side of the highway with no occupants. Trfafic is backing up.
+INC-20269895,2026-09-17 00:12:00,Main St & 4th Ave,Property Crime,Medium,fyi: skimming device found on the atm card slot.
+INC-20265813,2026-09-17 00:56:00,Downtown Transit Center,Medical Emergency,Critical,"Urgent - Pregnant woman about to deliver at the bus stop, cannot make it to hospital. Bystanders are assisting."
+INC-20261587,2026-09-17 01:08:00,Main St & 4th Ave,Traffic Incident,High,"Anonymous tip: Serious multi-car crash closing all lanes, fluids spilling and fire hazard present."
+INC-20264921,2026-09-17 01:39:00,Main St & 4th Ave,Property Crime,Low,Mailbox damaged by an unknown pesron during the night. Suspect description is limited. Shop owners are outside
+INC-20266160,2026-09-17 02:15:00,Northside Mall,Traffic Incident,Low,FYI: Car has been blocking a fire hydrant for two hours
+INC-20264164,2026-09-17 02:28:00,University Campus,Traffic Incident,Low,FYI: Stalled vehicle with hazard lihgts on in the left lane. Caller is frightened.
+INC-20262883,2026-09-17 02:53:00,East End Industrial,Traffic Incident,High,Anonymous tip: High speed hit-and-run crash. Vehicle is fleeing northbound. Uregnt medical needed. Caller can't give an exact address.
+INC-20266615,2026-09-17 04:24:00,Northside Mall,Property Crime,Medium,"911 call: Car broken into overnight, side window smashed and stereo missing. Nearby cameras may have recorded it. Caller can't give an exact address"
+INC-20265961,2026-09-17 05:40:00,Central Station,Public Disturbance,Medium,Verbal dispute between two men outside a bar is escalating and may turn physical. Vehicles are parked nearby.
+INC-20267976,2026-09-17 06:12:00,Central Station,Public Disturbance,Medium,911 call: Teenagers loitering and playing loud music in the park after closing time. Caller is frightened
+INC-20263133,2026-09-17 06:30:00,City Park West,Public Disturbance,Low,group of youths making noise at the playground late at night. several onlookers are present.
+INC-20265473,2026-09-17 07:10:00,Central Station,Suspicious Activity,Low,Man photogarphing the bank's front door and cameras repeatedly. Vehicles are parked nearby.
+INC-20269929,2026-09-17 07:13:00,Westside Residential,Suspicious Activity,High,"Witness states: Chemical odour from a garage, man seen rushing away carrying containers. Caller did not approach the subject."
+INC-20263964,2026-09-17 07:31:00,Highway 42 Mile 12,Property Crime,High,"FYI: Neighbour's house being broken into right now, people seen moving inside. Estimated loss still being assessed"
+INC-20264478,2026-09-17 11:00:00,Central Station,Medical Emergency,Critical,"Caller reports: Person found unconscious in a public restroom, suspected overdose. Send paramedics now. Caller is not a medical professional."
+INC-20261306,2026-09-17 11:23:00,Highway 42 Mile 12,Traffic Incident,Low,"car broke down in the slow lane, driver watiing for help."
+INC-20265450,2026-09-17 11:36:00,Main St & 4th Ave,Medical Emergency,Critical,"update: man havnig chest pain and sweating, says the pain is spreading to his left arm. caller heard a loud noise earlier"
+INC-20263263,2026-09-17 11:57:00,Central Station,Violent Crime,Critical,Dispatch alert: Immediate dispatch needed. Suspect is armed with a knife and actively threatening pedestrians. Responding units should approach with caution. Clsoe to the police station.
+INC-20261065,2026-09-17 12:55:00,City Park West,Public Disturbance,Medium,"pls send help. Two people shouting at each other outside the bar, argument getting more heated. A man was seen running away."
+INC-20265605,2026-09-17 14:01:00,City Park West,Medical Emergency,Low,Caller reports: Caller has had a mild headache and nausea since morning and wants advice. Caller is staynig on the line.
+INC-20265410,2026-09-17 14:27:00,City Park West,Medical Emergency,Medium,"Player injured leg at the sports ground, possible fracture, conscious and stable."
+INC-20268398,2026-09-17 16:29:00,Northside Mall,Public Disturbance,High,"witness states: fight between two groups outside the club, injuries reported. crowd size is changing. aclohol may be involved"
+INC-20264870,2026-09-17 16:44:00,Westside Residential,Property Crime,Medium,911 call: Resident says someone broke in through a smashed window and ran off about ten minutes ago.
+INC-20261007,2026-09-17 16:56:00,Central Station,Traffic Incident,Low,Anonymous tip: Broken traffic light causing slow-moving queues at the crossing. Shop owners are outside.
+INC-20269068,2026-09-17 18:50:00,Central Station,Traffic Incident,High,"911 call: Major pile-up involving seevral vehicles, every lane blocked, fuel leaking with fire risk. Near the hospital entrance"
+INC-20262702,2026-09-17 19:56:00,Downtown Transit Center,Public Disturbance,Low,"Update: Dispute between hwakers about stall locations, voices raised. Situation has been going on for a while. A crowd is watching."
+INC-20269680,2026-09-17 21:28:00,Highway 42 Mile 12,Traffic Incident,Medium,"Caller reports: Large branch blocking the road, vehicles diverting. Road is wet. Caller can't give an exact address."
+INC-20266870,2026-09-17 23:49:00,Westside Residential,Traffic Incident,Critical,"FYI: Coach rolled over on the road, many ijnured and trapped. Road is wet. Close to the police station."
+INC-20266837,2026-09-18 00:27:00,Highway 42 Mile 12,Public Disturbance,Low,Caller reports: Street performer with a loud speaker disturbing nearby shops.
+INC-20267046,2026-09-18 00:28:00,Downtown Transit Center,Medical Emergency,High,"Officer on scene notes: Man vomiting blood in the train station, pale and weak. Ambulance access is from the main entrance. It is dark and hard to see."
+INC-20263729,2026-09-18 00:33:00,Westside Residential,Property Crime,Medium,Anonymous tip: Bicycle stolen from rack outside the grocery store. Video footage available. Caller is willing to file a report.
+INC-20262815,2026-09-18 00:34:00,Downtown Transit Center,Suspicious Activity,Low,Package left unattended near the entrance of the government building. Caller did not appraoch the subject.
+INC-20267394,2026-09-18 00:38:00,Westside Residential,Medical Emergency,Low,Caller has had a mild headache and nausea since morning and wants advice. Vehicles are parked nearby.
+INC-20263102,2026-09-18 01:05:00,Westside Residential,Suspicious Activity,Medium,urgent - caller says a starnger keeps asking neighbours when the family leaves home.
+INC-20269682,2026-09-18 01:26:00,University Campus,Violent Crime,Critical,"Multiple shots fired, victim severely wounded and bleeding, life-threatening emergency. Caller is sheltering in a safe spot. Shop owners are outside."
+INC-20261190,2026-09-18 01:44:00,City Park West,Medical Emergency,High,pls send help. overdose reported in pulbic restroom. need emts immediately
+INC-20260263,2026-09-18 01:44:00,University Campus,Violent Crime,High,"pls send help. stab wound to the arm after a quarrel, victim talking, suspect fled. caller is frightened."
+INC-20265848,2026-09-18 02:37:00,East End Industrial,Traffic Incident,Low,anonymous tip: illegally parked vehicle obstructing the fire hydrant since two hours ago. plate number partially noted.
+INC-20265940,2026-09-18 03:19:00,Highway 42 Mile 12,Property Crime,Medium,"pls send help. Burglary reported at a house, borken window, intruder already left the scene."
+INC-20260600,2026-09-18 03:41:00,City Park West,Property Crime,Medium,Update: Bicycle stolen from rack outside the grocery store. Video footage available
+INC-20262232,2026-09-18 04:50:00,City Park West,Medical Emergency,Medium,"Dispatch alert: Elderly woman feeling dizzy and faint after standing up, now sitting down."
+INC-20267908,2026-09-18 04:57:00,Main St & 4th Ave,Medical Emergency,Critical,"dispatch alert: pregnant woman about to deliver at the bus stop, cannot make it to hospital. bystanders are assisting. someone may be hurt, unsure how badly"
+INC-20268749,2026-09-18 05:25:00,Westside Residential,Traffic Incident,High,Update: Drunk driver weaving across lanes on the highway.
+INC-20263634,2026-09-18 05:39:00,Highway 42 Mile 12,Property Crime,Medium,"FYI: Ongoing vandalism, yotuhs tagging the exterior of the public library with spray paint."
+INC-20263721,2026-09-18 05:50:00,Highway 42 Mile 12,Public Disturbance,Medium,"Witness states: Neighbours loudly fighting, sounds of things breaking."
+INC-20261646,2026-09-18 06:07:00,City Park West,Suspicious Activity,Medium,Update: Vacant warehouse unlocked with a torch beam visible inside. Caller wishes to stay anonymous.
+INC-20269663,2026-09-18 06:12:00,Main St & 4th Ave,Suspicious Activity,Low,"FYI: Small drone hovering above houses late in the evening. Someone may be hurt, unsure how badly."
+INC-20268035,2026-09-18 06:19:00,University Campus,Property Crime,Medium,"FYI: Car broken into overnight, side window smashed and stereo missing. Caller is willing to file a report. Close to the police station"
+INC-20264456,2026-09-18 07:00:00,Central Station,Violent Crime,High,"man beating his partner at home, kids crying, caller hears screams"
+INC-20265508,2026-09-18 09:34:00,Main St & 4th Ave,Public Disturbance,Medium,Drunk man shouting abuse at passers-by near the bus station. A crowd is watching
+INC-20260282,2026-09-18 11:14:00,Northside Mall,Violent Crime,High,"pls send help. Man stabbed in the arm during an argument, beleding but conscious. Several callers are reporting this. Alcohol may be involved."
+INC-20267356,2026-09-18 11:16:00,Main St & 4th Ave,Violent Crime,Medium,"passer-by says store theft reported, man walked out with merchandise withuot paying. estimated loss still being assessed. near the hospital entrance."
+INC-20261219,2026-09-18 11:29:00,City Park West,Public Disturbance,Medium,"Domestic arugment heard through the wall, shouting and objects being thrown."
+INC-20262252,2026-09-18 13:24:00,Main St & 4th Ave,Public Disturbance,Medium,pls send help. Football fans fighting and sniging loudly on the street after the match. Crowd size is changing
+INC-20262485,2026-09-18 14:26:00,Highway 42 Mile 12,Violent Crime,Critical,"Anonymous tip: Assault in prorgess at the car park, victim screaming. Alcohol may be involved."
+INC-20261250,2026-09-18 14:46:00,East End Industrial,Public Disturbance,High,Urgent - Mob gathering and throwing stones at a shop after a dispute. Situation has been going on for a while. Shop owners are outside.
+INC-20266631,2026-09-18 16:06:00,Northside Mall,Property Crime,High,"caller reports: arson suspected, shed fire spreading to the neighbournig house. estimated loss still being assessed"
+INC-20269724,2026-09-18 16:13:00,Northside Mall,Violent Crime,High,"Domestic violence call, husband hitting his wife, children inside. People are leaving the area"
+INC-20269679,2026-09-18 17:30:00,Northside Mall,Property Crime,Medium,Group of teens currently spray painting graffiti on the library wall. Caller is willing to file a report.
+INC-20265574,2026-09-18 17:56:00,Central Station,Property Crime,Medium,"Witness states: Socoter taken from the street overnight, owner has the registration details. Caller is willing to file a report"
+INC-20261600,2026-09-18 18:00:00,City Park West,Traffic Incident,High,"911 call: Serious multi-car crash closing all lanes, fluids spilling and fire hazard present. A man was seen runnnig away."
+INC-20265370,2026-09-18 18:22:00,East End Industrial,Property Crime,Medium,"fyi: skimming device found on the atm card slot. someone may be hurt, unsure how badly."
+INC-20260697,2026-09-18 18:23:00,Downtown Transit Center,Violent Crime,High,"Anonymous tip: Attempted abduction of a young girl, van left the scene. Several callers are reporting this"
+INC-20267591,2026-09-18 18:27:00,Downtown Transit Center,Violent Crime,Critical,"Update: Assault in progress at the car park, victim screaming. It is dark and hard to see."
+INC-20265583,2026-09-18 19:25:00,University Campus,Suspicious Activity,Low,pls send help. Drone flying over the residential area at night. Caller wishes to stay anonymous. Vehicles are parked nearby
+INC-20261330,2026-09-18 19:28:00,University Campus,Public Disturbance,Medium,pls send help. intoxicated person harassing commuters at the station. calelr can't give an exact address.
+INC-20262392,2026-09-18 19:29:00,Central Station,Medical Emergency,Critical,"FYI: Convenience store hold-up in progress, armed susepcts on site, critical situation. Caller is sheltering in a safe spot. Vehicles are parked nearby"
+INC-20268072,2026-09-18 20:33:00,City Park West,Public Disturbance,Low,"Dispute between hawkers about stall locations, voices raised. Nearby residents are being affected. A crowd is watching"
+INC-20267753,2026-09-18 20:35:00,City Park West,Suspicious Activity,Medium,"Domestic argument heard through the wall, shouting and objects being thrown."
+INC-20265469,2026-09-18 20:37:00,Main St & 4th Ave,Suspicious Activity,High,Several men observing the jewellery shop for a long time.
+INC-20261083,2026-09-18 21:11:00,Northside Mall,Property Crime,Medium,Anonymous tip: Catalytic converter stolen from a parked car at the depot. Suspect description is limited.
+INC-20265616,2026-09-18 23:47:00,Highway 42 Mile 12,Violent Crime,High,Witnses states: Group of men beating a teenager outside the school.
+INC-20266377,2026-09-19 02:35:00,City Park West,Medical Emergency,Critical,"fyi: child found floating in the pool, not breathing, parents attempting rescue breaths"
+INC-20260793,2026-09-19 03:24:00,East End Industrial,Traffic Incident,Low,Witness states: Car has been blocking a fire hydrant for two hours.
+INC-20265948,2026-09-19 03:27:00,Main St & 4th Ave,Traffic Incident,High,"Car swerving dangerously across lanes, driver appears intoxicated."
+INC-20265195,2026-09-19 04:52:00,East End Industrial,Medical Emergency,Medium,Person fainted briefly at a bus stop and is now aawke and talking.
+INC-20262330,2026-09-19 06:13:00,City Park West,Traffic Incident,High,"Caller reports: Car travleling against traffic on the interstate at high speed, head-on crash likely. Other drivers are slowing down. Caller can't give an exact address."
+INC-20261800,2026-09-19 06:23:00,Downtown Transit Center,Public Disturbance,Critical,"Passer-by says Pedestrian struck by a speeding car, not moving, heavy bleeding. Traffic is backing up. Shop owners are outside"
+INC-20260336,2026-09-19 07:43:00,Main St & 4th Ave,Violent Crime,High,"Urgent - Robbery at knifepoint on the street, victim lost phone and wallet, no injuries"
+INC-20261204,2026-09-19 08:16:00,City Park West,Public Disturbance,Medium,"911 call: two individuals in a heated verbal altercation outside the bar, escalating quickly. close to the police station."
+INC-20260638,2026-09-19 09:00:00,Highway 42 Mile 12,Public Disturbance,Medium,Football fans fighting and singing loudly on the street after the match. Several onlookers are present. Close to the police station.
+INC-20266610,2026-09-19 09:45:00,Westside Residential,Traffic Incident,High,"Serious multi-car crash closing all lanes, fluids spilling and fire hazard present. Other drivers are slowing down"
+INC-20265144,2026-09-19 11:35:00,City Park West,Suspicious Activity,Medium,"Abandoned backpack on the platform, no owner in sight."
+INC-20268577,2026-09-19 11:56:00,Downtown Transit Center,Suspicious Activity,Medium,caller says a stranger keeps asking neighbours when the family leaves home. no crime has been confirmed yet. it is dark and hard to see.
+INC-20266684,2026-09-19 12:49:00,Central Station,Traffic Incident,Medium,"Update: Motorcyclist slipped on oil, minor injuries, bike blocking part of the lane. Traffic is backing up. Caller heard a loud noise earlier."
+INC-20268338,2026-09-19 16:26:00,Downtown Transit Center,Suspicious Activity,Low,Passer-by says Drone flying over the residenital area at night
+INC-20261801,2026-09-19 16:54:00,Northside Mall,Suspicious Activity,Low,Witness states: Man photograpihng the bank's front door and cameras repeatedly
+INC-20269188,2026-09-19 17:28:00,Highway 42 Mile 12,Property Crime,Medium,"Caller reports: Car broken into overnight, side window smashed and stereo missing. Caller is willing to file a report. Caller can't give an exact address."
+INC-20264790,2026-09-19 18:37:00,University Campus,Property Crime,Low,witness states: mailbox damaged by an unknown person during the night.
+INC-20269372,2026-09-19 18:40:00,Highway 42 Mile 12,Suspicious Activity,High,"anonymous tip: door of an empty wareohuse found open, light moving inside. shop owners are outside."
+INC-20268699,2026-09-19 19:17:00,University Campus,Public Disturbance,Medium,Witness states: Rowdy supporters causing a scene on the road afetr the game.
+INC-20260536,2026-09-19 20:51:00,Downtown Transit Center,Property Crime,Medium,Anonymuos tip: Resident says someone broke in through a smashed window and ran off about ten minutes ago.
+INC-20260659,2026-09-19 21:25:00,Downtown Transit Center,Medical Emergency,High,"Passer-by says Man with diabetes acitng disoriented and shaky, may need urgent glucose. Caller is not a medical professional. It is dark and hard to see."
+INC-20266017,2026-09-19 22:20:00,City Park West,Public Disturbance,High,"caller reports: angry crowd pelting stones at a store, shutters being damaged. near the hospital entrance."
+INC-20264103,2026-09-19 23:57:00,City Park West,Violent Crime,Medium,"Threatening messages recevied from an ex-partner, caller fears for safety. It is dark and hard to see."
+INC-20262443,2026-09-19 23:58:00,Westside Residential,Suspicious Activity,Low,Dispatch alert: Person sleeping in a parked car for two days. No crime has been confirmed yet. A crowd is watching.
+INC-20268274,2026-09-20 00:33:00,Central Station,Public Disturbance,Low,"Anonymous tip: Dispute between hawkers about stall locations, voices raised. Near the hospital entrance"
+INC-20260663,2026-09-20 02:19:00,Main St & 4th Ave,Traffic Incident,High,"Anonymous tip: Lorry hit the central divider, driver conscious but hurt. A crowd is watching."
+INC-20263444,2026-09-20 04:54:00,University Campus,Medical Emergency,High,"Man vomiting blood in the train station, pale and weak. Near the hosptial entrance"
+INC-20262043,2026-09-20 05:16:00,Northside Mall,Medical Emergency,Medium,"Passer-by says Teenager twisted ankle during football practice, swelling and unable to walk. Caller is staying on the line. Caller is frightened."
+INC-20262001,2026-09-20 05:31:00,Northside Mall,Traffic Incident,Critical,"Anonymuos tip: Car travelling against traffic on the interstate at high speed, head-on crash likely. Traffic is backing up. Shop owners are outside."
+INC-20269674,2026-09-20 06:07:00,Downtown Transit Center,Public Disturbance,Medium,pls send help. intoxicated person harassing commuters at the station. nearby residents are being affected.
+INC-20261745,2026-09-20 07:10:00,Central Station,Property Crime,Medium,Anonymous tip: Storefront defaced with paint during the night. Suspect descriptoin is limited. Shop owners are outside
+INC-20267641,2026-09-20 07:56:00,Northside Mall,Suspicious Activity,Low,Van with tnited windows idle near the school gates since morning.
+INC-20265083,2026-09-20 09:15:00,Westside Residential,Medical Emergency,Critical,"Urgent - Convulsions followed by unresponsiveness, no history of epilepsy. Bystanders are assisting."
+INC-20261086,2026-09-20 10:49:00,Downtown Transit Center,Traffic Incident,High,"Urgent - Serious multi-car crash closing all lanes, fluids spilling and fire hazard present. Caller is frightened"
+INC-20263061,2026-09-20 11:49:00,Main St & 4th Ave,Public Disturbance,High,FYI: Mob gathering and throwing stones at a shop after a dispute
+INC-20264968,2026-09-20 11:58:00,City Park West,Suspicious Activity,Low,urgent - someone walking along the street peering into parked cars with a torch.
+INC-20269857,2026-09-20 13:42:00,Northside Mall,Medical Emergency,Critical,"FYI: Pregnant woman about to deliver at the bus stop, cannot make it to hospital. Near the hospital entrance"
+INC-20269370,2026-09-20 15:02:00,Westside Residential,Traffic Incident,High,"Truck lost control and crashed into the divider, driver injured. Other drivers are slowing down."
+INC-20267207,2026-09-20 15:25:00,Westside Residential,Traffic Incident,Low,"Passer-by says Traffic signal not working at the junction, cars moving slowly. Plate number partially noted."
+INC-20262179,2026-09-20 15:30:00,Northside Mall,Violent Crime,Critical,"immediate dispatch needed. suspect is armed with a knife and actively threatening pedestrians. somenoe may be hurt, unsure how badly."
+INC-20265350,2026-09-20 15:38:00,University Campus,Violent Crime,Critical,"pls send help. Shots fired near the market, people running and screaming. Soemone may be hurt, unsure how badly."
+INC-20260140,2026-09-20 16:40:00,Downtown Transit Center,Property Crime,Medium,"Witness states: Shop owner reoprts shoplifting, suspect left with electronics. Estimated loss still being assessed."
+INC-20263034,2026-09-20 18:04:00,Main St & 4th Ave,Public Disturbance,Medium,"Unplanned demonstration blocking traffic, crowd growing."
+INC-20265452,2026-09-20 18:25:00,Northside Mall,Traffic Incident,Medium,"Officer on scene notes: Pothole damaged tyres of several cars on the main road. Traffic is backing up. Someone may be hurt, unsure how badly."
+INC-20262212,2026-09-20 19:24:00,Main St & 4th Ave,Suspicious Activity,Low,911 call: Abandoned package spotted near the front doors of a government office. No crime has been confirmed yet.
+INC-20265020,2026-09-20 20:44:00,Main St & 4th Ave,Public Disturbance,Medium,Update: Drunk man shouting abuse at passers-by near the bus station
+INC-20260270,2026-09-20 21:54:00,Northside Mall,Public Disturbance,Low,911 call: Street performer with a loud speaker disturbing nearby shops
+INC-20265922,2026-09-20 22:14:00,Main St & 4th Ave,Traffic Incident,Medium,Dispatch alert: High speed hit-and-run crash. Vehicle is fleeing northbound. Urgent medical needed. Road is wet
+INC-20260122,2026-09-20 22:22:00,Downtown Transit Center,Public Disturbance,Low,Anonymous tip: Person looking into parked cars with a flashlight. No crime has been confirmed yet. Shop owners are outside
+INC-20267230,2026-09-20 22:38:00,Downtown Transit Center,Violent Crime,Critical,"Officer on scene notes: Hostage situation reported at the bank, armed man inside. Responding units should approach with caution."
+INC-20263292,2026-09-21 00:04:00,Westside Residential,Traffic Incident,Low,"Update: Truck double parked in front of the shop, narrowing the road."
+INC-20263070,2026-09-21 00:13:00,East End Industrial,Public Disturbance,High,"Urgent - Fight between two groups outside the club, injuries reported."
+INC-20264488,2026-09-21 01:09:00,Main St & 4th Ave,Medical Emergency,Critical,"Suspected drug overdose in the restroom, patient barely responsive. EMTs needed urgently. Caller is not a meidcal professional."
+INC-20264145,2026-09-21 01:57:00,Main St & 4th Ave,Suspicious Activity,Low,Update: Man photographing the bank's front door and cameras repeatedly. Caller wisehs to stay anonymous
+INC-20264032,2026-09-21 02:49:00,Downtown Transit Center,Violent Crime,Critical,"Urgent - Assault in progress at the car park, victim screaming."
+INC-20265507,2026-09-21 02:49:00,East End Industrial,Property Crime,Medium,Witness states: Bicycle stolen from rack outside the grocery store. Video footage available.
+INC-20261630,2026-09-21 03:19:00,Westside Residential,Medical Emergency,Critical,"Elderly male collapsed on the sidewalk, not breathing. CPR in progress. A man was seen running away"
+INC-20267109,2026-09-21 03:36:00,Main St & 4th Ave,Suspicious Activity,Low,Dispacth alert: Abandoned package spotted near the front doors of a government office. A crowd is watching.
+INC-20266787,2026-09-21 03:37:00,Highway 42 Mile 12,Property Crime,Medium,"Passer-by says Cash machine tampered with, device attached to the card reader. Estimated loss still being assessed."
+INC-20262292,2026-09-21 03:53:00,Westside Residential,Violent Crime,Critical,"Officer on scene notes: Gunfire at the makret square, crowds fleeing. Alcohol may be involved."
+INC-20260294,2026-09-21 03:57:00,Downtown Transit Center,Public Disturbance,Medium,Officer on scene notes: Neighbors complain of a loud party with fireworks going off in a residential street. Several onlookers are present. Close to the police station.
+INC-20264732,2026-09-21 04:50:00,Highway 42 Mile 12,Violent Crime,Medium,"Passer-by says Man punched a shopkeeper during a dispute, minor injury, suspect still around. Caller can't give an eaxct address."
+INC-20263223,2026-09-21 05:32:00,Downtown Transit Center,Traffic Incident,Medium,"Urgent - Tree fallen across the road after the storm, cars stopped. Road is wet"
+INC-20267757,2026-09-21 05:52:00,Highway 42 Mile 12,Medical Emergency,Critical,"Caller reports: Chest pain radiating down the arm, patient is grey and short of breath. Caller is frightened."
+INC-20268027,2026-09-21 07:17:00,Westside Residential,Medical Emergency,Critical,"Caller reports: Woman in labour, contractions two minutes apart, baby is crowning. Caller heard a loud noise earlier"
+INC-20266076,2026-09-21 08:21:00,Downtown Transit Center,Medical Emergency,High,"Caller reports: Chest pain radiating down the arm, patient is grey and short of breath. Caller is staying on the line"
+INC-20267863,2026-09-21 09:19:00,East End Industrial,Suspicious Activity,Low,911 call: Package left unattended near the entracne of the government building. A man was seen running away.
+INC-20263217,2026-09-21 09:42:00,University Campus,Violent Crime,Critical,Officer on scene notes: Immediate dispatch needed. Suspect is armed with a knife and actively threatening pedestrians. Caller is sheltering in a safe spot. A man was seen running away.
+INC-20268800,2026-09-21 11:23:00,Northside Mall,Medical Emergency,Critical,"Witness states: Suspected drug overdose in the restroom, patient barely responsive. EMTs needed urgently. Ambulance access is from the main entrance. Shop owners are outside."
+INC-20262371,2026-09-21 13:45:00,Westside Residential,Medical Emergency,Critical,"Dispatch alert: Child found floating in the pool, not breathing, parents attempting rescue breaths. Caller is not a medical professional. Near the hospital entrance."
+INC-20265377,2026-09-21 13:58:00,Downtown Transit Center,Violent Crime,Critical,"Critical emergency: Armed robbery in progress at the convenience store, suspects have weapons. Responding units should approach with caution"
+INC-20260035,2026-09-21 14:18:00,Central Station,Property Crime,Low,"Garden tools missing from the backyard shed, no forced entry. Caller is willing to file a report. A man was seen running away."
+INC-20264948,2026-09-21 14:21:00,University Campus,Medical Emergency,High,"Dispatch alert: Man stabbed in the arm during an argument, bleeding but conscious. Someone may be hurt, unsure how badly"
+INC-20266736,2026-09-21 14:40:00,East End Industrial,Property Crime,Medium,"Urgent - Cash machine tampered with, device attached to the card reader."
+INC-20267361,2026-09-21 16:00:00,East End Industrial,Public Disturbance,High,"911 call: Fight between two groups outside the club, injuries reported. Caller heard a loud noise earlier."
+INC-20267037,2026-09-21 18:03:00,Main St & 4th Ave,Medical Emergency,Critical,"Woman in labour, contractions two minutes apart, baby is crowning."
+INC-20267775,2026-09-21 18:32:00,Central Station,Public Disturbance,Medium,Witness states: Large crowd blocking the road during an unauthoriesd protest.
+INC-20266088,2026-09-21 18:44:00,Westside Residential,Property Crime,Medium,"911 call: parts cut off a parked vehicle overnight, exhaust section missing. a man was seen running away."
+INC-20263216,2026-09-21 19:02:00,Highway 42 Mile 12,Property Crime,Low,"Witness states: Garden tools missing from the backyard shed, no forced entry. Caller is willing to file a report."
+INC-20262409,2026-09-21 19:13:00,Downtown Transit Center,Property Crime,Medium,FYI: Storefront defaced with paint during the night. Suspect desrciption is limited
+INC-20266122,2026-09-21 19:30:00,Northside Mall,Property Crime,Medium,Dispatch alert: Catalytic converter stolen from a parked car at the depot. Nearby cameras may have reocrded it.
+INC-20263532,2026-09-21 19:42:00,Downtown Transit Center,Public Disturbance,Low,"FYI: Busker playing amplified music near the market, shopkeepers complaining. Several onlookers are present."
+INC-20269015,2026-09-21 20:23:00,Downtown Transit Center,Suspicious Activity,High,Nervous individual with a heavy bag avoiding security at the stadium gate. Behaviour started about twenty minutes ago
+INC-20267372,2026-09-21 20:44:00,Downtown Transit Center,Property Crime,High,"911 call: Arson suspected, shed fire spreading to the neighbouring house. Suspect description is limited. A crowd is watching."
+INC-20265474,2026-09-21 21:01:00,City Park West,Property Crime,Medium,Dispatch alert: Owner reports a bike taken from the rack at the grocery store. Secuirty camera footage exists. Estimated loss still being assessed. Vehicles are parked nearby.
+INC-20261702,2026-09-21 22:32:00,City Park West,Suspicious Activity,Medium,Drone flying over the reisdential area at night. Caller did not approach the subject. Caller can't give an exact address.
+INC-20269609,2026-09-21 22:58:00,East End Industrial,Property Crime,Medium,"Anonymous tip: Cash machine tampered with, device attached to the card reader. Caller is frightened."
+INC-20261778,2026-09-22 00:23:00,East End Industrial,Medical Emergency,Critical,"Caller reports: Baby is coming now, contractions very close together, no ambulance on site. Ambulance access is from the main entrance. It is dark and hard to see."
+INC-20263590,2026-09-22 00:30:00,Main St & 4th Ave,Property Crime,Medium,911 call: graffiti on the shop shutters and walls overnight.
+INC-20263173,2026-09-22 00:31:00,Westside Residential,Suspicious Activity,Medium,"Anonymous tip: Abandoned backpack on the platform, no owner in sight. Caller wishes to stay anonymous. Close to the police station"
+INC-20261247,2026-09-22 00:48:00,Main St & 4th Ave,Traffic Incident,High,"Passer-by says Wrong-way driver spedeing down the interstate, serious risk of a head-on collision."
+INC-20261249,2026-09-22 00:56:00,University Campus,Violent Crime,Critical,Life-threatening situation. Caller reports multiple gunshots and someone is severely bleeding.
+INC-20264571,2026-09-22 02:00:00,University Campus,Traffic Incident,Low,Stalled vehcile with hazard lights on in the left lane. Shop owners are outside.
+INC-20266383,2026-09-22 02:19:00,University Campus,Suspicious Activity,Medium,pls send help. Suspicious person loitering near the ATM and aggressively asking for money. Caller heard a loud noise earlier.
+INC-20269550,2026-09-22 02:26:00,Highway 42 Mile 12,Traffic Incident,High,"Passer-by says Hit-and-run at high speed, driver fleeing north, injured party needs medical help urgently. Caller can't give an exact address."
+INC-20262178,2026-09-22 02:37:00,Downtown Transit Center,Medical Emergency,Medium,"Dispatch alert: Teenager twisted ankle during football practice, swelling and unable to walk. It is dark and hard to see."
+INC-20261183,2026-09-22 02:40:00,Northside Mall,Violent Crime,Critical,"Passer-by says Gnuman holding employees at the bank, people trapped."
+INC-20263381,2026-09-22 03:16:00,University Campus,Traffic Incident,Low,Update: Double parked delivery truck blocking one lane. Alcoohl may be involved.
+INC-20264634,2026-09-22 04:02:00,Westside Residential,Medical Emergency,Critical,"Passer-by says Baby is coming now, contractions very close together, no ambulance on site."
+INC-20260668,2026-09-22 04:20:00,Downtown Transit Center,Medical Emergency,Low,"Passer-by says Person with a minor cut on the hand nedes a bandage, bleeding has stopped. Bystanders are assisting. It is dark and hard to see."
+INC-20260004,2026-09-22 05:58:00,Downtown Transit Center,Suspicious Activity,Low,"Caller reports: Garden tools missing from the backyard shed, no forced entry. Caller is willing to file a report."
+INC-20266175,2026-09-22 07:59:00,Westside Residential,Violent Crime,High,Anonymous tip: Group of men beating a teenager outside the school. Shop owners are outside
+INC-20269050,2026-09-22 09:32:00,Central Station,Medical Emergency,Critical,"pls send help. baby is coming now, contractions very close together, no ambulance on site. bystanders are assisting"
+INC-20261524,2026-09-22 09:45:00,City Park West,Property Crime,Low,"Wallet reported lost at the market, no sign of theft. Calelr is willing to file a report."
+INC-20267911,2026-09-22 09:46:00,City Park West,Violent Crime,High,"Caller reports: Stab wuond to the arm after a quarrel, victim talking, suspect fled. It is dark and hard to see"
+INC-20261893,2026-09-22 12:10:00,University Campus,Medical Emergency,Low,"anonymous tip: older lady lightheaded and weak at the market, alert and talking. caller is staying on the line."
+INC-20265824,2026-09-22 12:31:00,University Campus,Public Disturbance,Medium,Dispatch alert: Pack of stary dogs barking and chasing people close to the school gate. Close to the police station.
+INC-20263664,2026-09-22 13:50:00,City Park West,Medical Emergency,Low,FYI: Caller has had a mild headache and nausea since morning and wnats advice
+INC-20267885,2026-09-22 14:43:00,Main St & 4th Ave,Violent Crime,Critical,"pls send help. Knife-wielding suspect menacing pedestrians right now, urgent dispatch required. Vehicles are parked nearby."
+INC-20265352,2026-09-22 14:53:00,Northside Mall,Suspicious Activity,Medium,Urgent - Group of men watching the jewellery store from across the street.
+INC-20260973,2026-09-22 15:43:00,Westside Residential,Medical Emergency,Medium,pls send help. Person fainted brielfy at a bus stop and is now awake and talking. Vehicles are parked nearby.
+INC-20263116,2026-09-22 16:11:00,Northside Mall,Public Disturbance,Low,"Caller reports: Teenagers loitreing and playing loud music in the park after closing time. Someone may be hurt, unsure how badly."
+INC-20265243,2026-09-22 16:15:00,Downtown Transit Center,Property Crime,Medium,"Shop owner reports shoplifting, suspect left with electronics. Nearby cameras may have recorded it."
+INC-20261124,2026-09-22 17:57:00,University Campus,Medical Emergency,Critical,"urgent - toddler pulled from the swimming pool, not responding. bystanders are assisting."
+INC-20263479,2026-09-22 18:15:00,City Park West,Traffic Incident,Low,passer-by says broken traffic light causing slow-moving queues at the crossing. road is wet
+INC-20266374,2026-09-22 18:59:00,Highway 42 Mile 12,Public Disturbance,Medium,911 call: large crowd blocking the road during an unauthorised protest. several onlookers are present. shop owners are outside
+INC-20264576,2026-09-22 19:31:00,Westside Residential,Medical Emergency,Medium,"Update: Player injured leg at the sports ground, possible fracture, conscoius and stable. Caller is not a medical professional"
+INC-20266400,2026-09-22 20:42:00,Central Station,Suspicious Activity,Medium,passer-by says group of men watching the jewellery store from acrsos the street. behaviour started about twenty minutes ago. caller can't give an exact address.
+INC-20261938,2026-09-22 21:31:00,Central Station,Suspicious Activity,Low,Urgent - Unknown van parked outside the school for several hours. Caller wishes to stay anonymous
+INC-20269835,2026-09-22 21:37:00,Main St & 4th Ave,Property Crime,High,"pls send help. neighbour's house being broken into right now, people seen moving inside. suspect description is limited. someone may be hurt, unsure how badly."
+INC-20260802,2026-09-22 22:14:00,Highway 42 Mile 12,Traffic Incident,Medium,"FYI: Large branch blocking the road, vehicles diverting. Road is wet."
+INC-20263182,2026-09-22 22:58:00,Northside Mall,Violent Crime,High,"pls send help. Domestic violence call, husband hitting his wife, children inside. Caller haerd a loud noise earlier."
+INC-20262752,2026-09-22 23:01:00,Main St & 4th Ave,Suspicious Activity,Low,Passer-by says Drone flying over the residential area at night. Alcohol may be involved.
+INC-20267817,2026-09-22 23:23:00,East End Industrial,Violent Crime,High,"fyi: robbery at knifepoint on the street, victim lost phone and wallet, no injuries. people are leaving the area"
+INC-20262389,2026-09-23 01:47:00,Central Station,Public Disturbance,Medium,FYI: Excessive noise from a house party and fireworks disturbing the neighborhood. Crowd size is changing
+INC-20264531,2026-09-23 01:57:00,Highway 42 Mile 12,Traffic Incident,Medium,"Anonymous tip: Two-wheeler skidded on a wet road, rider has scrapes and is sitting up. Other drivers are slowing down"
+INC-20267194,2026-09-23 02:19:00,Downtown Transit Center,Traffic Incident,Low,911 call: Stalled vehicle with hazard lights on in the left lane.
+INC-20262870,2026-09-23 03:15:00,Highway 42 Mile 12,Property Crime,Low,"Passer-by says Garden tools missing from the backyard shed, no forced entry. Close to the police station."
+INC-20261573,2026-09-23 06:28:00,Main St & 4th Ave,Traffic Incident,Low,Unattended car abandoned on the side of the highway with no occupants. Other drivers are slowing down. Caller can't give an exact address
+INC-20262714,2026-09-23 07:33:00,Central Station,Property Crime,Medium,Update: Skimming device found on the ATM card slot. Suspect description is limited. Caller is frightened.
+INC-20267673,2026-09-23 07:37:00,Westside Residential,Property Crime,Medium,"caller reports: vehicle break-in in the apartment parking, glass on the ground and items taken."
+INC-20267127,2026-09-23 07:59:00,Highway 42 Mile 12,Public Disturbance,High,"Anonmyous tip: Fight between two groups outside the club, injuries reported. Crowd size is changing."
+INC-20268188,2026-09-23 08:25:00,Central Station,Violent Crime,Medium,"man punched a shopkeeper during a dispute, minor injury, suspect still around."
+INC-20261638,2026-09-23 08:43:00,Central Station,Violent Crime,High,"FYI: Robbery at knifepoint on the street, victim lost phone and wallet, no injuries."
+INC-20269094,2026-09-23 11:21:00,Downtown Transit Center,Violent Crime,Critical,"Witness states: Gunfire at the market square, crowds fleeing. People are leaving the area. Caller can't give an exact address."
+INC-20269978,2026-09-23 11:39:00,Downtown Transit Center,Traffic Incident,Critical,"Passer-by says Bus overturned with passengers trapped, people screaming for help. Plate number pratially noted. Caller is frightened"
+INC-20263579,2026-09-23 12:29:00,Downtown Transit Center,Traffic Incident,High,"911 call: Truck lost control and crashed into the divider, driver injured. Other drivers are slowing down."
+INC-20261752,2026-09-23 13:22:00,Downtown Transit Center,Violent Crime,Medium,"shokpeeper hit in the face during a quarrel, bruised and angry."
+INC-20269496,2026-09-23 13:49:00,Westside Residential,Suspicious Activity,Low,FYI: Vacant warehouse unlocked with a torch beam visible inside.
+INC-20262437,2026-09-23 15:11:00,Downtown Transit Center,Property Crime,Medium,"scooter taken from the street overnight, owner has the registration details. suspect description is limited."
+INC-20260199,2026-09-23 15:38:00,East End Industrial,Property Crime,Medium,"witness states: parts cut off a parked vehicle overnight, exhaust setcion missing. caller can't give an exact address."
+INC-20260722,2026-09-23 15:47:00,City Park West,Violent Crime,Medium,"Anonymous tip: Man punched a shopkeeper during a dispute, minor injury, ssupect still around."
+INC-20265431,2026-09-23 15:47:00,Main St & 4th Ave,Property Crime,Medium,Update: Vandalism in progress: teenagers spray painting the side of the library
+INC-20266042,2026-09-23 15:53:00,Central Station,Property Crime,Medium,"Update: Scooter taken from the street overnight, owenr has the registration details. A man was seen running away"
+INC-20264106,2026-09-23 16:50:00,East End Industrial,Medical Emergency,Critical,"Update: Man having chest pain and sweating, says the pain is spreading to his left arm. Ambulance access is from the main entrance. It is dark and hard to see."
+INC-20260841,2026-09-23 17:20:00,Downtown Transit Center,Traffic Incident,Low,Dispatch alert: Broken traffic light causing slow-moving queues at the crossing.
+INC-20269816,2026-09-23 18:24:00,Downtown Transit Center,Public Disturbance,Low,"FYI: Street vendors arguing over pitch space, no violence. Several onlookers are present. Near the hospital entrance."
+INC-20264901,2026-09-23 18:48:00,Northside Mall,Medical Emergency,Medium,"Passer-by says Man blacked out for a few seconds in the queue, now conscious and anwsering questions. Caller can't give an exact address"
+INC-20260932,2026-09-23 19:28:00,Main St & 4th Ave,Violent Crime,High,"Anonymous tip: Active shooter reported in the downtown mall. Multiple casualties, need immediate backup. Responding units should approach with caution"
+INC-20269743,2026-09-23 21:05:00,Main St & 4th Ave,Traffic Incident,High,"Caller reports: Worker fell from scaffolding, awake but complaining of severe back pain and numb legs. It is dark and hard to see."
+INC-20266572,2026-09-23 21:21:00,Downtown Transit Center,Property Crime,Medium,Anonymous tip: Owner reports a bike taken from the rack at the grocery store. Security camera footage exists.
+INC-20264028,2026-09-23 21:35:00,Central Station,Traffic Incident,Medium,"urgent - truck double parked in front of the shop, narrowing the road. road is wet."
+INC-20263028,2026-09-23 23:00:00,East End Industrial,Violent Crime,Low,"Busker playing amplified music near the market, shopkeepers complaining. Situation has been going on for a while."
+INC-20268288,2026-09-23 23:29:00,City Park West,Property Crime,High,"Anonymous tip: Burglary in progress, caller hears intruders inside the neighbouring house. Nearby cameras may have recorded it. Alcohol may be involved."
+INC-20262735,2026-09-24 00:05:00,Northside Mall,Property Crime,Medium,"Dispatch alert: Parts cut off a parked vehicle overnight, exhaust section missing."
+INC-20260392,2026-09-24 01:10:00,Westside Residential,Traffic Incident,High,"pls send help. lorry hit the central divider, driver conscious but hurt. road is wet."
+INC-20262998,2026-09-24 01:14:00,Westside Residential,Traffic Incident,Medium,pothole damaged tyres of several cars on the main road. traffic is backing up.
+INC-20267921,2026-09-24 01:22:00,Highway 42 Mile 12,Property Crime,Medium,Owner reports a bike taken from the rack at the grocery store. Security camera footage exists. Nearby cameras may have recorded it. Shop owners are outside.
+INC-20260555,2026-09-24 01:25:00,Main St & 4th Ave,Public Disturbance,Low,Street performer with a loud speaker disturibng nearby shops.
+INC-20267745,2026-09-24 02:17:00,Main St & 4th Ave,Property Crime,Medium,Caller reports: Skimming device found on the ATM card slot. Caller is willing to file a report. A man was seen running away
+INC-20262770,2026-09-24 03:56:00,Main St & 4th Ave,Violent Crime,Medium,"Officer on scene notes: Man punched a shopkeeper during a dispute, minor injury, suspect still around. Caller is sheltering in a safe spot. Caller is frightened."
+INC-20260087,2026-09-24 04:24:00,Downtown Transit Center,Medical Emergency,High,"fyi: convulsions followed by unresponsiveness, no hitsory of epilepsy. ambulance access is from the main entrance."
+INC-20268471,2026-09-24 05:06:00,East End Industrial,Medical Emergency,High,"911 call: Man vomiting blood in the train station, pale and weak."
+INC-20260061,2026-09-24 06:08:00,City Park West,Public Disturbance,Medium,"FYI: Neighbours loudly fighting, sounds of things breaking. Situation has been going on for a while. Vehicles are parked nearby."
+INC-20265158,2026-09-24 07:42:00,City Park West,Suspicious Activity,Low,Package left unattended near the entrance of the government building. No crime has been confirmed yet.
+INC-20264144,2026-09-24 08:21:00,Northside Mall,Public Disturbance,Low,"pls send help. dispute between hawkers about stall locations, voices raised. situtaion has been going on for a while. alcohol may be involved."
+INC-20264812,2026-09-24 08:45:00,Westside Residential,Traffic Incident,Medium,FYI: Pothole damaged tryes of several cars on the main road. A crowd is watching
+INC-20269462,2026-09-24 08:46:00,Central Station,Medical Emergency,Medium,"Dispatch alert: Older lady lightheaded and weak at the market, alert and talking. Ambulance access is from the main entrance."
+INC-20268154,2026-09-24 09:23:00,Central Station,Medical Emergency,Critical,"Woman in labour, contrcations two minutes apart, baby is crowning. Bystanders are assisting. Alcohol may be involved."
+INC-20265047,2026-09-24 09:35:00,Northside Mall,Traffic Incident,Low,"Urgent - Traffic signal not working at the junction, cars moving slowly. Road is wet. Caller is frightened."
+INC-20265620,2026-09-24 12:38:00,Downtown Transit Center,Violent Crime,High,"Passer-by says Domestic violence call, hubsand hitting his wife, children inside. People are leaving the area. A man was seen running away."
+INC-20262321,2026-09-24 15:14:00,East End Industrial,Medical Emergency,Low,"wintess states: small cut on a finger, bleeding controlled, wants first aid advice."
+INC-20265531,2026-09-24 16:00:00,East End Industrial,Medical Emergency,High,"Update: Diabetic patient confused and sweating, barely able to speak. Caller is frightened."
+INC-20269629,2026-09-24 16:37:00,Northside Mall,Property Crime,High,"Caller reports: Arson suspected, shed fire spreading to the neighbouring house. Estimated loss still being assessed."
+INC-20268369,2026-09-24 18:23:00,Main St & 4th Ave,Suspicious Activity,Low,pls send help. Preson looking into parked cars with a flashlight. No crime has been confirmed yet.
+INC-20263794,2026-09-24 18:54:00,University Campus,Violent Crime,Critical,"Reported kidnapping attempt, man tried to drag a girl into a van. Responding units sholud approach with caution. Near the hospital entrance"
+INC-20265164,2026-09-24 19:14:00,Westside Residential,Public Disturbance,High,"Brawl involving a dozen people at the nightclub entrance, some bleeding. Nearby residents are being affected. Alcohol may be involved."
+INC-20265744,2026-09-24 19:45:00,University Campus,Violent Crime,Medium,"Urgent - Shopkeeper hit in the face during a quarrel, bruised and angry."
+INC-20263910,2026-09-24 20:06:00,Northside Mall,Medical Emergency,Critical,"suspected drug overdose in the restroom, patient barely responsive. emts needed urgently. it is dark and hard to see."
+INC-20263609,2026-09-24 21:59:00,City Park West,Medical Emergency,Low,Officer on scene notes: Caller has had a mild headache and nausea since morning and wants advice. Bystanders are assisting.
+INC-20263437,2026-09-24 22:06:00,University Campus,Suspicious Activity,Low,FYI: Unfamiliar vehicle circling the cul-de-sac for the past 30 minutes.
+INC-20267550,2026-09-24 22:12:00,City Park West,Property Crime,Medium,Bicycle stoeln from rack outside the grocery store. Video footage available.
+INC-20260603,2026-09-24 23:13:00,Westside Residential,Violent Crime,Medium,"Witness states: Shopkeeper hit in the face druing a quarrel, bruised and angry. People are leaving the area."
+INC-20268770,2026-09-24 23:30:00,Highway 42 Mile 12,Public Disturbance,Low,FYI: Pack of stray dogs bakring and chasing people close to the school gate. Crowd size is changing.
+INC-20263359,2026-09-24 23:38:00,Central Station,Public Disturbance,High,"Caller reports: Angry crowd pelting stones at a store, shutters being damaged. Crowd size is changing."
+INC-20266618,2026-09-24 23:42:00,East End Industrial,Suspicious Activity,Low,update: unknown car has been driving round and round the cul-de-sac for half an hour. vehicles are parked nearby.
+INC-20268648,2026-09-25 00:46:00,Downtown Transit Center,Public Disturbance,Medium,"911 call: fight between two groups outside the club, injuries reported. alcohol may be involved."
+INC-20267041,2026-09-25 01:42:00,Downtown Transit Center,Traffic Incident,Critical,"Caller reports: Person found unconscious in a public restroom, suspected overdose. Send paramedics now. Caller is staying on the line. Caller heard a loud noise earlier."
+INC-20269328,2026-09-25 04:45:00,City Park West,Suspicious Activity,Medium,Passer-by says Unknown person repeatedly asking about the neighbour's whereabouts. It is dark and hard to see.
+INC-20260024,2026-09-25 04:47:00,University Campus,Traffic Incident,Critical,"passer-by says bus overturned with passengers trapped, people screaming for help. traffic is backing up. claler can't give an exact address"
+INC-20260045,2026-09-25 05:16:00,Northside Mall,Violent Crime,High,Witness states: Several men attacking a boy near the school gate. Caller heard a loud noise earlier.
+INC-20264386,2026-09-25 06:05:00,University Campus,Property Crime,Low,"911 call: Garden tools missing from the backyard shed, no forced entry."
+INC-20267815,2026-09-25 06:33:00,City Park West,Public Disturbance,Low,Dispatch alert: Street performer with a loud speaker disturbing nearby shops.
+INC-20262513,2026-09-25 08:07:00,Highway 42 Mile 12,Property Crime,Low,"Anonymous tip: Lost purse, caller thinks it was dropped, wants it logged. Suspect description is limited"
+INC-20262227,2026-09-25 12:26:00,Westside Residential,Suspicious Activity,Medium,911 call: several men observnig the jewellery shop for a long time.
+INC-20266469,2026-09-25 12:40:00,Central Station,Suspicious Activity,Low,pls send help. Same car with someone inside parked on the street for two days. No crime has been confirmed yet. Caller heard a loud noise earlier.
+INC-20264116,2026-09-25 13:28:00,Downtown Transit Center,Public Disturbance,Medium,"Passer-by says Busker playing amplified music near the market, shopkeepers complaining. Sevearl onlookers are present. Close to the police station"
+INC-20266045,2026-09-25 15:26:00,Highway 42 Mile 12,Suspicious Activity,Medium,Anonymuos tip: Unknown person repeatedly asking about the neighbour's whereabouts. Caller did not approach the subject.
+INC-20268677,2026-09-25 16:25:00,Main St & 4th Ave,Medical Emergency,Low,"Witness states: Player injured leg at the sports ground, possible fracture, consicous and stable."
+INC-20266628,2026-09-25 16:37:00,Central Station,Traffic Incident,Critical,"Child found floating in the pool, not breathing, parents attempting rescue breaths. Caller is not a medical professional. It is dark and hard to see."
+INC-20261397,2026-09-25 16:42:00,Downtown Transit Center,Traffic Incident,Low,"Urgent - Small collision in the parking lot, nobody hurt and traffic is flowing."
+INC-20261358,2026-09-25 17:11:00,Highway 42 Mile 12,Medical Emergency,Critical,"Anonymuos tip: Toddler pulled from the swimming pool, not responding. Caller is staying on the line."
+INC-20262243,2026-09-25 17:39:00,Highway 42 Mile 12,Violent Crime,High,"911 call: man beating his partner at home, kids crying, caller hears screams. caller is sheltering in a safe spot."
+INC-20269641,2026-09-25 19:23:00,Westside Residential,Medical Emergency,High,"Caller reports: Worker fell from scaffolding, awake but complaining of severe back pain and numb legs. Caller is staying on the line."
+INC-20260665,2026-09-25 19:28:00,Main St & 4th Ave,Public Disturbance,Low,pls send help. Large crowd blocking the road during an unauthorised protest. Nearby residents are being affected. A crowd is watching
+INC-20269403,2026-09-25 20:06:00,University Campus,Traffic Incident,High,"FYI: Wrong-way driver speeding down the interstate, serious risk of a head-on collision. Traffic is backing up."
+INC-20266651,2026-09-25 21:01:00,City Park West,Suspicious Activity,Low,anonymous tip: abandoned package spotted near the front doors of a government office. caller wishes to stay anonymous.
+INC-20269195,2026-09-25 22:05:00,City Park West,Violent Crime,Critical,"Caller reports: Shots fired near the market, people running and screaming. Responding units should approach with caution."
+INC-20267085,2026-09-25 22:06:00,Highway 42 Mile 12,Property Crime,High,"Witness states: Burglary in progress, caller hears intruders inside the neighbouring house. Close to the police station"
+INC-20263515,2026-09-25 22:07:00,City Park West,Traffic Incident,Low,Dsipatch alert: Vehicle parked illegally in front of a fire hydrant for the last two hours. Vehicles are parked nearby.
+INC-20267882,2026-09-25 22:09:00,City Park West,Public Disturbance,Medium,"pls send help. Neighbours loudly fighting, sounds of thnigs breaking."
+INC-20268502,2026-09-25 22:30:00,East End Industrial,Traffic Incident,Low,Dispatch alert: Stalled vehicle with hazard lights on in the left lane. Vehicles are parked nearby.
+INC-20266751,2026-09-25 23:18:00,Downtown Transit Center,Public Disturbance,Medium,pls send help. Group of intoxicated individuals shouting and throwing bottles in the alley. Near the hospital entrance
+INC-20261660,2026-09-25 23:25:00,Highway 42 Mile 12,Property Crime,Low,"Passer-by says Lost purse, caller thinks it was dropped, wants it logged. Nearby cameras may have recorded it."
+INC-20264662,2026-09-26 00:21:00,Westside Residential,Violent Crime,Critical,"Caller's father clutching his chest, pale and sweating, possible heart attack. Caller can't give an exact address"
+INC-20262524,2026-09-26 00:37:00,University Campus,Suspicious Activity,Medium,"Urgent - Abandoned backpack on the platform, no owner in sight. Someone may be hurt, unsure how badly."
+INC-20266242,2026-09-26 00:47:00,City Park West,Public Disturbance,High,witness states: mob gathering and throwing stones at a shop after a dispute.
+INC-20262785,2026-09-26 01:27:00,City Park West,Medical Emergency,Medium,"Anonymous tip: Elderly woman feeling dizzy and faint after standing up, now sitting down."
+INC-20265656,2026-09-26 02:19:00,Main St & 4th Ave,Violent Crime,Critical,"Caller reports: Shooter active inside the downtown mall, multiple people down, request immediate backup. People are leaving the area. Vehicles are parked nearby."
+INC-20265837,2026-09-26 02:28:00,Downtown Transit Center,Public Disturbance,Low,"Dispute between hawkers about stall locations, voices raised. Situation has been going on for a while. A man was seen running away."
+INC-20269017,2026-09-26 02:40:00,Main St & 4th Ave,Medical Emergency,Medium,"Caller reports: Player injured leg at the sports ground, possible fracture, conscious and stable. Ambulance access is from the main entrance."
+INC-20265360,2026-09-26 03:32:00,University Campus,Violent Crime,Critical,"911 call: Woman being attacked by a man in the parking lot, screaming for help. People are leaving the area"
+INC-20264425,2026-09-26 03:47:00,Northside Mall,Violent Crime,Low,911 call: Caller is afraid of an ex who keeps threatening to hurt them. People are leaving the area.
+INC-20269507,2026-09-26 06:11:00,Northside Mall,Traffic Incident,High,"Man with diabetes acting disoriented and shaky, may need urgent glucose."
+INC-20261346,2026-09-26 07:41:00,Northside Mall,Suspicious Activity,High,Dispatch alert: Strong chemical smell and a man hruriedly leaving a rented garage. No crime has been confirmed yet.
+INC-20267542,2026-09-26 09:32:00,Northside Mall,Public Disturbance,Medium,Update: Drunk group yelling and hurling bottles in the back alley.
+INC-20269823,2026-09-26 10:01:00,Central Station,Suspicious Activity,High,passer-by says person carrying a suspicious package and acting nervously near the stadium. caller did not approach the subject. caller can't give an exact address.
+INC-20266044,2026-09-26 10:22:00,Downtown Transit Center,Public Disturbance,Medium,verbal dispute between two men outside a bar is escalating and may turn physical.
+INC-20266250,2026-09-26 10:57:00,University Campus,Traffic Incident,Medium,"Two-wheeler skidded on a wet road, rider has scrapes and is sitting up. Other drivers are slowing down."
+INC-20266301,2026-09-26 10:59:00,Northside Mall,Suspicious Activity,Low,Anonymous tip: Unfamiliar vehicle circling the cul-de-sac for the past 30 minutes.
+INC-20269506,2026-09-26 11:19:00,Downtown Transit Center,Medical Emergency,Critical,Dispatch alert: Overdose reported in public restroom. Need EMTs immediately. Alcohol may be involved
+INC-20266961,2026-09-26 11:58:00,University Campus,Medical Emergency,High,"Person fell from a ladder, conscious but cannot move tehir legs. Caller is staying on the line. A crowd is watching."
+INC-20265321,2026-09-26 12:29:00,City Park West,Traffic Incident,High,"911 call: Car travelling against traffic on the interstate at high speed, head-on crash likely. Other drivers are slowing down. Caller heard a loud noise earlier."
+INC-20266225,2026-09-26 12:34:00,Highway 42 Mile 12,Property Crime,Medium,Skimming device found on the ATM card slot. Suspect description is limited.
+INC-20261040,2026-09-26 12:50:00,Central Station,Public Disturbance,Medium,911 call: verbal dispute between two men outside a bar is escalating and may turn physical. corwd size is changing
+INC-20260037,2026-09-26 12:52:00,Highway 42 Mile 12,Suspicious Activity,High,Passer-by says Strong chemical smell and a man hurriedly leaving a rented garage. Behaviour started about twenty minutes ago. A man was seen running away.
+INC-20263057,2026-09-26 12:59:00,University Campus,Traffic Incident,Medium,"Update: Lagre pothole causing multiple flat tyres on the bridge. Someone may be hurt, unsure how badly."
+INC-20269382,2026-09-26 13:05:00,University Campus,Traffic Incident,Medium,"Motorcyclist slipped on oil, minor injuries, bike blocking part of the lane. Other drivers are slowing down. Alcohol may be involved"
+INC-20268869,2026-09-26 13:30:00,Westside Residential,Medical Emergency,Critical,"Anonymous tip: Convulsions followed by unresponsiveness, no history of epilepsy."
+INC-20269455,2026-09-26 13:42:00,Highway 42 Mile 12,Property Crime,High,"Passer-by says Fire set deliberately at a garage, flames reaching the adjacent property. Suspect description is limited."
+INC-20267136,2026-09-26 14:27:00,East End Industrial,Medical Emergency,High,"dispatch alert: diabetic patient confused and sweating, barely able to speak."
+INC-20266494,2026-09-26 15:35:00,Central Station,Medical Emergency,Medium,caller has had a mild headache and nausea since morning and wants advice. caller is not a medical professional. caller is frightened
+INC-20262489,2026-09-26 16:17:00,East End Industrial,Traffic Incident,High,"Witness states: Lorry hit the central divider, driver concsious but hurt. Caller can't give an exact address."
+INC-20267363,2026-09-26 17:07:00,Westside Residential,Violent Crime,High,FYI: Group of men beating a teenager outside the school. Responding units should approach with caution. Near the hospital entrance.
+INC-20266757,2026-09-26 17:25:00,East End Industrial,Property Crime,Medium,Officer on scene notes: Storefront defaced with paint during the night. Nearby cameras may have recorded it.
+INC-20268972,2026-09-26 19:56:00,City Park West,Public Disturbance,Medium,Several heavily intoxicated people shouting and smashing bottles in the alleyway. It is dark and hard to see
+INC-20264409,2026-09-26 20:52:00,Westside Residential,Medical Emergency,Low,"officer on scnee notes: small cut on a finger, bleeding controlled, wants first aid advice."
+INC-20266773,2026-09-27 00:46:00,Highway 42 Mile 12,Property Crime,Medium,"Update: Burglary reported at a house, broken window, intruder arleady left the scene. Suspect description is limited"
+INC-20268955,2026-09-27 01:52:00,Main St & 4th Ave,Public Disturbance,Medium,FYI: Rowdy supporters causing a scene on the road after the game. Several onlookers are present.
+INC-20262958,2026-09-27 02:07:00,Central Station,Suspicious Activity,Medium,Dispatch alert: Group of men watching the jewellery store from across the street.
+INC-20265017,2026-09-27 02:38:00,East End Industrial,Suspicious Activity,Medium,Dispatch alert: Unattended bag left in the station concourse for over an hour. No crime has been confirmed yet. A man was seen running away.
+INC-20267724,2026-09-27 03:21:00,Westside Residential,Public Disturbance,Medium,Caller reports: Football fans fighting and singing loudly on the street after the match. Crowd size is changing
+INC-20267988,2026-09-27 04:41:00,Highway 42 Mile 12,Suspicious Activity,Low,FYI: Unknown car has been driving round and round the cul-de-sac for half an hour.
+INC-20264808,2026-09-27 07:26:00,City Park West,Public Disturbance,Low,teeangers loitering and playing loud music in the park after closing time. situation has been going on for a while.
+INC-20268410,2026-09-27 07:26:00,Downtown Transit Center,Public Disturbance,Medium,911 call: Lagre crowd blocking the road during an unauthorised protest. Situation has been going on for a while. Caller can't give an exact address.
+INC-20263667,2026-09-27 07:36:00,Central Station,Suspicious Activity,Low,Officer on scene notes: Stranger taking photos of the bank entrance. No crime has been confirmed yet. Caller can't give an exact address.
+INC-20260365,2026-09-27 07:42:00,Highway 42 Mile 12,Medical Emergency,High,"FYI: Passenger coughing up blood on the platform, looks very weak. Shop owners are outside."
+INC-20268931,2026-09-27 07:56:00,Westside Residential,Medical Emergency,Critical,Caller reports: Person had a seizure and is not waking up. Caller is not a medical professional. Claler can't give an exact address.
+INC-20266129,2026-09-27 08:40:00,Downtown Transit Center,Traffic Incident,Medium,"Urgent - Severe multi-vehicle collision blocking all lanes. Fluids leaking, high risk of fire. Road is wet."
+INC-20261909,2026-09-27 08:59:00,Main St & 4th Ave,Violent Crime,Critical,"Witness states: Assault in progress at the car park, victim screaming. People are leavnig the area. A man was seen running away."
+INC-20268396,2026-09-27 08:59:00,City Park West,Violent Crime,High,"Attempted abduction of a young girl, van left the scene. People are leaving the area"
+INC-20265550,2026-09-27 09:22:00,Westside Residential,Suspicious Activity,Low,Passer-by says Man photographing the bank's front door and cameras repeatedly. Claler wishes to stay anonymous. Caller can't give an exact address.
+INC-20266112,2026-09-27 09:35:00,City Park West,Public Disturbance,Medium,"Passer-by says Large branch blocking the road, vehicles diverting. Traffic is backing up. Caller can't give an exact address."
+INC-20268266,2026-09-27 10:10:00,Highway 42 Mile 12,Medical Emergency,Critical,"Toddler pulled from the swimimng pool, not responding."
+INC-20261263,2026-09-27 10:15:00,Downtown Transit Center,Medical Emergency,Medium,pls send help. Person fainted briefly at a bus stop and is now awake and talking.
+INC-20264723,2026-09-27 10:30:00,Central Station,Traffic Incident,High,"Passer-by says Vehcile driving wrong way on the interstate at high speeds, potential for head-on collision. Other drivers are slowing down. Caller is frightened."
+INC-20264919,2026-09-27 13:06:00,City Park West,Public Disturbance,Medium,"Dispatch alert: Two people shouting at each other outside the bar, argument getting more heated."
+INC-20268044,2026-09-27 13:10:00,Main St & 4th Ave,Property Crime,Medium,"Caller reports: Storefront defaced with paint during the night. Estimated loss still being assessed. Somoene may be hurt, unsure how badly."
+INC-20267646,2026-09-27 13:17:00,University Campus,Suspicious Activity,Low,911 call: Same car with someone inside parked on the street for two days. Near the hospital entrance.
+INC-20263799,2026-09-27 14:29:00,East End Industrial,Medical Emergency,Low,Officer on scene notes: Caller has had a mild headache and nausea since morning and wants advice. Caller is frightened
+INC-20268144,2026-09-27 15:07:00,Highway 42 Mile 12,Traffic Incident,Low,Anonymous tip: Vehicle parked illegally in front of a fire hydrant for the last two hours. A man was seen running away.
+INC-20261527,2026-09-27 16:57:00,Highway 42 Mile 12,Property Crime,Medium,fyi: skimming device fonud on the atm card slot. caller is willing to file a report.
+INC-20267596,2026-09-27 18:30:00,Westside Residential,Public Disturbance,Medium,Dispatch alert: Football fans fighting and singing loudly on the street after the match. Situation has been going on for a while. Alcohol may be involved.
+INC-20262901,2026-09-27 18:44:00,Downtown Transit Center,Violent Crime,High,"911 call: Muggnig at knifepoint, suspect fled on foot, victim shaken. Responding units should approach with caution."
+INC-20262565,2026-09-27 19:48:00,Downtown Transit Center,Public Disturbance,Medium,"Unplanned demonstration blocking traffic, crowd growing. Situation has been going on for a while. Near the hospital entrance."
+INC-20265570,2026-09-27 20:55:00,Northside Mall,Public Disturbance,High,Mob gathering and throwing stones at a shop after a dispute.
+INC-20260269,2026-09-27 21:10:00,Central Station,Property Crime,Medium,"Passer-by says Parts cut off a parked vehicle overnight, exhaust section missing. Vehicles are parked nearby."
+INC-20262707,2026-09-27 22:24:00,Downtown Transit Center,Property Crime,Low,911 call: Mailbox damaged by an unknown person during the night. Caller is willing to file a report
+INC-20269261,2026-09-27 23:31:00,Main St & 4th Ave,Property Crime,Medium,Anonymous tip: Storefront defaced with paint during the night.
+INC-20262690,2026-09-28 01:21:00,City Park West,Suspicious Activity,Medium,"passer-by says abandoned backpack on the platform, no owner in sight. no crime has been confirmed yet. caller heard a loud nosie earlier."
+INC-20269683,2026-09-28 02:28:00,Central Station,Suspicious Activity,Medium,Unattneded bag left in the station concourse for over an hour.
+INC-20266586,2026-09-28 03:13:00,City Park West,Traffic Incident,Medium,"anonymous tip: tree fallen across the road after the storm, cars stopped. traffic is backing up. someone may be hurt, unsure how badly."
+INC-20260276,2026-09-28 05:29:00,Central Station,Medical Emergency,Critical,"Anaphylaxis suspected: swelling face, patient cannot breathe propelry and is turning blue"
+INC-20267138,2026-09-28 05:41:00,Highway 42 Mile 12,Traffic Incident,Low,pls send help. Broken traffic light causing slow-moving queues at the crossing.
+INC-20260233,2026-09-28 05:44:00,Main St & 4th Ave,Property Crime,Medium,"Officer on scene notes: Shop owner reports shoplifting, suspect left with electronics. A man was seen running away."
+INC-20264101,2026-09-28 06:06:00,Highway 42 Mile 12,Property Crime,High,"Witness states: Fire set deliberately at a garage, flames reaching the adjacent property. Claler is willing to file a report. Near the hospital entrance."
+INC-20269917,2026-09-28 09:05:00,Downtown Transit Center,Property Crime,Low,"Anonymous tip: Wallet reported lost at the market, no sign of theft. Nearby cameras may have recorded it."
+INC-20265878,2026-09-28 09:47:00,Downtown Transit Center,Suspicious Activity,Medium,Anonymous tip: Vacant warehouse unlocked with a torch beam visible inside. Behaviour started about twenty minutes ago. Caller heard a loud noise earlier.
+INC-20265584,2026-09-28 12:23:00,City Park West,Public Disturbance,Medium,Anonymous tip: Drunk man shouting abuse at passers-by near the bus station. Several onlookers are present. It is dark and hard to see.
+INC-20261032,2026-09-28 13:07:00,East End Industrial,Traffic Incident,Medium,"Tree fallen across the road after the storm, cars stopped. Calelr is frightened."
+INC-20262332,2026-09-28 13:34:00,Central Station,Public Disturbance,Medium,Man hanging around the ATM and aggrsesively demanding money from users. Situation has been going on for a while.
+INC-20262197,2026-09-28 16:18:00,Downtown Transit Center,Public Disturbance,High,Mob gathering and throwing stones at a shop after a dispute. Crowd size is changing. Alcohol may be involved.
+INC-20260056,2026-09-28 17:24:00,Central Station,Violent Crime,Critical,"Gunman firing in the downtown shopping mall with several casualties, backup needed now. Responding units should approach with caution. Close to the police station."
+INC-20260855,2026-09-28 17:58:00,Westside Residential,Property Crime,Medium,"cash machine tampered with, device attahced to the card reader."
+INC-20260648,2026-09-28 18:25:00,Westside Residential,Traffic Incident,High,"Vehicle driving wrong way on the interstate at high speeds, potential for head-on collision. It is dark and hard to see."
+INC-20261966,2026-09-28 19:10:00,Northside Mall,Public Disturbance,Critical,"dispatch alert: angry crowd pelting stones at a store, shutters being damaged."
+INC-20262932,2026-09-28 19:12:00,Central Station,Public Disturbance,Medium,update: football fans fighting and singing loudly on the street after the match. crowd size is changing. close to the police station
+INC-20267022,2026-09-28 20:03:00,Northside Mall,Suspicious Activity,Low,911 call: man photographing the bank's front door and caemras repeatedly. no crime has been confirmed yet
+INC-20263853,2026-09-28 20:06:00,University Campus,Medical Emergency,High,"Man with diabetes acting disoriented and shaky, may need urgnet glucose."
+INC-20269714,2026-09-28 21:25:00,Central Station,Public Disturbance,Medium,Witness states: Footblal fans fighting and singing loudly on the street after the match. Several onlookers are present.
+INC-20262028,2026-09-29 00:21:00,Main St & 4th Ave,Public Disturbance,Medium,FYI: Intoxicated person harassing commuters at the station. Caller heard a loud niose earlier.
+INC-20269605,2026-09-29 02:15:00,East End Industrial,Public Disturbance,Medium,Man hanging around the ATM and aggressively demanding money from users. Nearby residents are being affected. Vehicles are parked nearby.
+INC-20262762,2026-09-29 02:31:00,University Campus,Traffic Incident,Low,"Empty vehicle left on the hihgway shoulder, nobody inside or nearby. Traffic is backing up"
+INC-20267624,2026-09-29 03:32:00,Highway 42 Mile 12,Suspicious Activity,Medium,911 call: Vacant warehouse unlocked with a torch beam visible inside. Caller wishes to stay anonymous
+INC-20260051,2026-09-29 04:26:00,City Park West,Traffic Incident,High,"anonymous tip: hit-and-run at high speed, driver fleeing north, injured party needs medical help urgently."
+INC-20268620,2026-09-29 04:52:00,Main St & 4th Ave,Medical Emergency,Critical,"dispatch alert: person found unconscious in a public restroom, suspected overdose. send paramedics now. ambulance access is from the main entrance."
+INC-20262034,2026-09-29 06:23:00,University Campus,Public Disturbance,High,"brawl invovling a dozen people at the nightclub entrance, some bleeding. situation has been going on for a while. caller heard a loud noise earlier"
+INC-20264519,2026-09-29 07:00:00,University Campus,Medical Emergency,Medium,"Urgent - Person fell from a ladder, conscious but cannot move their legs. Vehicles are parked nearby."
+INC-20269932,2026-09-29 07:00:00,Main St & 4th Ave,Suspicious Activity,High,Urgent - Nervous individual with a heavy bag avoiding security at the stadium gate. Claler did not approach the subject. Caller can't give an exact address
+INC-20267608,2026-09-29 07:11:00,Main St & 4th Ave,Suspicious Activity,Low,FYI: Small drone hovering above houses late in the evening. Caller heard a loud noise earlier.
+INC-20266920,2026-09-29 07:34:00,Highway 42 Mile 12,Traffic Incident,Medium,"urgent - motorcyclist slipped on oil, minor injuries, bike blocking part of the lane. traffic is backing up."
+INC-20266029,2026-09-29 08:08:00,Main St & 4th Ave,Violent Crime,High,"Dispatch alert: Robbery at knifepoint on the street, victim lost phone and wallet, no injuries. Caller is sheltering in a safe spot. A man was seen running away."
+INC-20261846,2026-09-29 08:15:00,East End Industrial,Violent Crime,Critical,"Witness states: Man with a knife is threatening people on the street, send units immediately. A crowd is watching"
+INC-20268698,2026-09-29 09:37:00,East End Industrial,Property Crime,Medium,witness states: graffiti on the shop shutters and walls overnight.
+INC-20269241,2026-09-29 09:42:00,Northside Mall,Suspicious Activity,Low,Dispatch alert: Unnkown van parked outside the school for several hours. Near the hospital entrance
+INC-20262662,2026-09-29 10:08:00,Downtown Transit Center,Suspicious Activity,Low,Caller reports: Person looking into parked cars with a flashlight. Behaviour started about twenty minutes ago
+INC-20262656,2026-09-29 10:34:00,City Park West,Violent Crime,Critical,"critical emergency: armed robbery in progress at the convenience store, suspects have weapons"
+INC-20267841,2026-09-29 10:48:00,City Park West,Medical Emergency,Low,"Officer on scene notes: Truck double parked in front of the shop, narrowing the road. Caller can't give an exact address"
+INC-20267558,2026-09-29 11:13:00,Westside Residential,Traffic Incident,High,"Anonymous tip: Major pile-up involving sevreal vehicles, every lane blocked, fuel leaking with fire risk. Traffic is backing up. Close to the police station."
+INC-20263314,2026-09-29 12:05:00,East End Industrial,Suspicious Activity,Low,Witness states: Same car with someone inside parked on the street for two days.
+INC-20267424,2026-09-29 12:19:00,Downtown Transit Center,Violent Crime,Critical,"FYI: Woman being attacked by a man in the parking lot, scremaing for help"
+INC-20266334,2026-09-29 13:19:00,Main St & 4th Ave,Medical Emergency,Critical,"urgent - toddler pulled from the swimming pool, not responding. caller heard a loud noise earlier."
+INC-20264076,2026-09-29 13:29:00,Westside Residential,Public Disturbance,High,"witness states: brawl involving a dozen people at the nightclub entrance, some bleeding. crowd size is changing. alcohol may be involved."
+INC-20261299,2026-09-29 15:25:00,Westside Residential,Medical Emergency,Low,Passer-by says Person fainted briefly at a bus stop and is now awake and talking. Bystanders are assisting.
+INC-20261714,2026-09-29 15:58:00,Northside Mall,Violent Crime,Medium,"Anonymous tip: Threatening messages received from an ex-partner, caller fears for safety."
+INC-20261349,2026-09-29 16:32:00,East End Industrial,Suspicious Activity,Medium,anonymous tip: unknown person repeatedly asking about the neighbour's whereabouts. caller did not approach the subject. claler is frightened
+INC-20267683,2026-09-29 18:09:00,Westside Residential,Property Crime,Medium,"pls send help. Car broken into overnight, side window smashed and stereo missing. Nearby cameras may have recorded it"
+INC-20263617,2026-09-29 18:44:00,City Park West,Violent Crime,Medium,"Caller reports: Shopkeeper hit in the face during a quarrel, bruised and angry."
+INC-20268153,2026-09-29 19:36:00,East End Industrial,Medical Emergency,Critical,Severe allergic reaction. Patient is turning blue and struggling to breathe. Ambulance access is from the main entrance.
+INC-20266743,2026-09-29 20:14:00,Highway 42 Mile 12,Property Crime,Medium,"Burglary reported at a house, broken window, intruder already left the scene. Someone may be hurt, unsure how badly."
+INC-20265106,2026-09-29 21:48:00,Main St & 4th Ave,Public Disturbance,Low,"Dispatch alert: Aggressive stray dogs roaming near the school, parents concerned"
+INC-20260515,2026-09-29 22:05:00,East End Industrial,Suspicious Activity,Low,anonymous tip: person sleeping in a parked car for two days.
+INC-20264669,2026-09-29 22:58:00,Westside Residential,Suspicious Activity,Low,Unknown car has been driving ruond and round the cul-de-sac for half an hour.
+INC-20262300,2026-09-29 23:48:00,Central Station,Traffic Incident,Low,"Car has been blocking a fire hydrant for two hours. Road is wet. Someone may be hurt, unsure how badly."
+INC-20263344,2026-09-30 01:31:00,East End Industrial,Property Crime,Medium,Owner reports a bike taekn from the rack at the grocery store. Security camera footage exists.
+INC-20267346,2026-09-30 01:34:00,Main St & 4th Ave,Violent Crime,High,"Witness states: Reported kidnapping attempt, man tried to drag a girl into a van."
+INC-20261302,2026-09-30 02:34:00,East End Industrial,Traffic Incident,High,"911 call: Car swerving dangerously across lanes, driver appears intoxicated. Caller heard a loud noise earlier."
+INC-20264120,2026-09-30 04:44:00,City Park West,Medical Emergency,High,"Caller reports: Worker fell from scaffolding, awake but complaining of sevree back pain and numb legs"
+INC-20265549,2026-09-30 04:57:00,Highway 42 Mile 12,Medical Emergency,Critical,Dispatch alert: Person had a seizure and is not waking up. Caller is staying on the line
+INC-20267166,2026-09-30 06:06:00,East End Industrial,Violent Crime,Critical,"Update: Hostage situation reported at the bank, armed man inside."
+INC-20263862,2026-09-30 06:08:00,University Campus,Violent Crime,Critical,"Urgent - Shots fired near the market, people running and screaming. Responding units should approach with caution"
+INC-20260321,2026-09-30 06:15:00,Highway 42 Mile 12,Property Crime,Medium,"Burglary reported at a house, broken window, intruder already left the scene. Caller is willing to file a report. A crowd is watching"
+INC-20264231,2026-09-30 06:55:00,Central Station,Violent Crime,High,"Robbery at knifepoint on the street, victim lost phone and wallet, no injuries. People are leaving the area. Close to the police station."
+INC-20264925,2026-09-30 07:49:00,Westside Residential,Suspicious Activity,Low,Anonymous tip: Stranger taking photos of the bank entrance. Behaviour started about twenty minutes ago. Shop owners are outside.
+INC-20261546,2026-09-30 07:53:00,City Park West,Public Disturbance,High,"pls send help. Brawl involivng a dozen people at the nightclub entrance, some bleeding. A man was seen running away."
+INC-20266935,2026-09-30 08:04:00,Highway 42 Mile 12,Violent Crime,High,"reported kidnapping attempt, man tried to drag a girl into a van. responding units should approach with caution. caller can't give an exact address."
+INC-20266829,2026-09-30 08:27:00,Main St & 4th Ave,Public Disturbance,Medium,"Neighbours loudly fighting, sounds of things breaking. Several onlookers are present. It is dark and hard to see"
+INC-20267622,2026-09-30 10:07:00,Central Station,Suspicious Activity,Low,Anonymous tip: Rseident reports an unfamiliar vehicle repeatedly looping the dead-end street for 30 minutes. Caller heard a loud noise earlier.
+INC-20264507,2026-09-30 10:30:00,City Park West,Property Crime,Medium,Passer-by says Storefront defaced with paint druing the night. A crowd is watching.
+INC-20268759,2026-09-30 10:54:00,Westside Residential,Violent Crime,Medium,"Threatening messages received from an ex-partner, caller fears for safety. Responding units should approach with caution. Caller can't give an exact address."
+INC-20263707,2026-09-30 11:09:00,Central Station,Traffic Incident,Medium,"small collision in the parking lot, nobody hurt and traffic is flowing."
+INC-20261691,2026-09-30 12:28:00,Highway 42 Mile 12,Public Disturbance,Low,Street performer with a loud speaker disturbing nearby shops. Vehicles are parked nearby.
+INC-20263871,2026-09-30 13:33:00,East End Industrial,Property Crime,Medium,Owner reports a bike taken from the rack at the grocery store. Security camera footage exists. Vehicles are parked nearby.
+INC-20264202,2026-09-30 13:50:00,University Campus,Property Crime,Medium,"Dispatch alert: Cash machine tampered with, device attached to the card reader. Estimated loss still being assessed."
+INC-20269444,2026-09-30 13:57:00,Northside Mall,Property Crime,Medium,"FYI: Homeowner reports a break-in. Window smashed, suspect fled 10 minutes ago. A man was seen running away."
+INC-20269722,2026-09-30 14:48:00,University Campus,Public Disturbance,Medium,Drunk group yelling and hurling bottles in the back alley. Situation has been going on for a while
+INC-20266849,2026-09-30 15:39:00,Highway 42 Mile 12,Traffic Incident,Critical,Person hit by a car on the crossing and lying motionless on the road. Road is wet
+INC-20264006,2026-09-30 16:08:00,Westside Residential,Public Disturbance,Medium,FYI: Drunk man shouting abuse at passers-by near the bus station.
+INC-20266462,2026-09-30 16:27:00,Downtown Transit Center,Violent Crime,High,"Passer-by says Reported kidnapping attempt, man treid to drag a girl into a van. Caller is sheltering in a safe spot. A man was seen running away"
+INC-20264213,2026-09-30 16:46:00,Northside Mall,Traffic Incident,High,"Wrong-way driver speeding down the interstate, serious risk of a head-on collision. Road is wet."
+INC-20260900,2026-09-30 18:17:00,Highway 42 Mile 12,Property Crime,Medium,"Passer-by says Cash machine tampered with, device attached to the card reader. Caller is willing to file a report. Vehicles are parked nearby"
+INC-20262775,2026-09-30 18:51:00,Westside Residential,Suspicious Activity,Medium,911 call: Caller says a stranger keeps asking neighbours when the family leaves home. Caller wishes to stay anonymous. Caller heard a loud noise earlier
+INC-20264817,2026-09-30 19:56:00,City Park West,Traffic Incident,High,"Caller reports: Car travelling against traffic on the interstate at high speed, head-on crash likely. Shop owners are outside."
+INC-20264181,2026-09-30 20:02:00,Downtown Transit Center,Property Crime,Medium,"Dispatch alert: Bicycle theft outside the supermarket, lock cut, store cameras may have captured it"
+INC-20262412,2026-09-30 21:16:00,Westside Residential,Violent Crime,Low,pls send help. Street performer with a loud speaker disturbing naerby shops.
+INC-20262067,2026-09-30 22:43:00,Central Station,Public Disturbance,High,"Officer on scene notes: Individual loitering by the cash machine, pressuring passersby for money. Crowd size is changing."
+INC-20266730,2026-09-30 23:13:00,Northside Mall,Medical Emergency,Critical,"Urgent - Woman in labour, contractions two minutes apart, baby is crowning."
+INC-20262009,2026-09-30 23:18:00,Central Station,Public Disturbance,High,mob gathering and throwing stones at a shop atfer a dispute.
+INC-20260047,2026-09-30 23:20:00,Main St & 4th Ave,Property Crime,Medium,"Dispatch alert: Car broken into overnight, side window smashed and stereo missing. Caller can't give an exact address."
+INC-20262459,2026-09-30 23:53:00,Downtown Transit Center,Public Disturbance,Medium,FYI: Man hanging around the ATM and aggresisvely demanding money from users. It is dark and hard to see.
+INC-20268990,2026-09-30 23:58:00,University Campus,Traffic Incident,Low,passer-by says double parked delivery truck blocking one lane
+INC-20268886,2026-10-01 00:17:00,City Park West,Property Crime,Low,"Update: Letterbox found broken outside the house, no other damage."
+INC-20261292,2026-10-01 01:07:00,Northside Mall,Property Crime,High,"Burglary in progress, caller hears intruders inside the neighbouring house"
+INC-20265357,2026-10-01 01:50:00,University Campus,Suspicious Activity,Medium,Urgent - Unknown person repeatedly asking about the neighbour's whereabouts. A man was seen running away.
+INC-20266010,2026-10-01 02:29:00,City Park West,Public Disturbance,Medium,Drunk group yelling and hurling bottles in the back alley. Crowd size is changing. Caller can't give an exact address.
+INC-20266513,2026-10-01 02:40:00,Westside Residential,Traffic Incident,Low,"abandoned car on the shoulder of the highway, no passengers inside. caller heard a loud noise earlier."
+INC-20260055,2026-10-01 03:30:00,East End Industrial,Public Disturbance,Low,"Dispatch alert: Busker playing amplified music near the market, shopkeepers complaining. Several onlookers are present."
+INC-20269695,2026-10-01 03:33:00,Westside Residential,Public Disturbance,Medium,pls send help. Large crowd blocking the road during an unauthorised protest. Vehicles are parked nearby.
+INC-20261311,2026-10-01 03:36:00,University Campus,Medical Emergency,Critical,"Update: Anaphylaxis suspected: swelling face, patient cannot breathe properly and is turning blue. Bystanders are assisting."
+INC-20260597,2026-10-01 04:23:00,Northside Mall,Property Crime,Medium,"Witness states: Car broken into overnight, side window smashed and stereo missing. Nearby cameras may have recorded it."
+INC-20264351,2026-10-01 06:21:00,Northside Mall,Public Disturbance,Medium,Update: Intoxicated person harassing commuters at the station. Caller can't give an exact address.
+INC-20263841,2026-10-01 07:38:00,Central Station,Medical Emergency,High,"Witness states: Person fell from a ladder, conscious but cannot move their legs."
+INC-20267479,2026-10-01 08:15:00,Central Station,Property Crime,Low,911 call: Mailbox damaged by an unknown person during the night.
+INC-20263614,2026-10-01 08:18:00,East End Industrial,Traffic Incident,Low,urgent - broken trfafic light causing slow-moving queues at the crossing. it is dark and hard to see.
+INC-20262245,2026-10-01 10:08:00,Downtown Transit Center,Suspicious Activity,Low,911 call: unknown van parked outside the school for several hours. caller did not approach the subject. caller is frightened
+INC-20266192,2026-10-01 11:07:00,City Park West,Property Crime,High,"Dispatch alert: Burglary in progress, caller hears intruders inside the neighbouring house. Suspect description is limited."
+INC-20261697,2026-10-01 11:17:00,University Campus,Property Crime,Medium,"Officer on scene notes: Store theft reported, man walked out with merchandise without paying. Caller is willing to file a report. It is dark and hard to see."
+INC-20263898,2026-10-01 11:18:00,Northside Mall,Traffic Incident,Critical,"Witness states: Bus overturned with passengers trapped, people screaming for help."
+INC-20268337,2026-10-01 11:30:00,City Park West,Violent Crime,Critical,"Update: Woman being attacked by a man in the parking lot, screaming for help. Several callres are reporting this. Shop owners are outside."
+INC-20265280,2026-10-01 12:21:00,Westside Residential,Violent Crime,High,"911 call: Attempted abduction of a young girl, van left the scene. Several callers are reporting this. Vehicles are parked nearby"
+INC-20266639,2026-10-01 13:22:00,Westside Residential,Traffic Incident,High,"Update: Car swerving dangerously across lanes, driver appears intoxicated."
+INC-20261560,2026-10-01 14:08:00,City Park West,Medical Emergency,Critical,"Witness states: Convulsions followed by unresponsiveness, no history of epilepsy. Caller is staying on the line."
+INC-20264737,2026-10-01 14:48:00,Westside Residential,Traffic Incident,Critical,Person hit by a car on the crossing and lying motionless on the road. Plate number partially noted.
+INC-20263169,2026-10-01 14:49:00,Central Station,Public Disturbance,Medium,neighbors complain of a loud party with fireworks going off in a residential street. several onlookers are present.
+INC-20264484,2026-10-01 19:32:00,Westside Residential,Violent Crime,Critical,"Passer-by says Shooter active inside the downtown mall, multiple people down, request immediate backup. Several callers are reporting this."
+INC-20264661,2026-10-01 21:33:00,Main St & 4th Ave,Violent Crime,High,"Wtiness states: Chest pain radiating down the arm, patient is grey and short of breath. Bystanders are assisting."
+INC-20268207,2026-10-01 23:07:00,Central Station,Property Crime,Low,"Caller reports: Letterbox found broken oustide the house, no other damage. Alcohol may be involved."
+INC-20262244,2026-10-02 01:41:00,University Campus,Public Disturbance,Low,"pls send help. Dispute between hawkers abuot stall locations, voices raised."
+INC-20269293,2026-10-02 01:46:00,Main St & 4th Ave,Property Crime,Low,"pls send help. Lost purse, caller thinks it was dropped, wants it logged. Nearby cameras may have recorded it."
+INC-20260646,2026-10-02 02:19:00,Main St & 4th Ave,Public Disturbance,Medium,"Passer-by says Neighbours loudly fighting, sounds of things breaking."
+INC-20261175,2026-10-02 04:13:00,City Park West,Medical Emergency,Low,"Witness states: Feeling slightly unwell with a low fever, not an emergency, needs guidance. Bystanders are assisting. Shop owners are outside."
+INC-20268402,2026-10-02 04:14:00,Central Station,Violent Crime,High,Caller is afraid of an ex who keeps threatening to hurt them.
+INC-20264380,2026-10-02 04:15:00,Highway 42 Mile 12,Violent Crime,Critical,"Passer-by says Shooter active inside the downtown mall, multiple people down, request immeditae backup. A man was seen running away"
+INC-20265974,2026-10-02 05:26:00,City Park West,Violent Crime,Critical,"pls send help. Gunman holding employees at the bank, people trapped. People are leaving the area."
+INC-20266104,2026-10-02 06:00:00,City Park West,Public Disturbance,Medium,Urgent - Verbal dispute between two men outside a bar is escalating and may turn physical. Alcohol may be involved.
+INC-20266552,2026-10-02 06:17:00,East End Industrial,Property Crime,Low,"Officer on scene notes: Car broken into overnight, side window smasehd and stereo missing"
+INC-20267595,2026-10-02 06:22:00,Westside Residential,Suspicious Activity,Low,Van with tinted windows idle near the school gates since morning. Caller did not approach the subject. Close to the police station.
+INC-20261751,2026-10-02 07:29:00,City Park West,Medical Emergency,Medium,"Urgent - Player injured leg at the sports ground, possible fracture, conscious and stable. Ambulance access is from the main entrance"
+INC-20263081,2026-10-02 08:21:00,Northside Mall,Property Crime,Low,"Garden tools missing from the bcakyard shed, no forced entry."
+INC-20263426,2026-10-02 08:45:00,City Park West,Traffic Incident,Medium,"Officer on scene notes: Motorcyclist slipped on oil, mnior injuries, bike blocking part of the lane. A man was seen running away"
+INC-20266847,2026-10-02 08:47:00,East End Industrial,Public Disturbance,Medium,"Dispute between hwakers about stall locations, voices raised"
+INC-20263591,2026-10-02 09:19:00,City Park West,Public Disturbance,Medium,Several heavily intoxicated people shouting and smashing bottles in the alleyway. Situation has been going on for a while. Vehicles are parked nearby.
+INC-20269645,2026-10-02 10:38:00,University Campus,Public Disturbance,High,"fyi: fight between two groups outside the club, injuries reported. several onlookers are present. caller is frightened"
+INC-20260152,2026-10-02 11:32:00,City Park West,Traffic Incident,High,"Truck lost control and crashed into the divider, driver injured. Traffic is backing up. It is dark and hard to see."
+INC-20260533,2026-10-02 12:14:00,Highway 42 Mile 12,Medical Emergency,High,"Diabetic patient confused and sweating, barely able to speak. Caller is not a medical professional. Close to the police station."
+INC-20264132,2026-10-02 13:09:00,Main St & 4th Ave,Violent Crime,Critical,"Passer-by says Gunifre at the market square, crowds fleeing"
+INC-20269448,2026-10-02 13:28:00,City Park West,Traffic Incident,Critical,Passer-by says Drunk driver weaving across lanes on the highway. Shop owners are outside.
+INC-20269058,2026-10-02 13:57:00,Main St & 4th Ave,Public Disturbance,Medium,Anonymous tip: Large crowd blocking the road during an unauthorised protest. A man was seen running away.
+INC-20268606,2026-10-02 14:15:00,Main St & 4th Ave,Medical Emergency,Medium,"player injured leg at the sprots ground, possible fracture, conscious and stable."
+INC-20260339,2026-10-02 14:31:00,University Campus,Suspicious Activity,Low,Someone walking along the street peering into parked cars with a torch
+INC-20267081,2026-10-02 15:11:00,Highway 42 Mile 12,Traffic Incident,Critical,"Bus overturned with passegners trapped, people screaming for help"
+INC-20268137,2026-10-02 15:35:00,Highway 42 Mile 12,Property Crime,Medium,"update: cash machine tampered with, device attached to the card reader. nearby cameras may have recorded it."
+INC-20264841,2026-10-02 15:51:00,Main St & 4th Ave,Property Crime,Medium,"Officer on scene notes: Vehicle break-in in the apartment parking, glass on the ground and items taken"
+INC-20262678,2026-10-02 15:55:00,University Campus,Traffic Incident,High,"Dispatch alert: Lrory hit the central divider, driver conscious but hurt"
+INC-20260730,2026-10-02 16:11:00,Downtown Transit Center,Traffic Incident,Medium,Pothole damaged tyres of several cars on the main road.
+INC-20266097,2026-10-02 16:33:00,Northside Mall,Suspicious Activity,Low,"Person sleeping in a parked car for two days. Behaviour started about twenty minutes ago. Someone may be hurt, unsure how badly"
+INC-20267371,2026-10-02 17:03:00,Highway 42 Mile 12,Medical Emergency,Critical,"Person fuond unconscious in a public restroom, suspected overdose. Send paramedics now."
+INC-20269476,2026-10-02 17:17:00,City Park West,Medical Emergency,Critical,"person found unconscious in a public restroom, suspected overdose. send parmaedics now. ambulance access is from the main entrance."
+INC-20265448,2026-10-02 18:08:00,Main St & 4th Ave,Property Crime,Low,Dispatch alert: Mailbox damaged by an unknown person during the night. Suspect description is limited
+INC-20267446,2026-10-02 20:37:00,City Park West,Property Crime,Medium,Witness states: Catalytic converter stolen from a parked car at the depot. Suspect descritpion is limited. Caller can't give an exact address.
+INC-20265700,2026-10-02 20:46:00,Westside Residential,Public Disturbance,Medium,"FYI: Fight between two gropus outside the club, injuries reported. Close to the police station."
+INC-20269040,2026-10-02 20:52:00,City Park West,Traffic Incident,Low,Stalled vehicle with hazard lights on in the left lane. Caller is frightened.
+INC-20269595,2026-10-02 21:04:00,Highway 42 Mile 12,Property Crime,Medium,"911 call: Burglary reported at a house, broken window, intruder already left the scene"
+INC-20264963,2026-10-02 21:49:00,University Campus,Violent Crime,Critical,Passer-by says Life-threatening situation. Caller reports multiple gunshots and someone is severely bleeding. Alcohol may be involved
+INC-20264644,2026-10-02 22:00:00,Downtown Transit Center,Property Crime,Medium,"Update: Group of teens currently spray painting graffiti on the library wall. Estimated loss still being assessed. Someone may be hurt, unsure how badly."
+INC-20261810,2026-10-02 23:34:00,Northside Mall,Medical Emergency,Critical,"Caller reports: Pregnant wmoan about to deliver at the bus stop, cannot make it to hospital. Ambulance access is from the main entrance. A man was seen running away."
+INC-20269414,2026-10-03 00:07:00,Westside Residential,Traffic Incident,Low,"Witness states: Small cut on a finger, bleeding controlled, wants first aid advice. It is dark and hard to see."
+INC-20260839,2026-10-03 00:31:00,Central Station,Property Crime,Medium,Caller reports: Vandalism in progress: teenagers spray painting the side of the library. Supsect description is limited.
+INC-20260144,2026-10-03 00:55:00,Highway 42 Mile 12,Public Disturbance,High,"officer on scene notes: man stabbed in the arm during an argument, bleeding but conscious."
+INC-20264025,2026-10-03 01:04:00,Highway 42 Mile 12,Property Crime,High,"Officer on scnee notes: Neighbour's house being broken into right now, people seen moving inside. Nearby cameras may have recorded it. It is dark and hard to see."
+INC-20260977,2026-10-03 01:33:00,Downtown Transit Center,Property Crime,Low,witness states: mailbox damaged by an unknown person during the night. estimated loss still being assessed.
+INC-20263497,2026-10-03 01:47:00,Central Station,Violent Crime,Critical,"Critical emergency: Armed robbery in progress at the convenience store, suspects have weapons. Close to the police station"
+INC-20264462,2026-10-03 02:12:00,Westside Residential,Public Disturbance,Low,"Anonymous tip: Car brkoe down in the slow lane, driver waiting for help. Other drivers are slowing down."
+INC-20264222,2026-10-03 02:16:00,Main St & 4th Ave,Violent Crime,High,"Witness states: Man stabbed in the arm during an argument, bleeding but conscious. Close to the police station."
+INC-20268872,2026-10-03 02:23:00,Downtown Transit Center,Public Disturbance,High,"fyi: brawl involving a dozen people at the nigthclub entrance, some bleeding. crowd size is changing. caller is frightened."
+INC-20265788,2026-10-03 02:23:00,Northside Mall,Medical Emergency,Critical,"Anonymous tip: Child found floating in the pool, not breathing, parents attempting rescue breaths. Caller is not a medical professional."
+INC-20266356,2026-10-03 04:06:00,Westside Residential,Public Disturbance,Low,Anonymous tip: Street perforemr with a loud speaker disturbing nearby shops. Several onlookers are present
+INC-20269730,2026-10-03 04:39:00,Northside Mall,Property Crime,High,"burglary in progress, caller hears intruders inside the neighbouring house. estimtaed loss still being assessed."
+INC-20263187,2026-10-03 04:41:00,Downtown Transit Center,Traffic Incident,High,"Anonymous tip: Major pile-up involving several vehicles, every lane blocked, fuel laeking with fire risk. Other drivers are slowing down. Close to the police station."
+INC-20260787,2026-10-03 05:24:00,University Campus,Property Crime,Medium,Caatlytic converter stolen from a parked car at the depot. A crowd is watching.
+INC-20266346,2026-10-03 05:38:00,Northside Mall,Property Crime,Medium,"Car broken into overnight, side wnidow smashed and stereo missing. Alcohol may be involved."
+INC-20268463,2026-10-03 05:52:00,Northside Mall,Property Crime,Medium,Passer-by says Resident says someone broke in through a smashed window and ran off about ten minutes ago. Caller is willing to file a report. Shop owners are outside.
+INC-20260182,2026-10-03 06:45:00,Downtown Transit Center,Traffic Incident,High,"fyi: wrong-way driver speeding down the interstate, serious risk of a head-on collision. traffic is backing up. it is dark and hard to see."
+INC-20265216,2026-10-03 07:47:00,Westside Residential,Violent Crime,Critical,"Caller reports: Critical emergency: Armed robbery in progress at the convenience store, suspects have weapons"
+INC-20269449,2026-10-03 07:58:00,Central Station,Medical Emergency,High,"Dispatch alert: Person fell from a ladder, conscious but cannot move their legs. Bystanders are assisting. Caller is frightened."
+INC-20264178,2026-10-03 08:54:00,Main St & 4th Ave,Violent Crime,Medium,"Update: Shokpeeper hit in the face during a quarrel, bruised and angry"
+INC-20265068,2026-10-03 09:08:00,Main St & 4th Ave,Public Disturbance,Medium,"Drunk group yelling and hurling bottles in the back alley. Several onlookers are present. Someone may be hurt, unsure how badly."
+INC-20265427,2026-10-03 10:40:00,Downtown Transit Center,Suspicious Activity,Low,Witness states: Man photographing the bank's front door and cameras repeatedly. Close to the police station
+INC-20266709,2026-10-03 10:42:00,Central Station,Violent Crime,Critical,"Gunman firing in the downtown shopping mall with several casualties, backup neeedd now. A crowd is watching."
+INC-20269874,2026-10-03 10:44:00,University Campus,Property Crime,Medium,"Vehicle break-in in the apartment parking, glass on the ground and items taken. Caller is willing to file a report."
+INC-20267721,2026-10-03 12:15:00,East End Industrial,Property Crime,Medium,dispatch alert: resident says someone broke in thorugh a smashed window and ran off about ten minutes ago. nearby cameras may have recorded it. caller heard a loud noise earlier.
+INC-20263150,2026-10-03 13:02:00,Highway 42 Mile 12,Public Disturbance,High,"Angry crowd pelting stones at a store, shutters being damaged. Caller can't give an exact address."
+INC-20263303,2026-10-03 14:18:00,Highway 42 Mile 12,Property Crime,Medium,"FYI: Cash machine tampered with, device attached to the card reader. Suspect description is limited."
+INC-20260664,2026-10-03 14:42:00,Central Station,Violent Crime,Medium,"urgent - threatening messages received from an ex-partner, caller feras for safety. several callers are reporting this"
+INC-20260635,2026-10-03 15:49:00,Central Station,Violent Crime,High,"Anonymous tip: Domestic violence call, husband hitting his wife, children inside. Caller is sheltering in a safe spot."
+INC-20262652,2026-10-03 17:27:00,University Campus,Public Disturbance,Low,"Anonymous tip: Aggressive stray dogs roaming near the school, parents concerned. A crowd is watching."
+INC-20262686,2026-10-03 17:37:00,Main St & 4th Ave,Medical Emergency,High,"Officer on scene notes: Diabetic patient confused and sweating, barely able to speak. Caller can't give an exact address."
+INC-20267577,2026-10-03 20:09:00,Westside Residential,Violent Crime,Medium,"Shopkeeper hit in the face during a quarrel, bruised and angry. Caller is sheltering in a safe spot. It is dark and hard to see"
+INC-20267579,2026-10-03 20:14:00,City Park West,Traffic Incident,High,"FYI: Serious multi-car crash closing all lanes, fluids spilling and fire hazard present. Plate number partially noted."
+INC-20269355,2026-10-03 20:55:00,Westside Residential,Traffic Incident,Low,pls send help. vehicle parked illegally in front of a fire hydrant for the last two hours. traffic is backing up.
+INC-20263021,2026-10-03 21:26:00,Downtown Transit Center,Medical Emergency,Critical,"pls send help. Caller's father clutching his chest, pale and sweating, possible heart attack. Caller is not a medical professional. A man was seen running away."
+INC-20261899,2026-10-03 22:10:00,Central Station,Violent Crime,High,"Officer on scene notes: Attempted abduction of a young girl, van left the scene. Several callers are reporting this. Shop owners are outside."
+INC-20260525,2026-10-03 22:53:00,Northside Mall,Suspicious Activity,Low,Package left unattended near the entrance of the government building. Caller did not approach the subject.
+INC-20267983,2026-10-04 00:54:00,University Campus,Traffic Incident,Medium,"pls send help. Motorcyclist slipped on oil, minor injuries, bike blocking part of the lane. Other drivers are slowing down"
+INC-20263170,2026-10-04 01:38:00,Downtown Transit Center,Violent Crime,High,"Caller reports: Stab wound to the arm after a quarrel, victim talking, suspect fled. People are leaving the area."
+INC-20269593,2026-10-04 01:45:00,Highway 42 Mile 12,Violent Crime,Critical,"911 call: Active sohoter reported in the downtown mall. Multiple casualties, need immediate backup."
+INC-20267531,2026-10-04 02:45:00,University Campus,Property Crime,Medium,"officer on scene notes: shop onwer reports shoplifting, suspect left with electronics. estimated loss still being assessed. alcohol may be involved."
+INC-20269109,2026-10-04 05:13:00,Highway 42 Mile 12,Violent Crime,Medium,"Shopkeeper hit in the face during a quarrel, bruised and angry."
+INC-20269075,2026-10-04 05:40:00,Downtown Transit Center,Property Crime,Low,Preson sleeping in a parked car for two days
+INC-20266083,2026-10-04 06:23:00,University Campus,Suspicious Activity,Medium,"Homeowner reports a break-in. Window smashed, supsect fled 10 minutes ago. Nearby cameras may have recorded it. It is dark and hard to see"
+INC-20261664,2026-10-04 07:59:00,Northside Mall,Medical Emergency,High,Anonymous tip: High speed hit-and-run crash. Vehicle is fleeing northbound. Urgent medical needed. Plate number partially noted.
+INC-20268988,2026-10-04 10:48:00,Downtown Transit Center,Public Disturbance,Medium,"Unplanned demonstration blocking traffic, crowd growing. Situation has been going on for a while."
+INC-20265021,2026-10-04 11:45:00,Downtown Transit Center,Public Disturbance,Low,Teenagers loitering and playing loud music in the park after closing time.
+INC-20260299,2026-10-04 12:00:00,Northside Mall,Property Crime,Medium,"shop owner reports shoplifting, suspect left with electronics."
+INC-20266614,2026-10-04 12:09:00,Downtown Transit Center,Traffic Incident,High,"Dispatch alert: Car swerving dangerously across lanes, driver appears intoxicated. Caller heard a loud noise earlier."
+INC-20269215,2026-10-04 12:14:00,University Campus,Property Crime,High,"urgent - neighbour's house being broken into right now, people seen moving inside. suspect description is limited. caller heard a loud noise earlier."
+INC-20264553,2026-10-04 12:42:00,Main St & 4th Ave,Suspicious Activity,Low,Caller reports: Same car with someone inside parked on the street for two days. Caller wishes to stay anonymous.
+INC-20263480,2026-10-04 12:55:00,City Park West,Traffic Incident,Medium,"911 call: Lorry hit the central divider, driver conscious but hurt. Plate number partially noted. Shop owners are outside."
+INC-20269152,2026-10-04 13:55:00,Highway 42 Mile 12,Traffic Incident,High,"911 call: Vehicle driving wrong way on the interstate at high speeds, potential for head-on collision. Traffic is backing up."
+INC-20265387,2026-10-04 14:16:00,University Campus,Public Disturbance,High,Urgent - Mob gathering and throwing stones at a shop after a dispute
+INC-20261280,2026-10-04 14:27:00,Central Station,Medical Emergency,High,"Update: Man vomiting blood in the train station, pale and weak. Vehicles are parked nearby."
+INC-20267594,2026-10-04 14:45:00,East End Industrial,Violent Crime,Critical,"Officer on scene notes: Man with a knife is threatening people on the street, send units immediately. Several callers are reporting this"
+INC-20263588,2026-10-04 14:47:00,Main St & 4th Ave,Suspicious Activity,Low,Dispatch alert: Small drone hovering above houses late in the evening
+INC-20265071,2026-10-04 15:40:00,Central Station,Medical Emergency,High,"Urgent - Diabetic patient confused and sweating, barely able to speak."
+INC-20267454,2026-10-04 15:57:00,Northside Mall,Property Crime,Medium,"Dispatch alert: Homeowner reports a break-in. Window smashed, suspect fled 10 minutes ago. Nearby cameras may have recorded it."
+INC-20263784,2026-10-04 16:36:00,Westside Residential,Medical Emergency,Critical,"Anonymous tip: Woman in labour, contractions two minutes apart, baby is crowning. Bystanders are assisting"
+INC-20267101,2026-10-04 17:12:00,Main St & 4th Ave,Public Disturbance,Low,"pls send help. aggressive stary dogs roaming near the school, parents concerned. it is dark and hard to see."
+INC-20268421,2026-10-04 17:24:00,Highway 42 Mile 12,Violent Crime,Critical,"pls send help. Gunman holding employees at the bank, people trapped. Responding units should apporach with caution"
+INC-20267843,2026-10-04 17:29:00,Westside Residential,Medical Emergency,High,"Passer-by says Man having chest pain and sweating, says the pain is srpeading to his left arm. Caller is not a medical professional."
+INC-20261434,2026-10-04 17:32:00,Highway 42 Mile 12,Traffic Incident,Critical,"witness states: hit-and-run at high speed, driver fleeing north, injured party needs medical help urgently. plate number partially noted. vehicles are parked nearby"
+INC-20262549,2026-10-04 18:00:00,Main St & 4th Ave,Violent Crime,Critical,"assault in progress at the car park, victim screaming."
+INC-20263082,2026-10-04 18:04:00,East End Industrial,Public Disturbance,Medium,"Caller reports: Two people shouting at each other outside the bar, argument getting more heated."
+INC-20261070,2026-10-04 18:08:00,Main St & 4th Ave,Property Crime,Medium,pls send help. Owner reports a bike taken from the rack at the grocery store. Security camera footage exists. Estimated loss still being assessed.
+INC-20260226,2026-10-04 18:31:00,Westside Residential,Traffic Incident,Low,"pls send help. minor fender bender in the parking lot, no injuries, traffic not blocked. other drivers are slowing down."
+INC-20262745,2026-10-04 18:36:00,Downtown Transit Center,Public Disturbance,High,"911 call: Brawl involving a doezn people at the nightclub entrance, some bleeding."
+INC-20269798,2026-10-04 22:31:00,Main St & 4th Ave,Violent Crime,Critical,"Anonymous tip: Gunfire at the market square, crowds fleeing."
+INC-20261104,2026-10-04 22:47:00,Westside Residential,Public Disturbance,Low,Teenagers loitering and playing loud music in the park after closing time. Situation has been going on for a while.
+INC-20269260,2026-10-04 22:47:00,Highway 42 Mile 12,Violent Crime,High,"Man beating his partner at home, kids crying, caller hears screams. Several callers are reporting this."
+INC-20266842,2026-10-04 23:15:00,East End Industrial,Violent Crime,High,"pls send help. Stab wound to the arm after a quarrel, victim talking, suspect fled."
+INC-20264516,2026-10-04 23:58:00,Westside Residential,Traffic Incident,High,"Witness states: Wrong-way driver speeding down the interstate, serious risk of a head-on collision. Plate number partially noted. Caller is frightened"
+INC-20266855,2026-10-05 00:04:00,University Campus,Suspicious Activity,Low,911 call: Mailbox damaged by an unknown person during the night. Nearby cameras may have recorded it
+INC-20266446,2026-10-05 00:06:00,Central Station,Medical Emergency,Critical,"Anonymous tip: Cocah rolled over on the road, many injured and trapped. Plate number partially noted"
+INC-20263716,2026-10-05 00:40:00,Northside Mall,Public Disturbance,Medium,Caller reports: Neighbors complain of a loud party with fireworks going off in a residential street. Several onlookers are present.
+INC-20266468,2026-10-05 01:03:00,Northside Mall,Medical Emergency,Low,"Urgent - Person with a minor cut on the hand needs a bandage, bleeding has stopped."
+INC-20268683,2026-10-05 01:25:00,Downtown Transit Center,Medical Emergency,Critical,"Urgent - Toddler pulled from the swimming pool, not responding. Close to the police station."
+INC-20266704,2026-10-05 02:59:00,Main St & 4th Ave,Traffic Incident,High,"911 call: Car swerving dangerously across lanes, driver apepars intoxicated. Other drivers are slowing down."
+INC-20263933,2026-10-05 03:13:00,East End Industrial,Traffic Incident,Low,"update: small collision in the parking lot, nobody hurt and traffic is flowing"
+INC-20262719,2026-10-05 04:06:00,City Park West,Public Disturbance,Low,"Domestic argument heard through the wall, shouting and objects being thrown. Nearby residents are being affected. Caller heard a loud noise earlier."
+INC-20268663,2026-10-05 04:20:00,Highway 42 Mile 12,Property Crime,Medium,"911 call: Scooter taken from the street overnight, owner has the registration details. Near the hospital entrance."
+INC-20262591,2026-10-05 05:27:00,Northside Mall,Public Disturbance,Low,Dispatch alert: Unknown van parked outside the school for several hours
+INC-20267621,2026-10-05 07:38:00,Main St & 4th Ave,Traffic Incident,High,"passer-by says large branch blocking the road, vehicles diverting."
+INC-20265968,2026-10-05 07:48:00,Highway 42 Mile 12,Suspicious Activity,Low,officer on scene notes: man photographing the bank's front door and cameras repeatedly. caller heard a loud noise earlier
+INC-20266983,2026-10-05 08:44:00,Downtown Transit Center,Suspicious Activity,Low,911 call: small drone hovering above houses late in the evening
+INC-20263986,2026-10-05 09:43:00,Downtown Transit Center,Traffic Incident,Low,pls send help. Illegally parked vehicle obstructing the fire hydrant since two hours ago. Caller is frightened
+INC-20267168,2026-10-05 11:07:00,University Campus,Traffic Incident,Critical,"Bus overturned with pasesngers trapped, people screaming for help. Traffic is backing up."
+INC-20261878,2026-10-05 13:08:00,Downtown Transit Center,Public Disturbance,Medium,Update: Football fans fighting and singing loudly on the street after the match. Situation has been gonig on for a while.
+INC-20263652,2026-10-05 13:16:00,Main St & 4th Ave,Traffic Incident,High,"Officer on scene notes: Lorry hit the cnetral divider, driver conscious but hurt."
+INC-20260340,2026-10-05 13:22:00,Westside Residential,Medical Emergency,Critical,Witness states: Severe allergic reaction. Patient is turning blue and struggling to breathe
+INC-20260688,2026-10-05 13:37:00,Highway 42 Mile 12,Suspicious Activity,Low,small drone hovering above houses late in the evening. shop owners are outside.
+INC-20266885,2026-10-05 13:42:00,Northside Mall,Suspicious Activity,High,Officer on scene notes: Nervous individual with a heavy bag avoiding security at the stadium gate. No crime has been confirmed yet. Caller can't give an exact address
+INC-20263584,2026-10-05 13:55:00,Westside Residential,Medical Emergency,High,"Man vomiting blood in the train station, pale and weak. Caller is staying on the line. Caller can't give an exact address."
+INC-20269323,2026-10-05 14:06:00,Northside Mall,Medical Emergency,High,"Dispatch alert: Man vomiting blood in the train station, pale and weak. A crowd is watching"
+INC-20264418,2026-10-05 15:25:00,Downtown Transit Center,Public Disturbance,Medium,Officer on scene notes: Abandoned package spotted near the front doors of a government office. Caller did not approach the subject. Clsoe to the police station
+INC-20268854,2026-10-05 15:48:00,Westside Residential,Traffic Incident,Critical,Person hit by a car on the crossing and lying motionless on the road.
+INC-20264096,2026-10-05 17:39:00,Highway 42 Mile 12,Medical Emergency,Medium,"Older lady lightheaded and weak at the market, alret and talking."
+INC-20266365,2026-10-05 18:07:00,Central Station,Violent Crime,Medium,FYI: Group of men beating a teenager outside the school. Caller is sheltering in a safe spot
+INC-20267891,2026-10-05 18:23:00,Main St & 4th Ave,Traffic Incident,Critical,"Caller reports: Pedestrian struck by a speeding car, not moving, heavy bleeding. Claler is frightened."
+INC-20260639,2026-10-05 19:16:00,City Park West,Property Crime,High,"Update: Store theft reported, man walked out with merchandise without paying."
+INC-20262579,2026-10-05 19:53:00,Westside Residential,Suspicious Activity,Medium,Several men observing the jewellery shop for a long time. Behaviour started about twenty minutes ago. Alcohol may be involved.
+INC-20268978,2026-10-05 21:51:00,Northside Mall,Property Crime,Medium,"911 call: Parts cut off a parked vehicle overnight, exhaust section missing. Suspect description is limited."
+INC-20268244,2026-10-05 21:57:00,Main St & 4th Ave,Violent Crime,High,Dispatch alert: Group of men beating a teenager outside the school. Responding units should approach with caution
+INC-20263580,2026-10-05 23:50:00,Northside Mall,Suspicious Activity,Medium,FYI: Group of men watcihng the jewellery store from across the street. Caller wishes to stay anonymous.
+INC-20264177,2026-10-06 00:32:00,University Campus,Medical Emergency,High,"Man with diabetes acting disoriented and shaky, may need urgent glucose. Caller is satying on the line."
+INC-20260268,2026-10-06 00:35:00,Main St & 4th Ave,Public Disturbance,Medium,Update: Man hanigng around the ATM and aggressively demanding money from users. Situation has been going on for a while
+INC-20268590,2026-10-06 00:44:00,City Park West,Suspicious Activity,Low,Caller reports: Person sleepnig in a parked car for two days. Near the hospital entrance
+INC-20263952,2026-10-06 01:03:00,City Park West,Public Disturbance,High,"anoynmous tip: fight between two groups outside the club, injuries reported. caller heard a loud noise earlier."
+INC-20263745,2026-10-06 01:47:00,East End Industrial,Traffic Incident,Low,"Caller reports: Abandoned car on the shoulder of the highway, no passengres inside. Other drivers are slowing down. Someone may be hurt, unsure how badly."
+INC-20262425,2026-10-06 02:09:00,Central Station,Traffic Incident,Critical,"anonymous tip: coach rolled over on the road, many injured and trapped. a crowd is watching."
+INC-20261762,2026-10-06 02:17:00,University Campus,Traffic Incident,Low,"Urgent - Stalled vehicle with hazard lights on in the left lane. Soemone may be hurt, unsure how badly."
+INC-20269412,2026-10-06 02:27:00,University Campus,Traffic Incident,High,"fyi: major pile-up involving several vehicles, every lane blocked, fuel leaking with fire risk. traffic is backing up"
+INC-20265706,2026-10-06 03:37:00,East End Industrial,Traffic Incident,High,"Car swerving dangerosuly across lanes, driver appears intoxicated. Other drivers are slowing down."
+INC-20264460,2026-10-06 03:37:00,Main St & 4th Ave,Traffic Incident,Medium,Anonymous tip: Large pothole causing multiple flat tyres on the bridge
+INC-20262076,2026-10-06 04:21:00,Highway 42 Mile 12,Public Disturbance,High,anonymous tip: mob gathering and throwing stones at a shop after a dispute. alcohol may be involved
+INC-20264577,2026-10-06 04:36:00,Westside Residential,Violent Crime,Critical,"Passer-by says Assault in progress at the car park, victim screaming. People are leaving the area."
+INC-20265891,2026-10-06 05:34:00,Westside Residential,Violent Crime,High,"Officer on scnee notes: Man beating his partner at home, kids crying, caller hears screams."
+INC-20263507,2026-10-06 06:15:00,Westside Residential,Violent Crime,High,"Dispatch alert: Man stabbed in the arm during an argument, bleeding but conscious. Caller is sheltering in a safe spot. Alchool may be involved"
+INC-20269921,2026-10-06 06:26:00,City Park West,Suspicious Activity,Medium,911 call: Several men observing the jewellery shop for a long time. No crime has been confirmed yet.
+INC-20261650,2026-10-06 07:17:00,University Campus,Traffic Incident,Medium,"Update: Two-wheeler skidded on a wet road, rider has scrapes and is sitting up"
+INC-20260871,2026-10-06 07:21:00,Downtown Transit Center,Public Disturbance,Medium,911 call: Rowdy supporters causing a scene on the road after the game.
+INC-20269367,2026-10-06 07:39:00,Central Station,Violent Crime,Critical,"Hostage situation reported at the bank, armed man inside."
+INC-20266022,2026-10-06 07:53:00,Main St & 4th Ave,Traffic Incident,High,"FYI: Wrong-way driver speeding down the interstate, serious risk of a head-on collision."
+INC-20262910,2026-10-06 09:29:00,Northside Mall,Suspicious Activity,Low,Unknown van parked outside the school for several hours. Caller wishes to stay anonymous
+INC-20262628,2026-10-06 10:39:00,University Campus,Violent Crime,Critical,"Caller reports: Immediate dispatch needed. Suspect is armed with a knife and actively threatening pedestrians. Responding units should approach with caution. Someone may be hurt, unsure how badly"
+INC-20267297,2026-10-06 12:28:00,Main St & 4th Ave,Traffic Incident,High,"FYI: Lorry hit the central divider, driver conscious but hurt. Caller heard a loud noise earlier."
+INC-20269639,2026-10-06 12:53:00,Westside Residential,Traffic Incident,Low,"Small collision in the parking lot, nobody hurt and traffic is flowing. Plate number partially noted."
+INC-20264331,2026-10-06 13:44:00,University Campus,Property Crime,Medium,"Update: Homeowner reports a break-in. Window smashed, suspect fled 10 minutes ago."
+INC-20267047,2026-10-06 14:33:00,University Campus,Violent Crime,Critical,"Armed robbery happening now at the corner store, suspects are carrying weapons. Caller heard a loud nosie earlier."
+INC-20266472,2026-10-06 14:51:00,University Campus,Violent Crime,Critical,"Passer-by says Armed robbrey happening now at the corner store, suspects are carrying weapons."
+INC-20268979,2026-10-06 15:02:00,University Campus,Public Disturbance,High,passer-by says mob gathering and throwing stones at a shop after a dispute. nearby residents are being affected. caller can't give an exact address.
+INC-20262306,2026-10-06 15:41:00,Highway 42 Mile 12,Violent Crime,High,"Officer on scene notes: Man beating his partner at home, kids crying, caller hears screams. People are leaving the area. Close to the police station"
+INC-20262391,2026-10-06 15:55:00,Highway 42 Mile 12,Suspicious Activity,Medium,"Officer on scene notes: Door of an empty warehouse found open, light moving inside."
+INC-20266206,2026-10-06 16:09:00,Northside Mall,Traffic Incident,Low,Update: Stalled vehicle with hazard lights on in the left lane. Road is wet. Vehicles are parked nearby.
+INC-20268200,2026-10-06 17:01:00,Westside Residential,Violent Crime,High,"Hostage situation reported at the bank, armed man inside. People are leaving the area. Caller can't give an exact address."
+INC-20267688,2026-10-06 17:17:00,Main St & 4th Ave,Suspicious Activity,Low,"passer-by says same car with someone inside parked on the street for two days. caller wishes to stay anonymous. someone may be hurt, unsure how badly."
+INC-20263916,2026-10-06 17:18:00,Highway 42 Mile 12,Medical Emergency,Critical,urgent - person had a seizure and is not waking up.
+INC-20263848,2026-10-06 18:27:00,Northside Mall,Property Crime,High,"pls send help. Cash machine tampered with, device attached to the card reader."
+INC-20261416,2026-10-06 18:30:00,Westside Residential,Property Crime,High,"caller reports: fire set deliberately at a garage, flames reaching the adjacent property. caller is willing to file a report. caller can't give an exact address."
+INC-20268657,2026-10-06 20:18:00,East End Industrial,Medical Emergency,Critical,"Anonymous tip: Man having chest pain and sweating, says the pain is spreading to his left arm."
+INC-20262511,2026-10-06 21:11:00,Highway 42 Mile 12,Public Disturbance,Medium,"Two individuals in a heated verbal altercation outside the bar, escalating quickly. Situation has been going on for a while. Caller heard a loud noise earlier."
+INC-20268880,2026-10-06 22:04:00,City Park West,Traffic Incident,Low,Update: Broken traffic light causing slow-moving queues at the crossing. Other drivers are slowing down. Close to the police station
+INC-20264258,2026-10-06 23:06:00,Westside Residential,Violent Crime,Medium,911 call: Noise complaint: loud party and fireworks in a residential neighborhood. Close to the police station
+INC-20269626,2026-10-06 23:18:00,Main St & 4th Ave,Property Crime,Medium,"Caller reports: Scooter taken from the street overnight, owner has the registration details. Estimated loss still being assessed. Shop owners are outside."
+INC-20261475,2026-10-06 23:56:00,Northside Mall,Traffic Incident,Low,"Anonymous tip: Minor fender bender in the parking lot, no injuries, traffic not blocked."
+INC-20264775,2026-10-07 00:33:00,East End Industrial,Traffic Incident,Medium,911 call: pothole damaged tryes of several cars on the main road. road is wet.
+INC-20265525,2026-10-07 01:01:00,City Park West,Traffic Incident,Low,"Urgent - Car broke down in the slow lane, driver waiting for help. Traffic is backing up"
+INC-20264672,2026-10-07 01:07:00,City Park West,Traffic Incident,Low,"Truck double parked in front of the shop, narrowing the road. Other drivres are slowing down."
+INC-20269828,2026-10-07 02:00:00,East End Industrial,Traffic Incident,Critical,"Urgent - Elderly male collapsed on the sidewalk, not breathing. CPR in progress. Vehicles are parked nearby"
+INC-20268601,2026-10-07 02:37:00,Central Station,Traffic Incident,Low,pls send help. Double parked delivery truck blocking one lane
+INC-20262272,2026-10-07 03:19:00,City Park West,Violent Crime,Critical,"pls send help. Woman being attacked by a man in the parking lot, screaming for help. Shop ownres are outside."
+INC-20268554,2026-10-07 05:02:00,Northside Mall,Traffic Incident,Critical,"Fast hit-and-run collision, suspect vehicle heading northbound, victim requires ambulance. Road is wet. Caller can't give an exact address"
+INC-20263207,2026-10-07 05:53:00,Westside Residential,Medical Emergency,Low,"Person with a minor cut on the hand needs a bandage, bleeding has stopped. Vehicles are parked nearby"
+INC-20264377,2026-10-07 05:57:00,Westside Residential,Medical Emergency,Critical,"Dispatch alert: Man having chest pain and sweating, says the pain is spreading to his left arm. Ambulance access is from the main entrance."
+INC-20263154,2026-10-07 06:01:00,Central Station,Property Crime,Medium,Storefront defaced with paint during the night. Shop owners are outside.
+INC-20261525,2026-10-07 06:11:00,University Campus,Public Disturbance,Low,Teenagers loitering and playing loud music in the park after closing time. A crowd is watching.
+INC-20260595,2026-10-07 06:17:00,City Park West,Public Disturbance,High,"Update: Fight between two groups outside the club, injuries reported"
+INC-20264755,2026-10-07 06:28:00,East End Industrial,Suspicious Activity,Low,Drone flying over the residential area at night. Caller did not approach the subject.
+INC-20264175,2026-10-07 07:03:00,East End Industrial,Public Disturbance,Medium,pls send help. Pack of stray dogs barking and chasing people close to the school gate. Situation has been going on for a while. Near the hospital entrance.
+INC-20268116,2026-10-07 09:00:00,Highway 42 Mile 12,Violent Crime,Critical,"Update: Armed robbery happening now at the corner store, suspects are carrying weapons. Several callers are reporting this. It is dark and hard to see."
+INC-20262168,2026-10-07 09:11:00,East End Industrial,Medical Emergency,Medium,"Anonymous tip: Plyaer injured leg at the sports ground, possible fracture, conscious and stable."
+INC-20265384,2026-10-07 11:08:00,Westside Residential,Violent Crime,High,Passer-by says Several men attacking a boy near the school gate. Caller can't give an exact address.
+INC-20262224,2026-10-07 11:08:00,Downtown Transit Center,Medical Emergency,Medium,Urgent - Large pothole causing multiple flat tyres on the bridge. Traffic is backing up. Alcohol may be involved.
+INC-20268100,2026-10-07 13:23:00,Highway 42 Mile 12,Traffic Incident,Medium,"Aabndoned car on the shoulder of the highway, no passengers inside. Road is wet. Caller heard a loud noise earlier"
+INC-20268963,2026-10-07 13:45:00,Central Station,Violent Crime,Medium,"Officer on scene notes: Threatening messages received from an ex-partner, caller feras for safety. Caller can't give an exact address."
+INC-20261872,2026-10-07 14:21:00,Downtown Transit Center,Violent Crime,Critical,"shooter active inside the downtown mall, multilpe people down, request immediate backup. close to the police station."
+INC-20263269,2026-10-07 14:38:00,Westside Residential,Traffic Incident,Low,FYI: Broken traffic light causing slow-moving queues at the crossing.
+INC-20262447,2026-10-07 15:10:00,University Campus,Violent Crime,Critical,"Officer on scene notes: Cirtical emergency: Armed robbery in progress at the convenience store, suspects have weapons. People are leaving the area."
+INC-20269070,2026-10-07 15:37:00,Northside Mall,Violent Crime,Medium,"domestic violence call, hsuband hitting his wife, children inside. caller is sheltering in a safe spot. caller heard a loud noise earlier."
+INC-20265364,2026-10-07 16:06:00,Downtown Transit Center,Public Disturbance,Low,Update: Pack of stray dogs barking and chasing people close to the school gate. Situation has been going on for a while.
+INC-20261753,2026-10-07 19:07:00,Central Station,Violent Crime,Medium,"Passer-by says Reported kidnapping attempt, man tired to drag a girl into a van. People are leaving the area. Shop owners are outside."
+INC-20266290,2026-10-07 19:40:00,Main St & 4th Ave,Traffic Incident,Critical,"officer on scene notes: coach rolled over on the road, many injured and trapped. plate number partially noted. it is dark and hard to see."
+INC-20260066,2026-10-07 19:58:00,Highway 42 Mile 12,Suspicious Activity,Medium,urgent - caller says a srtanger keeps asking neighbours when the family leaves home. caller did not approach the subject.
+INC-20260821,2026-10-07 20:39:00,Northside Mall,Traffic Incident,Low,"Update: Feeling slightly unwell with a low fever, not an emergency, needs guidance. Ambulance access is from the main entrance."
+INC-20262442,2026-10-07 20:42:00,East End Industrial,Public Disturbance,High,"pls send help. Brawl involving a dozen people at the nightclub entrance, some bleeding. Caller can't give an exact address."
+INC-20265854,2026-10-07 20:45:00,Westside Residential,Violent Crime,Medium,"fyi: man punched a shopkeeper during a dispute, minor injury, suspect still around."
+INC-20261111,2026-10-07 21:09:00,City Park West,Traffic Incident,Low,ofifcer on scene notes: unattended car abandoned on the side of the highway with no occupants. caller is frightened.
+INC-20266505,2026-10-07 21:52:00,Northside Mall,Property Crime,Medium,"Urgent - Cash machine tampered with, device attached to the card reader. Estimated loss still being assessed."
+INC-20268529,2026-10-07 21:52:00,Westside Residential,Violent Crime,High,"Several men attacking a boy near the school gate. Someone may be hurt, unsure how badly."
+INC-20266761,2026-10-07 22:31:00,East End Industrial,Public Disturbance,High,"Update: Brawl involving a dozen people at the nightclub entrance, some bleeding. Several onlookers are present. Someone may be hurt, unsure how badly"
+INC-20269540,2026-10-07 22:40:00,Highway 42 Mile 12,Traffic Incident,Critical,"Dispatch alert: Bus overturned with passengers trapped, people screaming for help. Plate number partially noted. Caller is frightened."
+INC-20262069,2026-10-07 23:16:00,City Park West,Medical Emergency,Critical,"dispatch alert: suspected drug overdose in the restroom, patient barely responsive. emts needed urgently. caller is staying on the line. close to the police station."
+INC-20262731,2026-10-07 23:52:00,Westside Residential,Public Disturbance,Low,"Anonymous tip: Dispute between hawkers about stall locations, voices raised. Nearby residents are being affected. Caller heard a loud noise earlier."
+INC-20266995,2026-10-08 01:52:00,Downtown Transit Center,Suspicious Activity,Low,man photographing the bank's frnot door and cameras repeatedly. no crime has been confirmed yet. a man was seen running away.
+INC-20260192,2026-10-08 02:01:00,Highway 42 Mile 12,Suspicious Activity,Low,Witness states: Drone flying over the residential area at night. Behaviour started about twenty minutes ago
+INC-20267871,2026-10-08 03:29:00,Highway 42 Mile 12,Public Disturbance,Medium,"Officer on scene notes: Two individuals in a heated verbal altercation outside the bar, escalating quickly. Nearby reisdents are being affected"
+INC-20264714,2026-10-08 03:36:00,Northside Mall,Public Disturbance,Medium,Anonymous tip: Football fans fighting and singing loudly on the street after the match. Situation has been going on for a while
+INC-20268080,2026-10-08 04:27:00,Westside Residential,Public Disturbance,High,"Angry crowd pelting stones at a store, shutters being damaged. Several onlookers are present. Near the hospital entrance."
+INC-20265461,2026-10-08 04:35:00,University Campus,Public Disturbance,High,"witness states: brawl involving a dozen people at the nightclub entrance, some bleeding. caller heard a loud noise earlier"
+INC-20264560,2026-10-08 06:39:00,University Campus,Medical Emergency,Medium,"Passer-by says Elderly woman feeling dizzy and faint after standing up, now sitting down. Caller is not a medical professional. A crwod is watching."
+INC-20267962,2026-10-08 08:03:00,Westside Residential,Suspicious Activity,High,person carrying a suspicious package and acting nervously near the stadium.
+INC-20266680,2026-10-08 09:13:00,City Park West,Property Crime,Low,Resident says someone broke in through a smashed window and ran off about ten minutes ago. Near the hospital entrance.
+INC-20268965,2026-10-08 09:22:00,Main St & 4th Ave,Traffic Incident,Critical,"Bus overturned with passengers trapped, people screaming for help. Road is wet. It is dark and hard to see."
+INC-20264003,2026-10-08 09:36:00,Westside Residential,Medical Emergency,High,"pls send help. Car swerving dangerously across lanes, driver appears intoxicated. Other drivers are slowing down. A crowd is watching."
+INC-20261747,2026-10-08 10:02:00,East End Industrial,Public Disturbance,Critical,"Gunfire at the market square, crowds fleeing. People are leaving the area."
+INC-20268725,2026-10-08 10:07:00,Northside Mall,Public Disturbance,Medium,"Officer on scene notes: Domestic argument heard through the wall, shouting and objects being thrown."
+INC-20263340,2026-10-08 10:21:00,Central Station,Public Disturbance,Medium,Dispatch alert: Rowdy supporters causing a scene on the road after the game
+INC-20265917,2026-10-08 11:08:00,East End Industrial,Violent Crime,Critical,"Witness states: Shots fired near the market, people running and screaming. Several callers are reporting this. Caller heard a loud noise earlier"
+INC-20265302,2026-10-08 12:20:00,Westside Residential,Property Crime,High,"FYI: Arson suspected, shed fire spreading to the neighbouring house. Suspect dsecription is limited."
+INC-20263754,2026-10-08 12:30:00,East End Industrial,Traffic Incident,Low,"passer-by says abandoned car on the shoulder of the highway, no passengers inside"
+INC-20264414,2026-10-08 13:49:00,University Campus,Medical Emergency,Low,"Officer on scene notes: Feeling slightly unwell with a low fever, not an emergency, needs guidance. Someone may be hurt, unsure how badly."
+INC-20261103,2026-10-08 13:56:00,City Park West,Medical Emergency,Critical,"Dispatch alert: Cnovulsions followed by unresponsiveness, no history of epilepsy. Bystanders are assisting."
+INC-20261512,2026-10-08 15:32:00,Northside Mall,Violent Crime,Low,"Witness states: Dispute between hawkers about stall locations, voices raised."
+INC-20268028,2026-10-08 15:41:00,Main St & 4th Ave,Public Disturbance,Medium,rowdy supporters causing a secne on the road after the game. several onlookers are present. it is dark and hard to see
+INC-20269046,2026-10-08 19:11:00,Northside Mall,Property Crime,Low,"Caller reports: Letterbox found broken outsdie the house, no other damage. Estimated loss still being assessed."
+INC-20266774,2026-10-08 19:45:00,Main St & 4th Ave,Medical Emergency,Critical,Urgent - Person had a seizure and is not waking up. Caller is not a medical professional. It is dark and hard to see.
+INC-20263944,2026-10-08 20:38:00,City Park West,Suspicious Activity,Low,update: package left unattended near the entrnace of the government building. caller did not approach the subject. caller heard a loud noise earlier
+INC-20264875,2026-10-08 20:54:00,City Park West,Violent Crime,High,"Update: Stab wound to the arm after a quarrel, victim talking, suspect fled."
+INC-20260429,2026-10-08 21:48:00,Central Station,Public Disturbance,Medium,Dispatch alert: Group of intoxicated individuals shouting and throwing bottles in the alley. Situation has been going on for a while.
+INC-20263282,2026-10-08 21:51:00,City Park West,Suspicious Activity,Low,"Witness states: Unattended parcel sitting by the entrance of the government building, owner unknown. Caller wishes to stay anonymous. Caller is frightened"
+INC-20264329,2026-10-08 22:54:00,Downtown Transit Center,Public Disturbance,Low,"neighbours loudly fighting, sounds of things breaking. crwod size is changing."
+INC-20260853,2026-10-08 22:54:00,Westside Residential,Property Crime,Medium,911 call: Storefront defaecd with paint during the night. Shop owners are outside.
+INC-20261127,2026-10-09 00:41:00,Downtown Transit Center,Medical Emergency,Medium,"Witness states: Elderly woman feeling dizzy and fiant after standing up, now sitting down."
+INC-20269134,2026-10-09 01:31:00,Main St & 4th Ave,Suspicious Activity,Low,Officer on scene notes: Abandoned package soptted near the front doors of a government office. Caller wishes to stay anonymous. Vehicles are parked nearby.
+INC-20262171,2026-10-09 02:37:00,Highway 42 Mile 12,Public Disturbance,Medium,911 call: rowdy supporters causing a scene on the road after the game. neabry residents are being affected. shop owners are outside.
+INC-20261947,2026-10-09 02:56:00,Westside Residential,Medical Emergency,Medium,"Witness states: Worker fell from scaffolding, awake but complaining of severe back pain and numb legs. Caller is staying on the line."
+INC-20267653,2026-10-09 04:29:00,Downtown Transit Center,Public Disturbance,Medium,FYI: Drunk man shouting abuse at passers-by near the bus station. Situation has been going on for a while.
+INC-20264057,2026-10-09 04:36:00,City Park West,Violent Crime,Medium,"Anonymous tip: Shopkeeper hit in the face during a quarrel, bruised and angry. Vehicles are parked nearby"
+INC-20269310,2026-10-09 05:06:00,East End Industrial,Public Disturbance,Medium,pls send help. Intoxicated person harassing commuters at the station. Crowd size is changing. Shop owners are outside.
+INC-20268011,2026-10-09 05:34:00,Highway 42 Mile 12,Violent Crime,Medium,"Update: Individual loitering by the cash machine, pressuring passersby for money. Several onlookers are present"
+INC-20262737,2026-10-09 05:42:00,Central Station,Violent Crime,Critical,"Assault in progress at the car park, victim screaming. Caller is sheltering in a safe spot."
+INC-20260281,2026-10-09 06:34:00,University Campus,Property Crime,Low,"FYI: Letterbox found broken outside the house, no other damage. Suspect description is limited."
+INC-20262759,2026-10-09 08:32:00,Central Station,Violent Crime,Medium,"Passer-by says Robbery at knifepoint on the street, victim lost phone and wallet, no injuries. People are leaving the area. Someone may be hurt, unsure how badly"
+INC-20261682,2026-10-09 08:45:00,Highway 42 Mile 12,Traffic Incident,High,"Anonymous tip: Bus overturned with passengers trapped, people scraeming for help. Someone may be hurt, unsure how badly."
+INC-20263974,2026-10-09 08:57:00,City Park West,Traffic Incident,High,"Caller reports: Fast hit-and-run collision, suspect vehicle heading northbound, victim requires ambulance. Traffic is backing up. Caller heard a loud noise earlier"
+INC-20263138,2026-10-09 09:23:00,Downtown Transit Center,Public Disturbance,Medium,witness states: drunk man shouting absue at passers-by near the bus station. alcohol may be involved.
+INC-20262629,2026-10-09 10:28:00,University Campus,Suspicious Activity,High,"Dispatch alert: Chemical odour from a garage, man seen rushing away carrying containers. Caller wishes to stay anonymous. Caller is frightened."
+INC-20264481,2026-10-09 11:46:00,City Park West,Property Crime,Medium,"pls send help. Burglary reported at a house, broken window, intruder already left the scene. Caller is willing to file a report."
+INC-20262550,2026-10-09 11:47:00,City Park West,Traffic Incident,High,officer on scene notes: drunk driver weaving across lanes on the highway. other drivers are slowing down. alcohol may be involved.
+INC-20261097,2026-10-09 12:07:00,City Park West,Traffic Incident,Medium,"Urgent - Motorcyclist slipped on oil, minor injuries, bike blocking part of the lane"
+INC-20265482,2026-10-09 12:18:00,City Park West,Suspicious Activity,Medium,"Door of an empty warehouse found open, light moving inside. Caller wishes to stay anonymous. Close to the police station."
+INC-20265351,2026-10-09 13:03:00,City Park West,Suspicious Activity,Medium,urgent - group of men watching the jewellery store from across the street. no crime has been confirmed yet.
+INC-20268303,2026-10-09 13:10:00,Downtown Transit Center,Property Crime,High,"Arson suspected, shed fire spreading to the neighbouring house."
+INC-20267325,2026-10-09 15:08:00,East End Industrial,Violent Crime,High,"pls send help. Neighbour's house being broken into right now, people seen moving inside. Nearby cameras may have recorded it. Alcohol may be involved."
+INC-20261929,2026-10-09 15:21:00,Downtown Transit Center,Public Disturbance,High,"Update: Fight between two groups outside the club, injuries reported. A man was seen running away."
+INC-20263450,2026-10-09 15:46:00,Westside Residential,Traffic Incident,Critical,"Passer-by says Pedestrian struck by a speeding car, not moving, heavy bleeding. Road is wet."
+INC-20262128,2026-10-09 19:21:00,East End Industrial,Traffic Incident,High,"Anonymous tip: Fast hit-and-run collision, suspect vehicle heading northbound, victim requires ambulance. Near the hospital entrance"
+INC-20267517,2026-10-09 20:21:00,Main St & 4th Ave,Suspicious Activity,Low,Caller reports: Unknown car has been driving round and round the cul-de-sac for half an hour. Caller can't give an excat address.
+INC-20266716,2026-10-09 20:50:00,University Campus,Suspicious Activity,Low,Man photographing the bank's front door and cameras repeatedly. Behaviour started about twenty minutes ago.
+INC-20261756,2026-10-09 22:42:00,Westside Residential,Public Disturbance,High,Urgent - Mob gathering and throwing stones at a shop after a dispute. Situation has been going on for a while. It is dark and hard to see.
+INC-20268538,2026-10-09 23:04:00,East End Industrial,Property Crime,Low,"Officer on scene notes: Garden tools missing from the backyard shed, no forced entry. Shop owners are outside"
+INC-20267265,2026-10-10 00:17:00,Main St & 4th Ave,Traffic Incident,High,"Wrong-way driver speeding down the interstate, serious risk of a head-on collision. Other drivers are slowing down"
+INC-20260763,2026-10-10 00:20:00,East End Industrial,Suspicious Activity,Medium,Urgent - Caller says a stranger keeps asking neighbours when the family levaes home. Behaviour started about twenty minutes ago. Near the hospital entrance.
+INC-20261231,2026-10-10 00:23:00,University Campus,Medical Emergency,High,"911 call: Man vomiting blood in the trian station, pale and weak."
+INC-20268603,2026-10-10 01:00:00,City Park West,Traffic Incident,Critical,"Anonymous tip: Bus overturned with passengers trapped, people screaming for help"
+INC-20262904,2026-10-10 02:02:00,Central Station,Medical Emergency,High,"Officer on scene notes: Man with diabetes acting disoriented and shaky, may need urgent glucose. Caller is satying on the line. Near the hospital entrance"
+INC-20264077,2026-10-10 02:07:00,University Campus,Traffic Incident,Medium,urgent - large pothole causing mlutiple flat tyres on the bridge. caller is frightened
+INC-20261858,2026-10-10 02:21:00,Downtown Transit Center,Violent Crime,High,"Urgent - Man beating his patrner at home, kids crying, caller hears screams"
+INC-20268351,2026-10-10 02:34:00,City Park West,Traffic Incident,Low,FYI: Large pothole causing multpile flat tyres on the bridge. Road is wet.
+INC-20264913,2026-10-10 03:27:00,Main St & 4th Ave,Violent Crime,High,"pls send help. Man beating his partner at home, kids crying, caller hears screams."
+INC-20260405,2026-10-10 03:33:00,Downtown Transit Center,Traffic Incident,Medium,"Anonymous tip: Two-wheeler skidded on a wet road, rider has scrapes and is sitting up. Other drivers are slowing down. A crowd is watching"
+INC-20267813,2026-10-10 04:48:00,Downtown Transit Center,Traffic Incident,High,"Passer-by says Two-wheeler skidded on a wet road, rider has scrapes and is sitting up. Traffic is backing up"
+INC-20267149,2026-10-10 05:03:00,Central Station,Public Disturbance,Low,passer-by says group of intoxicated individuals shouting and throwing bottles in the alley. nearby residents are being affected.
+INC-20267142,2026-10-10 05:26:00,Central Station,Medical Emergency,Critical,"Patient having a serious allergic reaction, lips turning blue and gasping for air. Caller is staying on the line. Shop owners are outside."
+INC-20263458,2026-10-10 05:52:00,East End Industrial,Public Disturbance,Medium,"Neighbours loudly fighting, sounds of things breaking. Several onlookers are present."
